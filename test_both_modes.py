@@ -7,12 +7,12 @@ import os
 import sys
 import asyncio
 from pathlib import Path
-
+import dotenv
 
 def check_requirements():
     """Check if all required packages and files are available."""
     print("🔍 Checking requirements...")
-    
+    dotenv.load_dotenv()
     # Check API keys
     api_keys = {
         "OPENAI_API_KEY": os.getenv("OPENAI_API_KEY"),

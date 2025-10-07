@@ -348,7 +348,7 @@ Be objective and precise in your scoring.
         try:
             # Use Gemini to evaluate the response
             response = self.gemini_client.models.generate_content(
-                model='gemini-1.5-pro',
+                model='gemini-2.5-flash-lite-preview-06-17',
                 contents=evaluation_prompt
             )
             

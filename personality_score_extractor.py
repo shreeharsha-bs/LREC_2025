@@ -274,7 +274,7 @@ Return JSON format:
 """
         
         response = gemini_client.models.generate_content(
-            model="models/gemini-2.0-flash-exp",
+            model="models/gemini-2.5-flash-lite-preview-06-17",
             contents=[{"parts": [{"text": simple_prompt}]}]
         )
         

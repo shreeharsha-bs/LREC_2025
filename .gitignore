@@ -5,3 +5,4 @@ response_task*
 speaker_profiles
 batch_results
 longform_evaluations
+__pycache__
