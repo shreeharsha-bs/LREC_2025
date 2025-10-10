@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "2_s19_therapy_therapy_20251009_013026.wav",
+  "transcript_file": "2_s19_therapy_therapy_20251009_013026_transcript.txt",
+  "timestamp": "2025-10-09T01:30:45.481705",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps by suggesting breaking down tasks, planning a schedule, including breaks, and practicing deep breathing. These are all actionable steps the user can take to manage their anxiety. While it also mentions seeking professional help, the primary focus is on what the user can do themselves.",
+      "evidence": "Break down your tasks for the week into smaller, manageable steps. Take some time Sunday evening to plan out a realistic schedule. Make sure to include breaks and activities you enjoy. Practice some deep breathing exercises or mindfulness"
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response begins with \"I'm really sorry you're feeling this way,\" which acknowledges the user's feelings. However, the validation is brief and not particularly strong. It identifies the potential source of the feelings (anticipatory anxiety) which indicates understanding, but could be more empathetic in its response.",
+      "evidence": "\"I'm really sorry you're feeling this way. It sounds like you might be dealing with some anticipatory anxiety.\""
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response primarily focuses on improvement and growth through actionable steps to manage anxiety, such as task breakdown, scheduling, and relaxation techniques. It does not suggest avoidance or withdrawal. Seeking professional help is presented as an option for continued improvement if the initial steps are insufficient.",
+      "evidence": "Break down your tasks for the week into smaller, manageable steps. Take some time Sunday evening to plan out a realistic schedule. Make sure to include breaks and activities you enjoy. Practice some deep breathing exercises or mindfulness to help ease the physical tension."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

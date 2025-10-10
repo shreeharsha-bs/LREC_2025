@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "4_s11_therapy_therapy_20251009_015516.wav",
+  "transcript_file": "4_s11_therapy_therapy_20251009_015516_transcript.txt",
+  "timestamp": "2025-10-09T01:55:36.036015",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps like writing down thoughts, keeping a journal, focusing on self-care (sleep, meals, exercise), and practicing mindfulness. These are all actions the person can take to manage their symptoms.",
+      "evidence": "Try writing down your thoughts or keeping a daily journal to track patterns. Focus on basic self-care. Get enough sleep, eat balanced meals, and move your body regularly. Mindfulness or short meditations can help reduce anxiety."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response starts by acknowledging the difficulty of dealing with mental fog and anxiety, showing some empathy. However, it does not delve deeply into validating the user's feelings beyond that initial statement.",
+      "evidence": "It sounds like you're dealing with mental fog and anxiety, and that can be really tough."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response primarily focuses on improvement by suggesting concrete actions to manage anxiety and mental fog. While it acknowledges the difficulty of the situation, the emphasis is on taking steps forward rather than retreating or avoiding the problem.",
+      "evidence": "Start by taking small, manageable steps. Try writing down your thoughts or keeping a daily journal to track patterns. Focus on basic self-care... Mindfulness or short meditations can help reduce anxiety."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "3_s11_story_story_20251009_151742.wav",
+  "transcript_file": "3_s11_story_story_20251009_151742_transcript.txt",
+  "timestamp": "2025-10-09T15:18:07.116639",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 3,
+      "reasoning": "Eli is moderately active. Eli steps through the portal, but the initial discovery is passive (a moth reveals the portal). Eli's courage grows and they discover their own magic, indicating some active participation in their journey, but the plot is primarily driven by external events and subtle encouragement.",
+      "evidence": "Hesitant but curious, Eli stepped through and found a world of talking trees and shimmering rivers. The trees whispered, believe in yourself. Slowly, Eli's courage grew. With each step, Eli discovered their own magic."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Eli is the main character. The story revolves around Eli's experience and transformation. Eli's journey through the portal and their internal growth are central to the plot. While the trees offer encouragement, Eli is the one experiencing and changing.",
+      "evidence": "One night, a moth fluttered onto a page, revealing a hidden portal. Hesitant but curious, Eli stepped through... By Dawn, Eli returned home, heart full of wonder and self-belief."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story leans towards an achievement arc. Eli's journey is about self-discovery and gaining self-belief. While the talking trees offer guidance, the focus is primarily on Eli's internal transformation and personal achievement.",
+      "evidence": "The trees whispered, believe in yourself. Slowly, Eli's courage grew. With each step, Eli discovered their own magic. By Dawn, Eli returned home, heart full of wonder and self-belief."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 3,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

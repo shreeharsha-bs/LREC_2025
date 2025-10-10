@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "1_s36_story_story_20251009_145836.wav",
+  "transcript_file": "1_s36_story_story_20251009_145836_transcript.txt",
+  "timestamp": "2025-10-09T14:58:58.579899",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 3,
+      "reasoning": "The protagonist is moderately active. They 'stepped through' the portal and 'befriended a timid dragon'. These actions show some agency in shaping the story, but they are not particularly proactive or decisive.",
+      "evidence": "Hesitant but curious, they stepped through and found themselves in a land ruled by shadows With only their kind heart as a guide they befriended a timid dragon Together they restored light to the kingdom"
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "The protagonist is the main character with good agency. The story focuses on their experience of entering the portal, befriending the dragon, and restoring light to the kingdom. While the dragon assists, the story centers on the protagonist's journey.",
+      "evidence": "Once, in a quiet village, there lived someone who never thought they were brave...With only their kind heart as a guide they befriended a timid dragon Together they restored light to the kingdom Returning home they realized they had found courage when they least expected it"
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story leans toward achievement over relational aspects. The primary focus is on 'restoring light to the kingdom', a clear achievement. There's a relational element through befriending the dragon, but the narrative emphasis is on accomplishing the goal.",
+      "evidence": "With only their kind heart as a guide they befriended a timid dragon Together they restored light to the kingdom Returning home they realized they had found courage when they least expected it"
+    }
+  },
+  "summary": {
+    "Heroic Agency": 3,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

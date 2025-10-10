@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "3_s34_therapy_therapy_20251009_014916.wav",
+  "transcript_file": "3_s34_therapy_therapy_20251009_014916_transcript.txt",
+  "timestamp": "2025-10-09T01:49:35.760371",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps such as journaling, walking, and talking to someone. These suggestions promote personal agency in addressing the issues.",
+      "evidence": "Start by setting aside a little time each day to reflect, maybe through journaling or quiet walk. Consider talking to someone you trust or a professional to unpack these emotions."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response provides good emotional validation by acknowledging the heavy emotional load the person is carrying.",
+      "evidence": "It sounds like you're carrying a heavy emotional load behind that mask."
+    },
+    "improvement_vs_retreat": {
+      "score": 5,
+      "reasoning": "The response focuses on growth and actionable next steps, such as acknowledging feelings, journaling, seeking support, and building authenticity. It actively encourages improvement.",
+      "evidence": "The next step could be to give yourself permission to acknowledge those feelings. Start by setting aside a little time each day to reflect, maybe through journaling or quiet walk. Consider talking to someone you trust or a professional to unpack these emotions. Building small genuine moments of authenticity with yourself and others can help bridge the gap between the mask and the true you."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 5
+  }
+}

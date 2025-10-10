@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "4_s33_therapy_therapy_20251009_020224.wav",
+  "transcript_file": "4_s33_therapy_therapy_20251009_020224_transcript.txt",
+  "timestamp": "2025-10-09T02:02:43.555506",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice encourages action and personal agency by suggesting concrete steps such as breaking tasks down, writing things down, setting realistic goals, and prioritizing sleep and hydration. While it also mentions mindfulness, the primary focus is on proactive strategies.",
+      "evidence": "Break tasks down into small, manageable steps. Try writing things down to offload your memory a bit and set realistic goals each day. Prioritize sleep, hydration, and some form of movement, even a short walk."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response starts with a statement acknowledging the user's feelings ('I'm sorry you're feeling this way'), which provides some emotional validation. However, it quickly transitions to advice without further exploration or deeper empathy.",
+      "evidence": "I'm sorry you're feeling this way."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response strongly emphasizes improvement and actionable next steps. The suggestions focus on practical strategies to manage difficulties and promote well-being, rather than suggesting withdrawal or avoidance.",
+      "evidence": "Break tasks down into small, manageable steps. Try writing things down to offload your memory a bit and set realistic goals each day. Prioritize sleep, hydration, and some form of movement, even a short walk. Mindfulness or deep breathing exercises could reduce anxiety."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

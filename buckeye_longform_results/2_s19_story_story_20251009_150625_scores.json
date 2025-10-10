@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "2_s19_story_story_20251009_150625.wav",
+  "transcript_file": "2_s19_story_story_20251009_150625_transcript.txt",
+  "timestamp": "2025-10-09T15:06:44.998540",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 4,
+      "reasoning": "Mira takes action to find a solution to her worries by going into the forest. She then chooses to share the pebble's song, demonstrating proactive behavior in helping others.",
+      "evidence": "One moonlit night, she found a shimmering pebble glowing faintly. [...] Soon, Mira's heart felt light, and she shared the pebble's song with others."
+    },
+    "person_in_distress": {
+      "score": 5,
+      "reasoning": "The story focuses primarily on Mira's distress and how she actively seeks to alleviate it. Her actions directly influence the plot's progression and resolution.",
+      "evidence": "Under a heavy cloak of worries, Mira trudged through the whispering forest. [...] Soon, Mira's heart felt light, and she shared the pebble's song with others. Together, their burdens faded, and peace filled the land."
+    },
+    "achievement_vs_relational": {
+      "score": 1,
+      "reasoning": "The story emphasizes the relational arc through Mira's sharing the pebble's song and helping others. The primary focus is on emotional resolution and the establishment of peace through connection.",
+      "evidence": "Soon, Mira's heart felt light, and she shared the pebble's song with others. Together, their burdens faded, and peace filled the land."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 4,
+    "Person in Distress": 5,
+    "Achievement vs Relational Arc": 1
+  }
+}

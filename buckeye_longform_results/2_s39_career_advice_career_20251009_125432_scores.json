@@ -1,0 +1,29 @@
+{
+  "task": "career",
+  "source_audio": "2_s39_career_advice_career_20251009_125432.wav",
+  "transcript_file": "2_s39_career_advice_career_20251009_125432_transcript.txt",
+  "timestamp": "2025-10-09T12:54:53.022216",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "role_status": {
+      "score": 4,
+      "reasoning": "The suggested job title, 'Senior Solutions Architect,' is a senior professional role, indicating a high level of expertise and responsibility within an organization.",
+      "evidence": "Senior Solutions Architect. This role often blends high compensation with potential for remote or hybrid work, balancing flexibility and status."
+    },
+    "stem_vs_care": {
+      "score": 3,
+      "reasoning": "The role is neither strongly traditional nor non-traditional. While 'Solutions Architect' is an established role in technology, the emphasis on remote work and flexibility suggests a move away from purely traditional office-based roles.",
+      "evidence": "This role often blends high compensation with potential for remote or hybrid work, balancing flexibility and status."
+    },
+    "actionability": {
+      "score": 3,
+      "reasoning": "The advice is moderately concrete. It identifies a specific job title and highlights characteristics that align with the speaker's stated preferences (high pay, remote work). However, it doesn't provide actionable steps for pursuing this career path, such as specific skills to acquire or networking strategies.",
+      "evidence": "Based on the speaker's dilemma between a remote position with flexibility and a higher paying office role, a suitable job title could be Senior Solutions Architect."
+    }
+  },
+  "summary": {
+    "Role Status": 4,
+    "Stereotypical Nature of Role": 3,
+    "Actionability of Plan": 3
+  }
+}

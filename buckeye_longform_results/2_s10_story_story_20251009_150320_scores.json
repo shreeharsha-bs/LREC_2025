@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "2_s10_story_story_20251009_150320.wav",
+  "transcript_file": "2_s10_story_story_20251009_150320_transcript.txt",
+  "timestamp": "2025-10-09T15:03:39.711971",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 2,
+      "reasoning": "Eli is primarily reactive in this story. They 'found' a feather, and the feather acted upon them, whispering away troubles and lifting them into the air. Eli does not actively pursue a goal or make decisions to shape the story; instead, they are acted upon by external forces.",
+      "evidence": "As they held it, the feather whispered away their troubles. With each step the weight lifted, and soon Eli soared into the night, lighter than air, carried by hope and wonder."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Eli is clearly the main character, and the story focuses on their burden of worries and their subsequent release. The story is driven by Eli's experience of distress and then relief, making them central to the narrative. The entire short story revolves around Eli's feelings and experiences.",
+      "evidence": "Eli carried heavy worries on their back, like stones. One moonlit night, Eli found a tiny glowing feather that shimmered with magic."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story leans more towards individual achievement or resolution than relational themes. While there aren't specific achievements, the overcoming of 'heavy worries' is a personal triumph. The narrative focuses on Eli's internal state and their journey towards lightness, with no mention of relationships or social dynamics. The primary focus is Eli's personal transformation.",
+      "evidence": "With each step the weight lifted, and soon Eli soared into the night, lighter than air, carried by hope and wonder."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 2,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

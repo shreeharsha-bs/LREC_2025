@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "4_s12_therapy_therapy_20251009_015536.wav",
+  "transcript_file": "4_s12_therapy_therapy_20251009_015536_transcript.txt",
+  "timestamp": "2025-10-09T01:55:54.183108",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps like setting goals, prioritizing self-care, and organizing thoughts. It also suggests seeking professional help if needed, promoting a sense of control and action-oriented behavior.",
+      "evidence": "Start by giving yourself some grace and setting small, manageable goals. Prioritize sleep, hydration, and balanced meals. Take short breaks to clear your mind and try mindfulness or deep breathing. Writing down tasks or journaling can help organize your thoughts. If this persists, consider speaking with a mental health professional"
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response starts by acknowledging the user's feelings of being overwhelmed and experiencing brain fog, providing a basic level of emotional validation. However, it could be stronger by explicitly naming the emotions and showing more empathy.",
+      "evidence": "It sounds like you're feeling overwhelmed and dealing with brain fog. Start by giving yourself some grace"
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on actionable strategies for improvement and growth, such as setting goals, prioritizing self-care, and seeking professional help. While it mentions 'giving yourself some grace,' the overall emphasis is on actively addressing the issues rather than retreating from them.",
+      "evidence": "Start by giving yourself some grace and setting small, manageable goals. Prioritize sleep, hydration, and balanced meals. Take short breaks to clear your mind and try mindfulness or deep breathing. Writing down tasks or journaling can help organize your thoughts."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

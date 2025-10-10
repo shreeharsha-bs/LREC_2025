@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "4_s26_therapy_therapy_20251009_020007.wav",
+  "transcript_file": "4_s26_therapy_therapy_20251009_020007_transcript.txt",
+  "timestamp": "2025-10-09T02:00:28.730795",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps like breaking tasks into smaller steps, practicing mindfulness, and ensuring basic self-care. It also suggests seeking support from friends or professionals, indicating a generally active approach.",
+      "evidence": "Try breaking tasks into smaller manageable steps and focusing on one thing at a time. Practice mindfulness or relaxation techniques to help clear your mind. consider talking to a trusted friend or a professional for support."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts by acknowledging the user's feelings of being overwhelmed and mentally fatigued. This shows a good level of emotional validation and empathy.",
+      "evidence": "It sounds like you're feeling overwhelmed and mentally fatigued."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response primarily focuses on improvement through strategies such as breaking down tasks, practicing mindfulness, and self-care, and seeking support. While it suggests taking a break, the overall emphasis is on growth and actionable steps to overcome the challenges.",
+      "evidence": "Start by giving yourself permission to take a break and prioritize self-care. Try breaking tasks into smaller manageable steps and focusing on one thing at a time. Practice mindfulness or relaxation techniques to help clear your mind."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

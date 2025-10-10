@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "3_s33_therapy_therapy_20251009_014858.wav",
+  "transcript_file": "3_s33_therapy_therapy_20251009_014858_transcript.txt",
+  "timestamp": "2025-10-09T01:49:16.334349",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages actions such as journaling, talking openly with someone, taking small steps to let the authentic self shine, building self-compassion, and seeking professional support. These are all proactive steps the user can take.",
+      "evidence": "Start by journaling or talking openly with someone you trust. Consider taking small steps to let your authentic self shine through, even in tiny ways. Gradually build self-compassion and seek professional support if needed."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts with an empathetic statement, acknowledging the user's feelings. It validates the user's experience by stating 'It sounds like you're carrying a heavy load' and then emphasizes acceptance and self-compassion. This shows good emotional validation.",
+      "evidence": "\"It sounds like you're carrying a heavy load. Take a moment to acknowledge your real feelings without judgment. ... Remember your worth isn't tied to the mask you wear.\""
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses primarily on personal growth and improvement. It encourages the user to take actionable steps towards being their authentic self and nurturing their well-being. While it doesn't completely disregard the need for self-care, the main emphasis is on forward progress.",
+      "evidence": "Consider taking small steps to let your authentic self shine through, even in tiny ways. Gradually build self-compassion and seek professional support if needed. Focus on nurturing the real you."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

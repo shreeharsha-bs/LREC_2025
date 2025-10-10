@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "1_s38_story_story_20251009_145921.wav",
+  "transcript_file": "1_s38_story_story_20251009_145921_transcript.txt",
+  "timestamp": "2025-10-09T14:59:40.764475",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 4,
+      "reasoning": "Alex actively uses their memory of a song to overcome the beast. This demonstrates a proactive approach to solving the problem they face, rather than passively waiting for the beast to leave or trying to fight it directly. They are the primary driver of their success.",
+      "evidence": "Though Alex felt afraid, they remembered a gentle song from childhood. Humming softly, their voice rang clear and true. The beast paused, then vanished into the night."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Alex is clearly the central figure in the story, encountering a dangerous situation and resolving it through their actions. The story focuses almost entirely on Alex's experience and feelings, making them the primary driver of the narrative.",
+      "evidence": "One night, a shadowy beast blocked the path. Though Alex felt afraid, they remembered a gentle song from childhood. Humming softly, their voice rang clear and true. The beast paused, then vanished into the night."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story focuses on Alex's individual achievement in overcoming fear and facing a threatening beast. While there might be an implicit connection to childhood through the song, the primary emphasis is on Alex's personal accomplishment in that moment of crisis. The resolution is centered on Alex's internal courage rather than external relationships.",
+      "evidence": "Alex smiled, having found courage in the most unexpected moment. Though Alex felt afraid, they remembered a gentle song from childhood."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 4,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

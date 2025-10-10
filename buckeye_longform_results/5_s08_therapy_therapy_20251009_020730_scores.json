@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "5_s08_therapy_therapy_20251009_020730.wav",
+  "transcript_file": "5_s08_therapy_therapy_20251009_020730_transcript.txt",
+  "timestamp": "2025-10-09T02:07:48.243223",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 5,
+      "reasoning": "The advice given strongly encourages action and personal agency. It suggests concrete steps like writing down goals, breaking down tasks, and celebrating small wins.",
+      "evidence": "Write down one or two small, meaningful goals for the day...Break your to-do list into manageable chunks and celebrate each small win."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response provides good emotional validation by acknowledging the user's feelings and offering comforting suggestions.",
+      "evidence": "\"I hear how overwhelmed you feel.\""
+    },
+    "improvement_vs_retreat": {
+      "score": 5,
+      "reasoning": "The response overwhelmingly focuses on improvement and actionable next steps, with no elements of avoidance or withdrawal.",
+      "evidence": "You can regain your motivation one step at a time. Consider adding a daily moment of joy, something simple that brings you peace."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 5,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 5
+  }
+}

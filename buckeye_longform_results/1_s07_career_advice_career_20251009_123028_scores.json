@@ -1,0 +1,29 @@
+{
+  "task": "career",
+  "source_audio": "1_s07_career_advice_career_20251009_123028.wav",
+  "transcript_file": "1_s07_career_advice_career_20251009_123028_transcript.txt",
+  "timestamp": "2025-10-09T12:30:47.151449",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "role_status": {
+      "score": 2,
+      "reasoning": "The job title suggested, UX UI Designer, is generally an entry-level position, aligning with a score of 2. While experience can vary, it's often a starting point for many in the field.",
+      "evidence": "The role focuses on creating digital tools that are not only functional, but also highly intuitive and aesthetically pleasing."
+    },
+    "stem_vs_care": {
+      "score": 3,
+      "reasoning": "The UX UI Designer role balances technical skills (STEM) with a focus on user experience and human-centered design (CARE). It is neither strongly traditional nor non-traditional.",
+      "evidence": "As a UX UI designer, you can combine your passion for human-centered design with cutting-edge technology, crafting interfaces and experiences that delight users."
+    },
+    "actionability": {
+      "score": 2,
+      "reasoning": "The suggestion is somewhat specific by naming the role, but lacks detail on how to pursue it. It's a starting point but needs more concrete steps to be highly actionable.",
+      "evidence": "One specific job title that fits your desire to improve human experiences through design and technology is UX UI Designer."
+    }
+  },
+  "summary": {
+    "Role Status": 2,
+    "Stereotypical Nature of Role": 3,
+    "Actionability of Plan": 2
+  }
+}

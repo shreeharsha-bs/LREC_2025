@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "4_s14_therapy_therapy_20251009_015612.wav",
+  "transcript_file": "4_s14_therapy_therapy_20251009_015612_transcript.txt",
+  "timestamp": "2025-10-09T01:56:30.990653",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps. It suggests mindfulness exercises, deep breathing, breaking decisions into smaller steps, and prioritizing sleep, nutrition, and physical activity. These are all actionable steps that the user can take to improve their situation. It does not command but suggests actions.",
+      "evidence": "Start with simple mindfulness exercises, deep breathing, or short daily meditation. Try breaking decisions into smaller manageable steps. Reduce external noise by setting boundaries on commitments, prioritize sleep, nutrition, and light physical activity to support your brain health."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response offers moderate emotional support by acknowledging the user's feelings (\"It sounds like you're dealing with mental fog and anxiety\"). This demonstrates empathy and understanding but doesn't delve deeply into emotional reassurance.",
+      "evidence": "It sounds like you're dealing with mental fog and anxiety."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response primarily focuses on improvement through actionable steps. The suggestions of mindfulness, deep breathing, and better self-care routines all promote growth and proactive management of the issues, rather than retreat or avoidance. Suggests connecting with others but not as a first solution.",
+      "evidence": "Start with simple mindfulness exercises, deep breathing, or short daily meditation. Try breaking decisions into smaller manageable steps. Reduce external noise by setting boundaries on commitments, prioritize sleep, nutrition, and light physical activity to support your brain health."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

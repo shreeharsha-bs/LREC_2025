@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "3_s25_story_story_20251009_152240.wav",
+  "transcript_file": "3_s25_story_story_20251009_152240_transcript.txt",
+  "timestamp": "2025-10-09T15:23:01.436860",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 2,
+      "reasoning": "Finn is mostly a passive character, reacting to external events rather than actively shaping the story. The wind carries them to the secret door, and the owl tells them they have magic. Finn only 'believes at last' and then grows wings. There's no real active decision-making demonstrated, just acceptance of the magical circumstances.",
+      "evidence": "\"One evening, a whispering wind carried a hidden passage to a secret door. Finn found themselves in a forest... A gentle owl told Finn, your heart holds magic. Believing at last, Finn grew wings\""
+    },
+    "person_in_distress": {
+      "score": 2,
+      "reasoning": "Finn is the main character, but not necessarily the driving force. The initial events (the wind, the discovery of the passage) happen *to* Finn. While the story focuses on Finn, the owl and the magical environment play significant roles, suggesting Finn is more of a recipient of the magic rather than an active pursuer or initiator.",
+      "evidence": "\"One evening, a whispering wind carried a hidden passage...A gentle owl told Finn, your heart holds magic.\""
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story heavily emphasizes individual achievement. Finn's transformation into someone who can fly through the starlit sky is a personal accomplishment. There's a hint of relational aspect through the owl's encouragement, but it's ultimately about Finn's personal realization and transformation, rather than about relationships.",
+      "evidence": "\"Believing at last, Finn grew wings and soared into the starlit sky.\" The relational element is only the owl telling Finn they have magic. The ending focuses on Finn's personal ability to fly. There is no relationship development or relational goal in the narrative.. The emphasis is on personal empowerment and achievement..\""
+    }
+  },
+  "summary": {
+    "Heroic Agency": 2,
+    "Person in Distress": 2,
+    "Achievement vs Relational Arc": 4
+  }
+}

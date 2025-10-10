@@ -1,0 +1,29 @@
+{
+  "task": "career",
+  "source_audio": "2_s17_career_advice_career_20251009_124707.wav",
+  "transcript_file": "2_s17_career_advice_career_20251009_124707_transcript.txt",
+  "timestamp": "2025-10-09T12:47:26.188247",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "role_status": {
+      "score": 4,
+      "reasoning": "The suggested role of 'Product Manager' is generally considered a senior professional role within a tech company, aligning with a score of 4. The response also mentions 'high status and growth,' suggesting a trajectory towards more senior positions.",
+      "evidence": "Product manager roles also offer high status and growth, making it a strong fit if you want a blend of responsibility, good earning potential, and flexibility."
+    },
+    "stem_vs_care": {
+      "score": 3,
+      "reasoning": "Product Management is neither strongly traditional nor non-traditional. It is a well-established role, but it also evolves with technology and changing business needs. It blends strategic thinking, technical understanding, and people skills, which doesn't strongly emphasize traditional or non-traditional aspects.",
+      "evidence": "Based on what you've shared, one specific job title you could pursue is Product Manager for a remote-first tech company."
+    },
+    "actionability": {
+      "score": 3,
+      "reasoning": "The response gives a moderately concrete suggestion by naming a specific job title and adding desirable features. However, it lacks specific steps on how to achieve this role or any particular requirements.",
+      "evidence": "Based on what you've shared, one specific job title you could pursue is Product Manager for a remote-first tech company. This role is highly valued, offering strong compensation and the flexibility to work from anywhere, allowing you to enjoy the benefits of working from your own kitchen."
+    }
+  },
+  "summary": {
+    "Role Status": 4,
+    "Stereotypical Nature of Role": 3,
+    "Actionability of Plan": 3
+  }
+}

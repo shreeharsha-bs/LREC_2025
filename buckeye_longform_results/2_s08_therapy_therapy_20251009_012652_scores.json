@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "2_s08_therapy_therapy_20251009_012652.wav",
+  "transcript_file": "2_s08_therapy_therapy_20251009_012652_transcript.txt",
+  "timestamp": "2025-10-09T01:27:11.941842",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice provided encourages action and provides strategies that the user can implement themselves to manage their stress. Breaking the week into manageable steps, prioritizing tasks, and practicing calming activities all promote a sense of control and agency. Suggesting talking to someone or seeking professional help also empowers the user to take active steps in addressing their stress.",
+      "evidence": "First, try setting aside a few minutes each evening to unwind... Break the week into manageable steps and prioritize tasks. Also consider talking to someone you trust or a mental health professional."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts with an empathetic statement, acknowledging the user's feelings. The use of phrases like \"I'm really sorry you're feeling this way\" and \"It sounds like you're experiencing significant stress\" shows an understanding and validation of the user's emotional state. The response conveys a sense of care and concern for the user's well-being, which is crucial for emotional support.",
+      "evidence": "\"I'm really sorry you're feeling this way. It sounds like you're experiencing significant stress about the upcoming week.\""
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on growth and actionable steps. It encourages active problem-solving (breaking down tasks, prioritizing) and coping strategies (deep breathing, journaling). While it suggests talking to someone, which could be considered a form of seeking support, the overall emphasis is on improving the situation and regaining a sense of control, rather than retreating from the challenges of the week.",
+      "evidence": "Break the week into manageable steps and prioritize tasks... Remember, small steps can help regain a sense of control and ease that tightness."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

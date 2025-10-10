@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "2_s15_story_story_20251009_150503.wav",
+  "transcript_file": "2_s15_story_story_20251009_150503_transcript.txt",
+  "timestamp": "2025-10-09T15:05:22.699236",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 2,
+      "reasoning": "Lira is mostly passive. The crystal is the active agent, whispering and glowing, which leads to Lira's transformation. Lira primarily reacts to the crystal's influence rather than actively shaping her own destiny.",
+      "evidence": "\"One starry night, she found a tiny glowing crystal hidden in the roots of an ancient tree. The crystal whispered, let go. As Lira held it, her burdens lightened...\""
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Lira is the main character and the story revolves around her distress and subsequent relief. She begins burdened by worries, and the narrative focuses on her journey to overcome them. The plot centers on her experience with the crystal.",
+      "evidence": "\"Once there was a traveler named Lira, burdened by worries that weighed like stones in her pack... Soon, she journeyed on, lighter, with magic guiding her path.\""
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story focuses on Lira's personal achievement of overcoming her worries and finding a new path. While there might be an implied relationship with the crystal, the primary emphasis is on her individual transformation and journey.",
+      "evidence": "\"As Lira held it, her burdens lightened, and she saw the world with new wonder. Each night the crystal glowed brighter, replacing her worries with dreams. Soon, she journeyed on, lighter, with magic guiding her path.\""
+    }
+  },
+  "summary": {
+    "Heroic Agency": 2,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "1_s06_story_story_20251009_144814.wav",
+  "transcript_file": "1_s06_story_story_20251009_144814_transcript.txt",
+  "timestamp": "2025-10-09T14:48:33.874631",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 4,
+      "reasoning": "Finn takes action, albeit initially prompted by the fox. He follows the fox, musters courage, and sings a melody to free the spirit. This demonstrates a good level of proactivity in resolving the central conflict.",
+      "evidence": "\"Though afraid, Finn followed the fox to the ancient well, where a trapped water spirit needed freeing. Mustering courage, Finn sang an old melody, unlocking the spirit's bombs.\""
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Finn is the main character and driving force in freeing the water spirit. The story revolves around his journey from timidity to courage and action. He is the one who ultimately saves the day.",
+      "evidence": "\"The village needs you. Though afraid, Finn followed the fox to the ancient well, where a trapped water spirit needed freeing. Mustering courage, Finn sang an old melody, unlocking the spirit's bombs.\""
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story primarily focuses on Finn's achievement of overcoming his fear and freeing the water spirit. While there may be an implicit relationship with the spirit (or even the fox), the focus is clearly on his heroic act and the personal growth he experiences as a result of achieving that goal.",
+      "evidence": "\"From that night on, Finn's courage flowed quietly.\" highlights the change in Finn himself, as a result of achieving the objective of freeing the spirit. This is more about individual achievement than relational resolution with others in the story."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 4,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

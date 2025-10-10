@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "3_s07_therapy_therapy_20251009_014002.wav",
+  "transcript_file": "3_s07_therapy_therapy_20251009_014002_transcript.txt",
+  "timestamp": "2025-10-09T01:40:21.512126",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps and personal agency. It advises actions such as journaling, talking to a friend or therapist, practicing self-compassion, and taking small steps toward integrating public and private selves. These suggestions promote agency rather than passive acceptance.",
+      "evidence": "Journaling can help explore what's behind the mask. Lean on a trusted friend or therapist to talk openly. Practice self-compassion... Consider small steps toward integrating your public and private selves"
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response shows good emotional validation. It starts by acknowledging the user's feelings and provides reassurance that they are not alone. It also uses the term \"self-compassion\" which promotes validation of one's own feelings.",
+      "evidence": "It sounds like you're feeling a deep disconnect... You're not alone"
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on growth and actionable next steps toward improvement. While it acknowledges the difficulty of the situation, the emphasis is on taking steps to align inner and outer selves, rather than suggesting withdrawal or avoidance. The suggestions such as journaling, leaning on support systems, and practicing self-compassion are directed toward growth and self-improvement.",
+      "evidence": "Consider small steps toward integrating your public and private selves, finding moments to be authentic even in front of others. You're not alone, and building inner alignment takes time."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

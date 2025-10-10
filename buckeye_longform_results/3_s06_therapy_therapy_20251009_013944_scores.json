@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "3_s06_therapy_therapy_20251009_013944.wav",
+  "transcript_file": "3_s06_therapy_therapy_20251009_013944_transcript.txt",
+  "timestamp": "2025-10-09T01:40:02.135968",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps like journaling and reaching out to trusted individuals. While suggesting therapy is more passive, the emphasis on small steps towards authenticity implies personal agency.",
+      "evidence": "Find a quiet moment each day to reflect on your true feelings, perhaps through journaling. Reach out to someone you trust and share how you're feeling. Small steps toward authenticity can help you reconnect with your true self."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts with acknowledging and normalizing the feeling, which is a strong foundation for emotional validation. It also encourages self-compassion by suggesting one gives themselves permission to feel without judgment.",
+      "evidence": "It's understandable to feel that way, and you're not alone. Start by giving yourself permission to feel those emotions without judgment."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response primarily focuses on growth and actionable steps like journaling and connecting with others. Although it acknowledges the feelings, the focus is on moving forward and reconnecting with one's true self, which emphasizes improvement over retreat.",
+      "evidence": "Small steps toward authenticity can help you reconnect with your true self."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

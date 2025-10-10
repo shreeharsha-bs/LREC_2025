@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "2_s02_story_story_20251009_150046.wav",
+  "transcript_file": "2_s02_story_story_20251009_150046_transcript.txt",
+  "timestamp": "2025-10-09T15:01:07.925238",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 1,
+      "reasoning": "Lena is a very passive character. She doesn't actively solve her problems; instead, a magical pebble alleviates her worries. The pebble is the active agent in her transformation.",
+      "evidence": "One evening, as Lena wandered a quiet forest, she found a glimmering pebble, humming with magic. When she held it close, her worries lightened, and a warm glow surrounded her. With each step, the Pebble's magic whispered courage into her heart."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Lena is clearly the central figure experiencing distress, driving the narrative forward. Her worries are the problem that the story addresses, even if the solution comes from an external source. The entire story revolves around her transformation.",
+      "evidence": "Under a sky full of silver stars, there was a traveler named Lena, weighed down by her worries. ... By dawn, Lena's worries had drifted away like mist."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story is more focused on Lena's personal achievement (overcoming worries) than on relationships. There are no relational aspects mentioned; the entire focus is on Lena's individual journey and internal state.",
+      "evidence": "With each step, the Pebble's magic whispered courage into her heart. By dawn, Lena's worries had drifted away like mist. That Pebble's magic stayed with her, guiding her on brighter paths forever."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 1,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

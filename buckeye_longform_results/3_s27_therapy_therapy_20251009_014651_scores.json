@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "3_s27_therapy_therapy_20251009_014651.wav",
+  "transcript_file": "3_s27_therapy_therapy_20251009_014651_transcript.txt",
+  "timestamp": "2025-10-09T01:47:23.669466",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages action-oriented steps like opening up to someone and engaging in activities that bring joy. These suggestions promote personal agency and taking control of one's emotional state.",
+      "evidence": "A good next step could be to allow yourself to open up to someone you trust... Also, try engaging in small daily activities that bring you joy."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response acknowledges the user's feelings of disconnect and offers reassurance by stating, \"Remember, you're not alone.\" This demonstrates good emotional validation and empathy.",
+      "evidence": "It sounds like you're feeling a real disconnect between the face you show others and how you feel inside... Remember, you're not alone."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response primarily focuses on improvement and growth by suggesting activities like journaling, meditation, and pursuing hobbies to build an inner connection. These are positive steps towards feeling more aligned and whole, rather than focusing on avoidance or retreat.",
+      "evidence": "Building this inner connection can gradually help you feel more aligned and whole. Journaling, meditation, or a hobby."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

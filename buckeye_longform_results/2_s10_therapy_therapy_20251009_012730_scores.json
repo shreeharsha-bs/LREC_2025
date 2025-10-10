@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "2_s10_therapy_therapy_20251009_012730.wav",
+  "transcript_file": "2_s10_therapy_therapy_20251009_012730_transcript.txt",
+  "timestamp": "2025-10-09T01:27:48.710636",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps and personal agency by suggesting actionable strategies such as creating a calming Sunday routine, breaking down tasks, and prioritizing sleep and self-care. These are all things the user can actively do.",
+      "evidence": "A good next step might be to create a calming Sunday routine, maybe some light exercise, meditation, or journaling. Break down the week ahead into smaller, manageable tasks. Prioritize sleep and self-care."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response demonstrates good emotional validation by acknowledging the user's feelings and expressing sympathy. The statement \"I'm really sorry you're feeling this way\" and \"It's important to first acknowledge these emotions and take them seriously\" shows empathy and understanding.",
+      "evidence": "I'm really sorry you're feeling this way. It's important to first acknowledge these emotions and take them seriously."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response generally focuses on growth and actionable next steps. The advice provided aims to improve the user's well-being and help them feel more like themselves again, rather than suggesting withdrawal or escape. The suggestions of routines, tasks, and talking to someone all point to improvement.",
+      "evidence": "Over time these steps can help ease that tension and help you feel more like yourself again."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

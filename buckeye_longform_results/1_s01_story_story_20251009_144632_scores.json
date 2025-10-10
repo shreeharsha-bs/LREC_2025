@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "1_s01_story_story_20251009_144632.wav",
+  "transcript_file": "1_s01_story_story_20251009_144632_transcript.txt",
+  "timestamp": "2025-10-09T14:46:55.574975",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 3,
+      "reasoning": "Lena is moderately active. She does follow the glowing path and presses on despite her fear, showing some agency. However, the stag gifting her the silver leaf feels somewhat passive, as the realization of her bravery comes as a result of the gift, rather than her own actions.",
+      "evidence": "As she followed it, the trees whispered, Courage is within you. Though her legs trembled, Lena pressed on. At the heart of the forest, she met a gentle stag who gifted her a silver leaf."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Lena is clearly the main character and driver of the events. The story revolves around her journey and her discovery of her own courage. While she receives external help (the whispered encouragement and the stag's gift), the story is fundamentally about her personal development.",
+      "evidence": "Once there was a young dreamer named Lena, who often felt small in the grand woods near her village. One evening she stumbled upon a glowing path. ... In that moment, Lena realized she had always been brave enough."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story leans more towards achievement. While there are hints of relationships (the village, the stag), the primary focus is on Lena's personal achievement of discovering her own courage. The relational aspect is minimal, serving more as a backdrop for her individual journey.",
+      "evidence": "In that moment, Lena realized she had always been brave enough. She returned home, heart full, and from then on, courage lit her every step."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 3,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

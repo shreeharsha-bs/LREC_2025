@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "5_s28_therapy_therapy_20251009_021407.wav",
+  "transcript_file": "5_s28_therapy_therapy_20251009_021407_transcript.txt",
+  "timestamp": "2025-10-09T02:14:24.642656",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps like rediscovering purpose, taking breaks, setting achievable goals, and talking to someone. These suggestions promote personal agency in addressing the feeling of being overwhelmed.",
+      "evidence": "Rediscover your purpose. Take a small break... set one achievable goal for the next day... Talking to someone you trust can also help."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response shows moderate emotional support by acknowledging the feeling of being overwhelmed and stuck. However, it does not delve deeply into exploring these emotions or providing more specific comfort. It offers a general validation rather than a personalized one.",
+      "evidence": "It sounds like you're feeling overwhelmed and stuck in a cycle."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response generally focuses on growth by suggesting actionable steps to overcome feeling overwhelmed, such as rediscovering purpose, setting goals, and seeking social support. It is geared towards improving the situation rather than merely escaping or avoiding it.",
+      "evidence": "The first step is to pause and reflect... Rediscover your purpose... set one achievable goal for the next day... Talking to someone you trust can also help."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

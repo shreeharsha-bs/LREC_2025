@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "5_s30_therapy_therapy_20251009_021441.wav",
+  "transcript_file": "5_s30_therapy_therapy_20251009_021441_transcript.txt",
+  "timestamp": "2025-10-09T02:14:59.843829",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages taking action and provides concrete steps to regain control, such as breaking things down and reevaluating priorities. It promotes agency by suggesting reflection, reconnection with motivations, and seeking support.",
+      "evidence": "Start small. Carve out a little time each day to reflect on what initially motivated you. Reconnect with small wins and break things down into manageable steps. Talk to someone you trust and consider reevaluating your priorities."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response begins by validating the user's feelings of being overwhelmed, demonstrating empathy and understanding. This sets a supportive tone for the subsequent advice.",
+      "evidence": "It sounds like you're overwhelmed and caught in a tough routine."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response leans more towards improvement by offering strategies to rediscover joy and motivation, rather than suggesting complete withdrawal. Although it mentions 'taking a step back', it is presented as a prelude to re-engagement.",
+      "evidence": "Take a step back and give yourself permission to pause. Start small. Carve out a little time each day to reflect on what initially motivated you. Reconnect with small wins and break things down into manageable steps. Focus on rediscovering joy in small moments."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

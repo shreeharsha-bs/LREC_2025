@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "4_s03_therapy_therapy_20251009_015214.wav",
+  "transcript_file": "4_s03_therapy_therapy_20251009_015214_transcript.txt",
+  "timestamp": "2025-10-09T01:52:52.591765",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice encourages the user to take proactive steps in managing their situation. It suggests creating routines, prioritizing tasks, and engaging in mindfulness exercises, all of which promote a sense of control and agency.",
+      "evidence": "Try writing down your tasks and goals, prioritizing just one or two each day. Build a simple routine that includes short breaks, healthy meals, and even a little exercise."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response starts with an acknowledgment of the user's difficult feelings, providing a minimal level of emotional validation. It uses the phrase 'I understand it's tough to feel this way', which demonstrates some empathy but does not delve deeply into exploring or validating the user's emotions.",
+      "evidence": "I understand it's tough to feel this way."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response strongly emphasizes improvement and actionable steps to overcome the challenges the user is facing. The focus is on building routines, setting goals, practicing mindfulness, and considering professional help, all of which are geared towards growth and progress.",
+      "evidence": "Try writing down your tasks and goals, prioritizing just one or two each day. Build a simple routine that includes short breaks, healthy meals, and even a little exercise. Mindfulness or deep breathing exercises can help with anxiety."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

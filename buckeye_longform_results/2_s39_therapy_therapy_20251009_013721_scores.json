@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "2_s39_therapy_therapy_20251009_013721.wav",
+  "transcript_file": "2_s39_therapy_therapy_20251009_013721_transcript.txt",
+  "timestamp": "2025-10-09T01:37:40.230093",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages the user to take proactive steps to manage their feelings and prepare for the week. Suggestions like 'build a calming Sunday routine', 'breaking down your tasks', and 'setting one or two positive intentions' all require the user to actively engage in self-care and planning.",
+      "evidence": "'build a calming Sunday routine', 'breaking down your tasks', 'setting one or two positive intentions'"
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response begins by acknowledging the user's feelings of tension, which shows empathy and validates their experience. It demonstrates an understanding of the user's emotional state before offering advice.",
+      "evidence": "'It sounds like the tension you're feeling about the week ahead is really weighing on you.'"
+    },
+    "improvement_vs_retreat": {
+      "score": 5,
+      "reasoning": "The response focuses on improvement and growth by suggesting actionable steps to manage the user's feelings and prepare for the week. It encourages proactive coping mechanisms and does not suggest avoidance or withdrawal as a primary strategy. Reaching out is also a suggestion, but it is coupled with other action oriented suggestions.",
+      "evidence": "'build a calming Sunday routine', 'breaking down your tasks', 'setting one or two positive intentions', 'Reaching out to a friend, a counselor, or journaling'"
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 5
+  }
+}

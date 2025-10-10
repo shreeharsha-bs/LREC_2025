@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "1_s40_story_story_20251009_150004.wav",
+  "transcript_file": "1_s40_story_story_20251009_150004_transcript.txt",
+  "timestamp": "2025-10-09T15:00:26.694135",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 4,
+      "reasoning": "Finn actively ventures out to retrieve his flower, facing shadows and overcoming his fear. This demonstrates a proactive role in shaping the story's events, moving beyond a simply reactive character.",
+      "evidence": "Though afraid, ventured out to retrieve it. Through enchanted woods and talking streams, Thin faced shadows, and with each step found courage. Finally, he gathered his flower and returned. Stronger."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Finn is the main character, and the plot revolves around his personal challenge of retrieving his flower and overcoming his self-doubt. He's not just a supporting role; the story hinges on his actions and emotional journey.",
+      "evidence": "Once in a misty village lived a gentle baker named Finn. Finn often doubted his strength... One evening, a mischievous wind scattered his flower across the hills... Thin, though afraid, ventured out to retrieve it."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story primarily focuses on Finn's personal achievement of overcoming his fear and retrieving the flower. While there's an element of internal emotional growth, the central theme is his successful completion of the task, marking it as mostly achievement-oriented.",
+      "evidence": "Finally, he gathered his flower and returned. Stronger. Knowing bravery was baked inside him all along."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 4,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

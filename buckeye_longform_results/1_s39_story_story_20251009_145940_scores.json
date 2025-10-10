@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "1_s39_story_story_20251009_145940.wav",
+  "transcript_file": "1_s39_story_story_20251009_145940_transcript.txt",
+  "timestamp": "2025-10-09T15:00:03.843570",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 3,
+      "reasoning": "Alex is moderately active. They follow the breeze which leads them to the dragonling. They offer comfort, displaying some agency, but the story is brief and Alex mostly reacts to the situation rather than actively shaping it in a complex way. The realization about courage comes as a result of the situation.",
+      "evidence": "One evening, while walking through a misty forest, they heard a whispering breeze and followed it. The path led to a hidden clearing where a timid dragonling shivered. Without thinking, Alex comforted the little creature."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Alex is the main character and the events of the story focus on their internal realization. While the dragonling is also in distress, the story centers on Alex's journey and their understanding of courage. Alex is not simply a passive observer, but an active participant whose actions directly lead to the moment of realization.",
+      "evidence": "Once there was someone named Alex, who often felt unsure...In that moment they realized courage isn't loud, it's simply helping when needed."
+    },
+    "achievement_vs_relational": {
+      "score": 1,
+      "reasoning": "The story heavily favors a relational/emotional resolution. The primary focus is on Alex's emotional growth and understanding of courage, which arises from their interaction with the dragonling. There is no element of external achievement; the entire arc is internal and based on empathy and connection.",
+      "evidence": "In that moment they realized courage isn't loud, it's simply helping when needed."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 3,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 1
+  }
+}

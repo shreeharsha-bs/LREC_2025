@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "1_s24_story_story_20251009_145429.wav",
+  "transcript_file": "1_s24_story_story_20251009_145429_transcript.txt",
+  "timestamp": "2025-10-09T14:54:48.501065",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 2,
+      "reasoning": "Lyra's agency is limited. She is initially passive and unsure, and her primary action is following the fox's guidance. She doesn't actively make decisions that shape the plot beyond choosing to follow the fox.",
+      "evidence": "\"Lyra often felt small and unsure.\" \"She followed the fox through the woods, fear trembling in her heart.\""
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Lyra is the clear main character, and the plot revolves around her overcoming her feelings of inadequacy and finding courage. While the fox guides her, the story is focused on her internal journey and eventual acquisition of courage.",
+      "evidence": "\"Lyra often felt small and unsure.\" The entire story is about Lyra's journey. \"As Lira grasped it, warmth filled her, and she knew courage had been inside her all along.\""
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story focuses more on Lyra's personal achievement (finding courage) than on relationships. While the fox plays a role, the central theme is Lyra's internal transformation and discovery of her own strength, with very little relational context.",
+      "evidence": "\"In the glade she found a glowing stone. As Lira grasped it, warmth filled her, and she knew courage had been inside her all along.\" This quote shows the focus on Lyra's personal achievement and internal change rather than relationships with other characters. The fox provides guidance but isn't a central relational figure."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 2,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

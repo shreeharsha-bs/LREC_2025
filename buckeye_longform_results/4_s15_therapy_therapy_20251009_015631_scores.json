@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "4_s15_therapy_therapy_20251009_015631.wav",
+  "transcript_file": "4_s15_therapy_therapy_20251009_015631_transcript.txt",
+  "timestamp": "2025-10-09T01:56:51.477254",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response provides actionable advice, such as breaking down tasks and writing down priorities. It encourages the user to seek support from friends or professionals. While it starts with 'slow down,' the subsequent advice leans towards action and problem-solving.",
+      "evidence": "Try writing down your top priorities and breaking them into simpler steps. Consider talking to a trusted friend or a professional for support."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts by acknowledging the user's feelings ('It sounds like you're feeling overwhelmed and mentally foggy'), offering a degree of emotional validation. It also mentions self-compassion, which is a validating concept.",
+      "evidence": "It sounds like you're feeling overwhelmed and mentally foggy. Practice self-compassion and remind yourself that it's okay not to have everything figured out."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on strategies for managing the user's state and improving their situation rather than suggesting withdrawal or escape. The advice centers around actionable steps for improvement.",
+      "evidence": "Start by giving yourself permission to slow down. Take a few deep breaths and focus on one small manageable task at a time. Try writing down your top priorities and breaking them into simpler steps."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

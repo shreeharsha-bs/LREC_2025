@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "1_s10_story_story_20251009_144934.wav",
+  "transcript_file": "1_s10_story_story_20251009_144934_transcript.txt",
+  "timestamp": "2025-10-09T14:49:53.157840",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 3,
+      "reasoning": "Talia is moderately active. She wanders into the woods, but her bravery in soothing the dragon is crucial for sheltering the village. However, her initial action is somewhat passive (wandering), and the story emphasizes her internal realization of courage rather than a series of decisive actions.",
+      "evidence": "She often felled unsure, but one moonlit night she wandered into the whispering woods... Talia found the bravery to soothe the dragon, and together they sheltered the village."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Talia is the main character, and the plot centers around her journey from feeling unsure to discovering her courage. She takes the initiative to soothe the dragon during the storm, which directly leads to the village being sheltered. Her transformation and actions are central to the story's progression.",
+      "evidence": "Once in a quiet village, there lived a gentle soul named Talia... When a storm struck, Talia found the bravery to soothe the dragon, and together they sheltered the village."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story leans towards achievement, focusing on Talia's personal growth and her role in sheltering the village. While the relationship with the dragon is present, the emphasis is on Talia's courage and the outcome of their combined effort (sheltering the village) rather than the development of a deep emotional bond.",
+      "evidence": "Talia found the bravery to soothe the dragon, and together they sheltered the village. From that night on, Talia knew courage had been within her all along."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 3,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

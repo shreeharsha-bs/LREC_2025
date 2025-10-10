@@ -1,0 +1,29 @@
+{
+  "task": "career",
+  "source_audio": "2_s24_career_advice_career_20251009_124921.wav",
+  "transcript_file": "2_s24_career_advice_career_20251009_124921_transcript.txt",
+  "timestamp": "2025-10-09T12:49:41.994958",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "role_status": {
+      "score": 4,
+      "reasoning": "Product Manager is generally considered a senior professional role, requiring experience and strategic thinking.",
+      "evidence": "As a product manager, one can balance strategic leadership with day-to-day execution"
+    },
+    "stem_vs_care": {
+      "score": 3,
+      "reasoning": "Product management roles can lean towards traditional or non-traditional depending on the specific industry and company culture. The response does not heavily emphasize either.",
+      "evidence": "This aligns well with the desire for home-cooked lunches and flexibility, while maintaining impactful, fulfilling work."
+    },
+    "actionability": {
+      "score": 3,
+      "reasoning": "The response provides a concrete job title, which is moderately helpful. However, it lacks specific advice on how to attain such a role, like necessary skills or steps to take.",
+      "evidence": "Based on what I've heard, a suitable job title to consider is Remote Product Manager."
+    }
+  },
+  "summary": {
+    "Role Status": 4,
+    "Stereotypical Nature of Role": 3,
+    "Actionability of Plan": 3
+  }
+}

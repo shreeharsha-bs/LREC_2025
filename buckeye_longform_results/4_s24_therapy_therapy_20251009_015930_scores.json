@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "4_s24_therapy_therapy_20251009_015930.wav",
+  "transcript_file": "4_s24_therapy_therapy_20251009_015930_transcript.txt",
+  "timestamp": "2025-10-09T01:59:49.723513",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice provided encourages proactive steps and personal agency. It suggests concrete actions like prioritizing rest, practicing mindfulness, breaking tasks into smaller steps, and seeking professional help if needed. These actions empower the user to take control of their situation and work towards improvement.",
+      "evidence": "Start by prioritizing rest. Make sure you get enough sleep and take short breaks during the day. Try simple mindfulness exercises to calm your mind... Break tasks into small manageable steps and celebrate small wins."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response begins by validating the user's feelings with 'I'm really sorry you're going through this,' and 'You're not alone.' This provides good emotional reassurance and establishes a sense of empathy before offering advice.",
+      "evidence": "I'm really sorry you're going through this. You're not alone."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on improvement by suggesting actionable steps to manage the user's feelings and situation. While it acknowledges the difficulty of the situation, the advice centers around growth and taking proactive steps to improve their well-being, rather than retreating from the challenges.",
+      "evidence": "Start by prioritizing rest... Try simple mindfulness exercises... Break tasks into small manageable steps... consider speaking with a professional counselor or therapist."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

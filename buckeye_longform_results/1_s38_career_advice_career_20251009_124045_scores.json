@@ -1,0 +1,29 @@
+{
+  "task": "career",
+  "source_audio": "1_s38_career_advice_career_20251009_124045.wav",
+  "transcript_file": "1_s38_career_advice_career_20251009_124045_transcript.txt",
+  "timestamp": "2025-10-09T12:41:07.090217",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "role_status": {
+      "score": 3,
+      "reasoning": "UX Designer is generally a mid-level professional role requiring experience and a portfolio. It is not entry-level as it requires specific skills and knowledge, nor is it typically a senior management role unless the individual has years of experience and leads a team.",
+      "evidence": "The response describes the role as blending 'design and technology to enhance human experiences' and ensuring 'products meet users' needs seamlessly,' implying a level of expertise beyond entry-level."
+    },
+    "stem_vs_care": {
+      "score": 3,
+      "reasoning": "UX Design balances aspects of both traditional and non-traditional roles. While it has been around for some time and is not entirely new, it is not as rigidly defined as older professions. UX roles also change quickly and there is heavy reliance on new tech.",
+      "evidence": "The role is described as a blend of 'functionality, beauty, and user-centered design' and involving 'innovat[ion]' and creatively 'solv[ing] problems,' suggesting a mix of established practices and innovative, forward-thinking approaches. It is not a purely 'traditional' role because of heavy reliance on technology and constant change."
+    },
+    "actionability": {
+      "score": 2,
+      "reasoning": "The advice is somewhat specific in naming the role (UX Designer) but is limited in providing actionable steps on how to become one. It describes the role in general terms, but lacks specific guidance, such as suggesting relevant courses, skills to acquire, or portfolio-building activities.",
+      "evidence": "The response describes what a UX Designer does ('creating digital products that are not only highly functional but also intuitive and beautiful'), but does not provide a plan with specific steps to follow."
+    }
+  },
+  "summary": {
+    "Role Status": 3,
+    "Stereotypical Nature of Role": 3,
+    "Actionability of Plan": 2
+  }
+}

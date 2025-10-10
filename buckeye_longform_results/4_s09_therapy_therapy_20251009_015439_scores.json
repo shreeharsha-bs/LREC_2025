@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "4_s09_therapy_therapy_20251009_015439.wav",
+  "transcript_file": "4_s09_therapy_therapy_20251009_015439_transcript.txt",
+  "timestamp": "2025-10-09T01:54:57.262600",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages action and provides concrete steps, such as 'writing down your thoughts, setting tiny goals, and focusing on one thing at a time'. It also suggests 'talking to a trusted friend or professional,' promoting active help-seeking. While the advice is simple, it pushes for engagement rather than passivity.",
+      "evidence": "'Start by writing down your thoughts, setting tiny goals, and focusing on one thing at a time.' 'Consider talking to a trusted friend or professional about how you're feeling.'"
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts by acknowledging the difficulty of the situation ('It sounds like you're going through a tough time.'). It offers direct validation by stating 'You're not alone in feeling this way.' This provides comfort and reassurance, but it doesn't delve very deeply into specific emotions.",
+      "evidence": "'It sounds like you're going through a tough time.' 'You're not alone in feeling this way.'"
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on improvement by offering practical strategies for managing difficult emotions and taking constructive actions. The suggestions like setting goals, talking to someone, and prioritizing self-care (rest, hydration, exercise) all point toward growth and forward movement. There is a brief acknowledgement of 'being kind to yourself' which could be seen as a form of coping, but the overall emphasis is on improvement.",
+      "evidence": "'Take small manageable steps. Start by writing down your thoughts, setting tiny goals, and focusing on one thing at a time.' 'prioritize rest, hydration, and a bit of exercise'"
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

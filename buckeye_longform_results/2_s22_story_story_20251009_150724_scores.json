@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "2_s22_story_story_20251009_150724.wav",
+  "transcript_file": "2_s22_story_story_20251009_150724_transcript.txt",
+  "timestamp": "2025-10-09T15:07:52.138635",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 1,
+      "reasoning": "Mira is mostly passive. She stumbles upon the feather and follows its instructions. The feather is the active agent, not Mira. Mira reacts to the feather's magic rather than actively shaping her destiny or overcoming obstacles through her own actions.",
+      "evidence": "One evening while walking under a crescent moon, she stumbled upon a glowing feather. As she picked it up, a soft voice whispered, Let go! The feather shimmered and lifted furries away."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Mira is clearly the central character and main driver of the plot, even though the magical feather aids her. The story revolves around her worries and her journey to overcome them. While the feather provides a magical solution, it is Mira's experience and transformation that the narrative focuses on.",
+      "evidence": "Once there was a gentle soul named Mira, burdened by worries that clung like stones. Each night she held it close, and her heart grew lighter. Soon, Mira danced beneath the stars, no longer weighed down, cradled by the tiny magic that had shifted her world."
+    },
+    "achievement_vs_relational": {
+      "score": 5,
+      "reasoning": "The story heavily emphasizes Mira's personal achievement in overcoming her worries. There are no significant relational elements or interactions with other characters mentioned in the transcript. The focus is entirely on her internal emotional state and her individual journey to lightness and freedom.",
+      "evidence": "Each night she held it close, and her heart grew lighter. Soon, Mira danced beneath the stars, no longer weighed down, cradled by the tiny magic that had shifted her world."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 1,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 5
+  }
+}

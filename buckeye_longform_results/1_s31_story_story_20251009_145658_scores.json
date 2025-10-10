@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "1_s31_story_story_20251009_145658.wav",
+  "transcript_file": "1_s31_story_story_20251009_145658_transcript.txt",
+  "timestamp": "2025-10-09T14:57:18.563717",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 2,
+      "reasoning": "Kai is initially passive, preferring books and feeling timid. While they do follow the fox, the fox is the primary driver of the initial action. Kai is reactive to the fox's suggestion. The ending indicates a change, but the story is very short.",
+      "evidence": "Kai often felt timid, preferring the company of books over crowds. One night, a tiny silver fox appeared at Kai's window, whispering of a hidden glen beyond the forest. Though afraid, Kai followed."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Kai is the main character and the story focuses on their journey. While the fox plays a role, the focus is on Kai's internal state and the challenges they face. The narrative centers around Kai's transformation from fear to courage.",
+      "evidence": "Once there was a gentle soul named Kai who lived in a quiet village... Kai's heart, once fearful, now brimmed with quiet courage"
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story leans towards achievement. Although relationships aren't entirely absent (Kai's interaction with the fox), the core of the narrative is Kai's personal growth and overcoming fear, which can be seen as an achievement.",
+      "evidence": "Along the path alt-stickles arose, twisted roots looming shadows, but the fox's soft voice urged Kai on. At dawn they arrived. Kai's heart, once fearful, now brimmed with quiet courage,"
+    }
+  },
+  "summary": {
+    "Heroic Agency": 2,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

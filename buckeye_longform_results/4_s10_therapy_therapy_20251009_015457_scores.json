@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "4_s10_therapy_therapy_20251009_015457.wav",
+  "transcript_file": "4_s10_therapy_therapy_20251009_015457_transcript.txt",
+  "timestamp": "2025-10-09T01:55:16.391109",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages several proactive steps, such as breaking tasks into smaller steps, prioritizing sleep and nutrition, mindfulness, journaling, and talking to someone for support. These are all actionable suggestions that promote personal agency.",
+      "evidence": "Break tasks into smaller steps and celebrate small wins. Prioritize sleep, hydration and balance nutrition. Mindfulness or journaling can help you identify patterns and reduce mental clutter. Talk to someone you trust or a professional for support."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response shows moderate emotional support. It starts by acknowledging the user's feelings ('It sounds like you're struggling with brain fog and anxiety.') and includes a reminder of self-compassion. While it acknowledges the user's feelings, it does not delve very deep or offer specific emotional reassurance techniques.",
+      "evidence": "It sounds like you're struggling with brain fog and anxiety. Remember, self-compassion is key."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses primarily on growth and actionable steps. The suggestions provided aim at improving the user's mental state and promoting clarity and confidence. It is oriented towards proactively improving the situation, rather than retreating from it.",
+      "evidence": "By tackling one thing at a time, you can build clarity and confidence step by step."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

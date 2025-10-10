@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "4_s30_therapy_therapy_20251009_020126.wav",
+  "transcript_file": "4_s30_therapy_therapy_20251009_020126_transcript.txt",
+  "timestamp": "2025-10-09T02:01:47.349128",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps, such as writing down thoughts, breaking things into small steps, prioritizing self-care, and communicating openly. These all encourage the user to take an active role in managing their feelings and situation.",
+      "evidence": "Start by writing down your thoughts and worries. Break things into small manageable steps. Prioritize basic self-care. Communicate openly with someone you trust, and consider talking to a professional. Making one small decision at a time can build confidence."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response demonstrates good emotional validation by acknowledging the user's feelings and offering reassurance. It starts with an apology and expresses understanding before offering advice. There is a compassionate and validating tone throughout the response.",
+      "evidence": "I'm really sorry you're feeling this way. First, take a deep breath and recognize that you're not alone in this. Be gentle with yourself, and remember that progress takes time. You're doing the best you can."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response emphasizes improvement and growth rather than avoidance or retreat. While it acknowledges the difficulty of the situation, it focuses on actionable steps to move forward, such as self-care, communication, and seeking professional help.",
+      "evidence": "Start by writing down your thoughts and worries. Break things into small manageable steps. Prioritize basic self-care. Communicate openly with someone you trust, and consider talking to a professional. Making one small decision at a time can build confidence. Be gentle with yourself, and remember that progress takes time."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

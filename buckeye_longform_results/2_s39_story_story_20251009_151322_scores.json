@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "2_s39_story_story_20251009_151322.wav",
+  "transcript_file": "2_s39_story_story_20251009_151322_transcript.txt",
+  "timestamp": "2025-10-09T15:13:45.094691",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 2,
+      "reasoning": "Mira's actions are mostly reactive. She finds a magical pebble that initiates the change. She doesn't actively seek out a solution but responds to the pebble's offer.",
+      "evidence": "One night while gazing at the moon, she found a shimmering pebble glowing in the grass. Whispering to it, the pebble spoke back, let me hold one of your burdens."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Mira is the central focus. The story revolves around her worries and how she overcomes them. Her interaction with the pebble directly addresses her distress.",
+      "evidence": "Once there was a person named Mira, whose shoulders felt heavy with worries...Each night she shared a little more, until her worries were no longer heavy, and she slept peacefully under the stars."
+    },
+    "achievement_vs_relational": {
+      "score": 1,
+      "reasoning": "The story is centered on the emotional resolution of Mira's worries. There isn't any element of achievement or goal-oriented pursuit.",
+      "evidence": "Each night she shared a little more, until her worries were no longer heavy, and she slept peacefully under the stars."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 2,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 1
+  }
+}

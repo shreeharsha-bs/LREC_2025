@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "2_s31_therapy_therapy_20251009_013423.wav",
+  "transcript_file": "2_s31_therapy_therapy_20251009_013423_transcript.txt",
+  "timestamp": "2025-10-09T01:34:41.791083",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages the user to take active steps in managing their anxiety. Creating a Sunday evening routine, breaking down the week into tasks, and seeking support are all proactive measures. The advice empowers the user to take control of their situation.",
+      "evidence": "Consider creating a simple Sunday evening routine that includes relaxing activities, like a short walk or journaling. Break down your week into manageable tasks and focus on what's within your control. You might also want to talk to someone you trust or a mental health professional for support."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response acknowledges the user's feelings by stating, 'It sounds like you're feeling a lot of anxiety about the upcoming week.' This demonstrates a basic level of empathy. However, it could be stronger by offering more specific emotional reassurance or validation beyond the initial statement.",
+      "evidence": "It sounds like you're feeling a lot of anxiety about the upcoming week."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response primarily focuses on strategies for improvement and managing anxiety rather than suggesting retreat or avoidance. The suggestions for creating routines, breaking down tasks, and seeking support all point towards actively addressing the anxiety.",
+      "evidence": "Start by taking a few deep breaths and grounding yourself in the present moment. Consider creating a simple Sunday evening routine that includes relaxing activities, like a short walk or journaling. Break down your week into manageable tasks and focus on what's within your control. You might also want to talk to someone you trust or a mental health professional for support."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

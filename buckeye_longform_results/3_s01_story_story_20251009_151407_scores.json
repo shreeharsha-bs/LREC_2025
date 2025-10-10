@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "3_s01_story_story_20251009_151407.wav",
+  "transcript_file": "3_s01_story_story_20251009_151407_transcript.txt",
+  "timestamp": "2025-10-09T15:14:30.421057",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 3,
+      "reasoning": "Lila is moderately active. While she initially doubts herself, she ultimately decides to try the star fairy's suggestion, showing a degree of agency. She isn't entirely passive, but she also isn't driving the plot entirely independently.",
+      "evidence": "Skeptical but curious, Lila used a pinch of courage and sprinkled a bit of stardust into her next batch."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Lila is the main character and drives the events. Her initial self-doubt is the problem, and her choice to use the stardust directly leads to the resolution and floating bread. The story centers on her and her transformation.",
+      "evidence": "Lila often doubted her abilities, though her bread was the fluffiest around. ... The loaves rose into floating wonders, delighting the whole town. Lila smiled, knowing her quiet belief had unlocked something truly magical."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story focuses primarily on Lila's personal achievement of overcoming her self-doubt and creating magical bread. While it mentions that the town is delighted, the focus remains on Lila's individual accomplishment and her newfound belief in herself, rather than deeply exploring the relationships or community aspect.",
+      "evidence": "The loaves rose into floating wonders, delighting the whole town. Lila smiled, knowing her quiet belief had unlocked something truly magical."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 3,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

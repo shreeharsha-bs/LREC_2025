@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "4_s27_therapy_therapy_20251009_020028.wav",
+  "transcript_file": "4_s27_therapy_therapy_20251009_020028_transcript.txt",
+  "timestamp": "2025-10-09T02:00:47.602623",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice is generally encouraging action and provides specific steps, such as 'Try writing down your tasks and decisions' and 'Break things into small manageable steps.' These suggestions empower the individual to take control and address their challenges proactively.",
+      "evidence": "'Try writing down your tasks and decisions,' 'Break things into small manageable steps,' 'Prioritize sleep, hydration, and a bit of physical movement.'"
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts with 'I'm really sorry you're feeling this way,' which is a clear expression of empathy and validation. This establishes a supportive tone and acknowledges the individual's emotional state before offering advice.",
+      "evidence": "'I'm really sorry you're feeling this way.'"
+    },
+    "improvement_vs_retreat": {
+      "score": 5,
+      "reasoning": "The response focuses on growth and actionable next steps. The advice given centers on improving the situation through organization, self-care, and seeking support. There is no suggestion of withdrawal or escape, but rather a proactive approach to managing difficulties.",
+      "evidence": "'Try writing down your tasks and decisions,' 'Break things into small manageable steps,' 'Prioritize sleep, hydration, and a bit of physical movement,' 'Talking to a trusted friend or counselor can provide support.'"
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 5
+  }
+}

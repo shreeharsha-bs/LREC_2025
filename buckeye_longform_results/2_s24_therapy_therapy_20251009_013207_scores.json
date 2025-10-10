@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "2_s24_therapy_therapy_20251009_013207.wav",
+  "transcript_file": "2_s24_therapy_therapy_20251009_013207_transcript.txt",
+  "timestamp": "2025-10-09T01:32:29.393594",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps, such as planning for the week, practicing relaxation techniques, and talking to someone. These are active strategies the user can implement themselves, promoting a sense of control and agency.",
+      "evidence": "One thing you could do next is set aside some time to plan for the week ahead in a calm and structured way. Consider trying some relaxation techniques like deep breathing or a short walk...You might also talk to someone you trust about how you're feeling."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response starts with an acknowledgement of the user's feelings (\"I'm really sorry to hear you're feeling that way.\"). This shows some empathy and validation, but it's relatively brief. While the response does suggest talking to someone trusted, this is more about seeking support than providing direct emotional reassurance from the AI itself.",
+      "evidence": "\"I'm really sorry to hear you're feeling that way.\""
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response primarily focuses on actionable steps to improve the user's situation, rather than suggesting avoidance or retreat. Planning for the week, relaxation techniques, and seeking support are all strategies aimed at managing the anxiety and tension proactively.",
+      "evidence": "One thing you could do next is set aside some time to plan for the week ahead...Consider trying some relaxation techniques...You might also talk to someone you trust..."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

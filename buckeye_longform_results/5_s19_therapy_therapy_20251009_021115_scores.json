@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "5_s19_therapy_therapy_20251009_021115.wav",
+  "transcript_file": "5_s19_therapy_therapy_20251009_021115_transcript.txt",
+  "timestamp": "2025-10-09T02:11:33.717120",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice provided generally encourages action and proactive steps. It suggests breaking down tasks, celebrating small wins, and seeking support, all of which promote personal agency.",
+      "evidence": "Break tasks into smaller, more manageable steps and celebrate small wins. Talk to someone you trust or a mentor for perspective. Reintroduce something you enjoy each day, even if small."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts with an empathetic statement, showing good emotional validation by acknowledging the user's feelings of being overwhelmed.",
+      "evidence": "I hear you and it sounds really overwhelming."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response leans more towards improvement. While it suggests a short break, the focus is primarily on realigning with purpose, breaking down tasks, and reintroducing enjoyable activities, which are all growth-oriented strategies.",
+      "evidence": "The next step might be to pause and reconnect with your original passion. Break tasks into smaller, more manageable steps and celebrate small wins. Reintroduce something you enjoy each day, even if small. Remember, realign with your purpose one step at a time."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

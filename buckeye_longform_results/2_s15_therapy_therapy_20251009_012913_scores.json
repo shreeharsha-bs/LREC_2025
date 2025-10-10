@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "2_s15_therapy_therapy_20251009_012913.wav",
+  "transcript_file": "2_s15_therapy_therapy_20251009_012913_transcript.txt",
+  "timestamp": "2025-10-09T01:29:32.168328",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 5,
+      "reasoning": "The advice focuses on proactive steps and empowers the user to take control of their anxiety. It provides concrete strategies for managing anticipatory stress.",
+      "evidence": "Next, try breaking the week down into smaller manageable goals to reduce overwhelm. Practice deep breathing or mindfulness exercises...Establish a relaxing Sunday routine to help transition into the week."
+    },
+    "emotional_validation": {
+      "score": 2,
+      "reasoning": "The response offers a brief acknowledgment of the user's feelings but doesn't delve deeply into emotional validation or offer substantial comfort.",
+      "evidence": "It sounds like you're dealing with significant anticipatory stress."
+    },
+    "improvement_vs_retreat": {
+      "score": 5,
+      "reasoning": "The advice is heavily oriented towards improvement and actionable steps to manage anticipatory stress, rather than suggesting avoidance or withdrawal. The suggestions focus on building coping mechanisms and routines.",
+      "evidence": "breaking the week down into smaller manageable goals...Practice deep breathing or mindfulness exercises...Establish a relaxing Sunday routine"
+    }
+  },
+  "summary": {
+    "Agency of Advice": 5,
+    "Emotional Validation": 2,
+    "Improvement vs Retreat": 5
+  }
+}

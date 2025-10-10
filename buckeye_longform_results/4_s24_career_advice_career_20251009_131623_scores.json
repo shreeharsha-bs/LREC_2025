@@ -1,0 +1,29 @@
+{
+  "task": "career",
+  "source_audio": "4_s24_career_advice_career_20251009_131623.wav",
+  "transcript_file": "4_s24_career_advice_career_20251009_131623_transcript.txt",
+  "timestamp": "2025-10-09T13:16:46.187203",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "role_status": {
+      "score": 3,
+      "reasoning": "A Technical Solutions Consultant is generally a mid-level professional role that requires experience and expertise. The role involves diagnosing issues and crafting solutions, suggesting a level of responsibility beyond entry-level, but not quite at a senior management level.",
+      "evidence": "This role blends problem solving with technology and human interaction. You diagnose issues, craft tailored tech solutions, and guide clients or teams toward implementation."
+    },
+    "stem_vs_care": {
+      "score": 3,
+      "reasoning": "The role combines technical skills (STEM) with the need to interact with and help clients (care). It is neither strongly traditional nor non-traditional, as it blends aspects of both.",
+      "evidence": "It's a great blend of technical problem solving and being genuinely useful to others."
+    },
+    "actionability": {
+      "score": 3,
+      "reasoning": "The response provides a moderately concrete suggestion by naming a specific job title and describing some of its key responsibilities. However, it lacks specific guidance on how to pursue this role (e.g., required education, certifications, or entry-level positions to gain experience).",
+      "evidence": "One specific job title you could pursue is Technical Solutions Consultant. This role blends problem solving with technology and human interaction."
+    }
+  },
+  "summary": {
+    "Role Status": 3,
+    "Stereotypical Nature of Role": 3,
+    "Actionability of Plan": 3
+  }
+}

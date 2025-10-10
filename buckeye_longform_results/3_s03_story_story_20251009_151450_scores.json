@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "3_s03_story_story_20251009_151450.wav",
+  "transcript_file": "3_s03_story_story_20251009_151450_transcript.txt",
+  "timestamp": "2025-10-09T15:15:09.972511",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 4,
+      "reasoning": "The protagonist takes active steps to shape the story. After finding the seashell, Ren gathers courage and follows its glow, leading to a new world. This shows a proactive character.",
+      "evidence": "Gathering courage, Wren followed its glow and discovered a world where books became living adventures."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Ren is the main character that drives the plot. Their discovery of the seashell and subsequent journey are central to the story's events. While not in direct distress, Ren's curiosity and courage are what propel the narrative.",
+      "evidence": "One night, Ren found a blowing seashell hidden in an old atlas. The shell whispered of a hidden lagoon where dreams took shape. Gathering courage, Wren followed its glow and discovered a world where books became living adventures."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story focuses more on Ren's personal achievement of discovering and believing in their own magic. While not devoid of relational elements, the main arc revolves around their internal growth and the accomplishment of finding a hidden world.",
+      "evidence": "Each step taught Wren to believe in their own magic. By dawn, Wren returned, no longer ordinary, but a believer in endless possibilities."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 4,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

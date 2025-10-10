@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "1_s15_therapy_therapy_20251009_011548.wav",
+  "transcript_file": "1_s15_therapy_therapy_20251009_011548_transcript.txt",
+  "timestamp": "2025-10-09T01:16:06.688984",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 5,
+      "reasoning": "The response provides clear, actionable steps, such as setting an intention and replacing screen time with calming activities. It empowers the user to take control of their evening routine and build healthier habits.",
+      "evidence": "Next, try setting a small positive intention for your evenings. Start by putting your phone down 30 minutes before bed. Replace that screen time with a calming activity"
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response begins by acknowledging the user's feelings of being drained and stuck, which provides some emotional validation. However, it doesn't delve deeply into these feelings or offer significant reassurance.",
+      "evidence": "It sounds like you're feeling drained and stuck in a cycle."
+    },
+    "improvement_vs_retreat": {
+      "score": 5,
+      "reasoning": "The response strongly emphasizes improvement by suggesting concrete steps for building a healthier evening routine. It focuses on growth and actionable next steps, such as setting intentions, reducing screen time, and engaging in calming activities. These actions are oriented towards improving overall well-being and not on retreating from challenges.",
+      "evidence": "Over time, you'll build a healthier evening routine, helping you feel more recharged and in control."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 5,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 5
+  }
+}

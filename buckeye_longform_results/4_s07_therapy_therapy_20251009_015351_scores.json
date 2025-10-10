@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "4_s07_therapy_therapy_20251009_015351.wav",
+  "transcript_file": "4_s07_therapy_therapy_20251009_015351_transcript.txt",
+  "timestamp": "2025-10-09T01:54:10.703016",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps and personal agency. It provides actionable advice like breaking tasks into smaller steps, prioritizing self-care, and setting realistic goals. It empowers the user to take control of their situation.",
+      "evidence": "\"Break tasks into smaller manageable steps.\", \"Prioritize sleep, hydration and balanced nutrition to support your brain.\", \"Practice mindfulness or meditation to calm your thoughts.\", \"Remember, it's okay to set realistic, personal goals rather than meeting everyone's expectations.\""
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts with an empathic statement acknowledging the user's feelings, which provides good emotional validation. It makes the user feel understood before providing actionable advice. It shows that it is listening and validates the user's feelings.",
+      "evidence": "\"It sounds like you're dealing with mental fog and anxiety about expectations.\""
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response emphasizes improvement and actionable next steps. It focuses on strategies for managing anxiety and mental fog rather than suggesting avoidance or withdrawal. Although it suggests \"slowing down\" this is to enable improvement and is not the overall focus of the answer.",
+      "evidence": "\"Start by giving yourself permission to slow down. Break tasks into smaller manageable steps. Prioritize sleep, hydration and balanced nutrition to support your brain. Practice mindfulness or meditation to calm your thoughts. Journaling can help clarify feelings and decisions.\""
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

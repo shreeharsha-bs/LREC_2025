@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "1_s26_therapy_therapy_20251009_011922.wav",
+  "transcript_file": "1_s26_therapy_therapy_20251009_011922_transcript.txt",
+  "timestamp": "2025-10-09T01:19:51.780809",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages the user to take action and set goals. It provides concrete examples, such as reading, journaling, or walking. The advice is actionable and empowers the user to make small changes to improve their situation.",
+      "evidence": "Try setting a short goal each evening, like reading a few pages of a book, journaling for five minutes, or taking a walk. This can gradually reawaken your interests and give your mind a break from the scrolling."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response shows moderate emotional support by acknowledging the user's feelings of being drained and stuck. It validates the user's experience but doesn't delve deeply into their emotions.",
+      "evidence": "It sounds like you're feeling really drained and stuck in a habit that's not fulfilling."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on improvement by suggesting activities to reawaken interests and break free from negative habits. While it acknowledges the need for a 'break,' the overall emphasis is on growth and taking positive steps forward.",
+      "evidence": "This can gradually reawaken your interests and give your mind a break from the scrolling. Also reflect on what used to bring you joy and try reintroducing it in small doses."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

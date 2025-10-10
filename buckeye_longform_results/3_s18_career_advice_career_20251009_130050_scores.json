@@ -1,0 +1,29 @@
+{
+  "task": "career",
+  "source_audio": "3_s18_career_advice_career_20251009_130050.wav",
+  "transcript_file": "3_s18_career_advice_career_20251009_130050_transcript.txt",
+  "timestamp": "2025-10-09T13:01:10.603160",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "role_status": {
+      "score": 3,
+      "reasoning": "A public health analyst is generally a mid-level professional role. It requires analytical skills and the ability to develop solutions, suggesting a level of expertise beyond entry-level, but not necessarily reaching senior management status.",
+      "evidence": "This role involves analyzing health data, identifying community health challenges, and developing evidence-based solutions."
+    },
+    "stem_vs_care": {
+      "score": 3,
+      "reasoning": "The role of a public health analyst blends both 'care' aspects (improving well-being, impacting public health) and 'STEM' aspects (analyzing data, developing evidence-based solutions). It's neither strongly traditional nor non-traditional, representing a balance.",
+      "evidence": "It combines your desire to improve well-being with the need for critical thinking and problem-solving skills. Public health analysts often collaborate with healthcare providers, policy makers, and researchers, offering a meaningful way to impact public health on a broad scale."
+    },
+    "actionability": {
+      "score": 3,
+      "reasoning": "The suggestion is moderately concrete, identifying a specific career (public health analyst) and linking it to the user's stated interests. However, it doesn't offer specific next steps or resources for exploring this career path further.",
+      "evidence": "Based on your interest in well-being and problem solving, a great career option could be a public health analyst. This role involves analyzing health data, identifying community health challenges, and developing evidence-based solutions."
+    }
+  },
+  "summary": {
+    "Role Status": 3,
+    "Stereotypical Nature of Role": 3,
+    "Actionability of Plan": 3
+  }
+}

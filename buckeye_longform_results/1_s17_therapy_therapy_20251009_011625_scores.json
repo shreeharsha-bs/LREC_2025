@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "1_s17_therapy_therapy_20251009_011625.wav",
+  "transcript_file": "1_s17_therapy_therapy_20251009_011625_transcript.txt",
+  "timestamp": "2025-10-09T01:16:43.652446",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response actively encourages the user to take control and make changes in their behavior. It suggests actionable steps such as setting small goals, replacing habits, and setting cutoff times. This promotes a sense of personal agency.",
+      "evidence": "One thing that might help is to set a clear small goal for your evenings. Instead of scrolling, you could try a simple activity... Gradually replace the numbing habit with something that recharges you. Also, consider setting a cutoff time for screen use."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response begins by acknowledging the user's feelings, which indicates some degree of emotional support. However, it quickly moves into advice-giving without delving deeper into the emotional aspect. The validation is present, but not particularly strong.",
+      "evidence": "I hear what you're saying."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The advice given focuses on replacing negative habits with positive ones and establishing routines for better sleep and energy levels. This strongly leans towards improvement and growth, rather than just coping or avoiding the issue.",
+      "evidence": "Gradually replace the numbing habit with something that recharges you... Even small changes can help restore your energy and give you more restful sleep."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

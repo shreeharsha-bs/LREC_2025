@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "4_s21_therapy_therapy_20251009_015830.wav",
+  "transcript_file": "4_s21_therapy_therapy_20251009_015830_transcript.txt",
+  "timestamp": "2025-10-09T01:58:48.565474",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages the user to take proactive steps in managing their mental fog and anxiety, such as prioritizing self-care, breaking tasks into smaller steps, and practicing mindfulness. These are all actionable items the user can implement.",
+      "evidence": "Start by prioritizing self-care. Get enough sleep, eat nutritious meals, and get some light exercise. Break tasks into small, manageable steps. Prioritize what's most important... Practice mindfulness or deep breathing to reduce anxiety."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response shows moderate emotional support. It starts by acknowledging the user's feelings (mental fog and anxiety). It encourages the user to be kind to themselves, which shows some emotional understanding.",
+      "evidence": "It sounds like you're dealing with mental fog and anxiety. ... Remember to be kind to yourself..."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response predominantly focuses on improvement and growth. It suggests actionable steps for self-care, task management, and anxiety reduction, all aimed at improving the user's mental state rather than retreating from challenges.",
+      "evidence": "Start by prioritizing self-care. Get enough sleep, eat nutritious meals, and get some light exercise. Break tasks into small, manageable steps. Prioritize what's most important rather than trying to meet everyone's expectations. Practice mindfulness or deep breathing to reduce anxiety."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

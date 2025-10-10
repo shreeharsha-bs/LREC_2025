@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "1_s02_therapy_therapy_20251009_011137.wav",
+  "transcript_file": "1_s02_therapy_therapy_20251009_011137_transcript.txt",
+  "timestamp": "2025-10-09T01:11:56.730171",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages action by suggesting concrete alternatives to phone use, like reading, meditation, or going outside. These are proactive steps.",
+      "evidence": "One next step could be to introduce a simple, calming activity to wind down. Like reading a few pages of a book, doing a short guided meditation, or even stepping outside for some fresh air."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response begins by acknowledging the user's feelings of being drained, indicating empathy and understanding. The opening statement, \"I hear you. It sounds like you're really drained...\" shows good emotional validation.",
+      "evidence": "I hear you. It sounds like you're really drained and using your phone to zone out."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on improvement by suggesting activities that will help the user wind down and break the cycle of using their phone to \"zone out\". These actions are aimed at fostering growth and healthier habits rather than just retreating.",
+      "evidence": "This can help give your mind a break from the screen and bring a little more peace before bed."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

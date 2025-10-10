@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "3_s18_therapy_therapy_20251009_014348.wav",
+  "transcript_file": "3_s18_therapy_therapy_20251009_014348_transcript.txt",
+  "timestamp": "2025-10-09T01:44:07.895518",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages the user to take several proactive steps. It suggests opening up to someone, journaling, engaging in joyful activities, and seeking professional help. While not explicitly decisive, it leans towards action-oriented advice.",
+      "evidence": "Try opening up to someone you trust...Journaling your emotions...Small steps toward activities that bring you genuine joy...Consider speaking with a counselor or therapist."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response offers good emotional validation by acknowledging the user's feelings and normalizing them. It also encourages self-compassion, which is a strong form of emotional support.",
+      "evidence": "It sounds like you're carrying a heavy emotional load. First, acknowledge that it's okay to feel this way...Remember, being kind to yourself is a powerful first step."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on growth and actionable next steps for improvement. It suggests strategies for understanding and rebuilding authenticity, emphasizing moving forward rather than retreating.",
+      "evidence": "Journaling your emotions can also help you understand them better. Small steps toward activities that bring you genuine joy can rebuild authenticity."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

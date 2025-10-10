@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "5_s01_therapy_therapy_20251009_020504.wav",
+  "transcript_file": "5_s01_therapy_therapy_20251009_020504_transcript.txt",
+  "timestamp": "2025-10-09T02:05:23.823186",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response provides several actionable steps the user can take to address their feelings of being overwhelmed and disconnected. These include reflecting on initial motivations, setting aside time for purpose, breaking down tasks, and prioritizing self-care. These suggestions encourage the user to take control and proactively work towards feeling better.",
+      "evidence": "Phrases like \"Take a step back and reflect,\" \"Set aside a short amount of time,\" \"Break down your tasks,\" and \"Prioritize self-care\" all encourage active engagement from the user."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response demonstrates good emotional validation by acknowledging the user's feelings of overwhelm and disconnection. It provides reassurance and empathy, creating a supportive environment. The statement \"Remember, you're not alone\" is a clear indicator of emotional support.",
+      "evidence": "The phrase \"It sounds like you're feeling overwhelmed and disconnected from your original motivation\" directly acknowledges the user's feelings. The statement \"Remember, you're not alone\" provides emotional support."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response primarily focuses on improvement and growth. It suggests strategies for reconnecting with initial motivations, managing tasks more effectively, and prioritizing self-care. While acknowledging potential difficulties, the overall emphasis is on moving forward and making positive changes.",
+      "evidence": "Suggestions like \"reconnect with that purpose,\" \"Break down your tasks into smaller, manageable steps,\" and \"Prioritize self-care\" all promote improvement and positive action. The phrase \"small steps can guide you forward\" explicitly encourages progress."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

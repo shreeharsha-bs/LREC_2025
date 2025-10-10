@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "1_s22_therapy_therapy_20251009_011802.wav",
+  "transcript_file": "1_s22_therapy_therapy_20251009_011802_transcript.txt",
+  "timestamp": "2025-10-09T01:18:22.166235",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages action by suggesting concrete steps like \"reading a light book,\" \"listening to soothing music,\" \"doing a brief meditation,\" and \"a short walk or some gentle stretching.\" These are all proactive steps one can take.",
+      "evidence": "Try reading a light book, listening to soothing music, or doing a brief meditation. Even a short walk or some gentle stretching can help shift your energy."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response starts by acknowledging the user's feelings of being \"drained and stuck in a rut,\" which provides some emotional validation. However, it doesn't delve deeply into exploring these feelings or offering strong reassurance beyond that initial acknowledgment.",
+      "evidence": "It sounds like you're feeling drained and stuck in a rut."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response leans towards improvement by suggesting activities that promote well-being and energy shifting, rather than advocating for withdrawal or escape. The suggestions focus on actively engaging in calming activities and creating a routine to improve one's state.",
+      "evidence": "Creating a simple evening routine that doesn't involve screams might help you feel more refreshed over time."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

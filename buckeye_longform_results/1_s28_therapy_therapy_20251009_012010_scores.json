@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "1_s28_therapy_therapy_20251009_012010.wav",
+  "transcript_file": "1_s28_therapy_therapy_20251009_012010_transcript.txt",
+  "timestamp": "2025-10-09T01:20:30.513568",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps to break the cycle of mindless scrolling by suggesting a specific evening ritual. The advice encourages action by suggesting tangible activities.",
+      "evidence": "One thing you could try next is a small, intentional evening ritual. Put your phone away 30 minutes before bed and pick a simple calming activity. reading a few pages of a book, jotting down thoughts in a journal, or doing a short meditation."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response begins by acknowledging the user's feelings of being drained and stuck. This acknowledges the user's experience.",
+      "evidence": "It sounds like you're feeling drained and stuck in a cycle of mindless scrolling."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on implementing a new habit to improve the user's situation rather than suggesting complete withdrawal from technology. It encourages reconnection and unwinding which hints towards growth.",
+      "evidence": "This can help your mind unwind and reconnect with what matters to you, gradually bringing back that sense of passion."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

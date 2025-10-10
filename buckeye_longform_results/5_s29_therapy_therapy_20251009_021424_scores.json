@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "5_s29_therapy_therapy_20251009_021424.wav",
+  "transcript_file": "5_s29_therapy_therapy_20251009_021424_transcript.txt",
+  "timestamp": "2025-10-09T02:14:41.389875",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 5,
+      "reasoning": "The advice is very proactive, encouraging the user to take concrete steps like reflecting on what matters, setting achievable goals, and talking to a mentor. It emphasizes personal agency in rebuilding motivation.",
+      "evidence": "Set small achievable goals that bring you joy. Talk to a trusted friend or mentor for perspective. Remember to celebrate small wins and gradually rebuild your motivation."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response demonstrates good emotional validation by acknowledging the user's feelings of being overwhelmed and disconnected. It shows empathy before offering advice.",
+      "evidence": "It sounds like you're feeling overwhelmed and disconnected from your original purpose."
+    },
+    "improvement_vs_retreat": {
+      "score": 5,
+      "reasoning": "The response heavily emphasizes improvement and actionable steps to overcome the feeling of being overwhelmed. There's a clear focus on growth and rebuilding motivation, rather than suggesting withdrawal or avoidance.",
+      "evidence": "Set small achievable goals that bring you joy. Remember to celebrate small wins and gradually rebuild your motivation."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 5,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 5
+  }
+}

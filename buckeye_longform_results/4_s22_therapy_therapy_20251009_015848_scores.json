@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "4_s22_therapy_therapy_20251009_015848.wav",
+  "transcript_file": "4_s22_therapy_therapy_20251009_015848_transcript.txt",
+  "timestamp": "2025-10-09T01:59:12.249125",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response provides several proactive steps the user can take to manage their mental fog and anxiety. It encourages actions like breaking down tasks, journaling, practicing mindfulness, and managing social media. These suggestions empower the user to take control of their situation.",
+      "evidence": "First, try breaking tasks down into very small steps and focus on just one thing at a time. Keep a simple journal to jot down thoughts and decisions. Practice mindfulness or short breathing exercises to ground yourself. Consider limiting social media and comparing yourself to others."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response begins with an acknowledgment of the user's feelings, indicating some level of emotional validation. While not deeply empathetic, it does show an understanding of the user's experience. The validation could be stronger with more direct empathetic statements.",
+      "evidence": "It sounds like you're dealing with mental fog and anxiety around expectations."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response leans towards improvement by suggesting actionable steps like breaking down tasks, practicing mindfulness, and managing social media use. It aims at addressing the root causes of the anxiety and mental fog rather than simply suggesting avoidance strategies.",
+      "evidence": "try breaking tasks down into very small steps and focus on just one thing at a time. Keep a simple journal to jot down thoughts and decisions. Practice mindfulness or short breathing exercises to ground yourself. Consider limiting social media and comparing yourself to others. Make sure you're getting enough rest, hydration, and balanced nutrition."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

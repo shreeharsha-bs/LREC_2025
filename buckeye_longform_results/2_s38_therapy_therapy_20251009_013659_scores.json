@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "2_s38_therapy_therapy_20251009_013659.wav",
+  "transcript_file": "2_s38_therapy_therapy_20251009_013659_transcript.txt",
+  "timestamp": "2025-10-09T01:37:21.761200",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages action by suggesting concrete steps such as breaking the week into smaller tasks, prioritizing self-care, and reaching out for support. These are all proactive measures the user can take.",
+      "evidence": "Consider reaching out to a trusted friend or a mental health professional for support. You might also find it helpful to break your upcoming week into smaller steps and prioritize self-care."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response begins with an acknowledgement of the user's feelings and offers reassurance. The initial statement shows empathy, and phrases like \"Remember, you're not alone and it's okay to ask for help\" provide strong emotional support.",
+      "evidence": "I'm really sorry you're feeling this way. It sounds like you're dealing with a lot of stress and anxiety about the week ahead. Remember, you're not alone and it's okay to ask for help."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response generally focuses on growth by suggesting actionable steps like breaking down tasks and practicing self-care. While it acknowledges the user's feelings, the primary emphasis is on taking steps to manage the stress and anxiety, leading to improvement.",
+      "evidence": "Focus on simple, manageable tasks. Consider reaching out to a trusted friend or a mental health professional for support. You might also find it helpful to break your upcoming week into smaller steps and prioritize self-care."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

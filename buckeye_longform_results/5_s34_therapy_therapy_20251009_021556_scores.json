@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "5_s34_therapy_therapy_20251009_021556.wav",
+  "transcript_file": "5_s34_therapy_therapy_20251009_021556_transcript.txt",
+  "timestamp": "2025-10-09T02:16:14.838591",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps, such as breaking tasks into smaller steps, prioritizing self-care, and reaching out for support. It's not a 'clear and decisive' plan (5), but it provides generally actionable advice.",
+      "evidence": "\"Break tasks into smaller, manageable steps and prioritize self-care. Consider setting aside a few minutes each day for reflection or something you enjoy. Reach out to a trusted friend, mentor, or counselor for support.\""
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts by acknowledging the user's feelings of being overwhelmed and stuck, demonstrating empathy. It also offers comfort by suggesting small adjustments to rediscover purpose and joy, contributing to emotional validation.",
+      "evidence": "\"It sounds like you're feeling overwhelmed and stuck in a cycle.\" and \"Small adjustments can help you rediscover purpose and joy in your work.\""
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on improvement and taking actionable steps to overcome the feeling of being overwhelmed. The emphasis is on rediscovering purpose and joy, rather than suggesting withdrawal or escape.",
+      "evidence": "\"Break tasks into smaller, manageable steps...prioritize self-care...reach out for support...rediscover purpose and joy in your work.\""
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

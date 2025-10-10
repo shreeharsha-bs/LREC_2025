@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "1_s26_story_story_20251009_145508.wav",
+  "transcript_file": "1_s26_story_story_20251009_145508_transcript.txt",
+  "timestamp": "2025-10-09T14:55:29.198322",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 4,
+      "reasoning": "Lila takes action to help the dragon and then flies with it. She isn't purely reactive.",
+      "evidence": "\"One night, she stumbled upon a sleeping dragon, tangled in vines. Though her heart fluttered, she softly sang a tune of calm. The dragon awoke, not with fire, but with gentle eyes. Lila freed the dragon, and in that moment, courage blossomed. From then on, they flew together, whispering bravery into the night.\""
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Lila is the main character driving the events forward. She is the one who finds the dragon, helps it, and then flies with it, making her the central figure.",
+      "evidence": "\"One night, she stumbled upon a sleeping dragon, tangled in vines... Lila freed the dragon, and in that moment, courage blossomed. From then on, they flew together, whispering bravery into the night.\""
+    },
+    "achievement_vs_relational": {
+      "score": 3,
+      "reasoning": "The story focuses on both Lila's achievement in overcoming her shyness and helping the dragon, but also on the relationship that develops between them.",
+      "evidence": "\"Lila freed the dragon, and in that moment, courage blossomed. From then on, they flew together, whispering bravery into the night.\" The first part of the quote displays an achievement (overcoming shyness), the latter part displays relational bond with the dragon."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 4,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 3
+  }
+}

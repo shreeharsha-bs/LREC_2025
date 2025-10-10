@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "2_s16_therapy_therapy_20251009_012932.wav",
+  "transcript_file": "2_s16_therapy_therapy_20251009_012932_transcript.txt",
+  "timestamp": "2025-10-09T01:29:49.980900",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice encourages proactive steps and personal agency. Suggestions include creating a calming Sunday routine, breaking down tasks, setting goals, and talking to a friend or counselor. These all require the user to take action.",
+      "evidence": "One thing that might help is creating a calming Sunday routine, like taking a walk, practicing deep breathing, or meditating. You might also want to break down your week into smaller, manageable tasks and set realistic goals. Talking to a trusted friend or a counselor could offer extra support."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response begins by acknowledging the user's anxiety, which provides some emotional validation. However, it quickly transitions to advice without delving deeper into the feelings.",
+      "evidence": "It sounds like you're dealing with a lot of anxiety as the new week approaches."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on growth and actionable next steps, offering concrete suggestions for managing anxiety and preparing for the week. There's no mention of avoidance or withdrawal.",
+      "evidence": "creating a calming Sunday routine, like taking a walk, practicing deep breathing, or meditating. You might also want to break down your week into smaller, manageable tasks and set realistic goals."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

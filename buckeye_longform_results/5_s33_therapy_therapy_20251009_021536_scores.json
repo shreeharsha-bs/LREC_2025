@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "5_s33_therapy_therapy_20251009_021536.wav",
+  "transcript_file": "5_s33_therapy_therapy_20251009_021536_transcript.txt",
+  "timestamp": "2025-10-09T02:15:56.744726",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response provides multiple actionable steps, such as identifying a small meaningful task and talking to someone. While it does suggest a break, it frames it as a way to reconnect with motivation, which ultimately leads to action. The focus is on taking intentional steps forward.",
+      "evidence": "\"Identify one small meaningful task you can do today that aligns with your values.\", \"consider talking to someone you trust or a professional to gain perspective.\", \"Small intentional steps can help you rediscover your purpose and rekindle joy.\""
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response offers some emotional validation by acknowledging the user's feelings of being overwhelmed and stuck. It doesn't delve deeply into the emotions but shows an awareness of the user's state.",
+      "evidence": "\"It sounds like you're feeling overwhelmed and stuck.\""
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response leans towards improvement by suggesting ways to rediscover purpose and rekindle joy. Although it recommends a break, it frames it as a method to enhance future action and growth rather than pure retreat or avoidance.",
+      "evidence": "\"Take a short break to reflect on what drove you to begin this journey.\", \"Small intentional steps can help you rediscover your purpose and rekindle joy.\""
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

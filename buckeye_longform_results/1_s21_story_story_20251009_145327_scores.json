@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "1_s21_story_story_20251009_145327.wav",
+  "transcript_file": "1_s21_story_story_20251009_145327_transcript.txt",
+  "timestamp": "2025-10-09T14:53:48.400405",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 3,
+      "reasoning": "Kai's actions shape the story to a moderate extent. While finding the lantern is somewhat passive, lifting it and scattering the darkness demonstrates active agency. The character moves from feeling small to acting bravely, indicating a degree of control over their situation.",
+      "evidence": "\"Kai often felt small and unsure, but one night they found a hidden lantern glowing gently... Kai lifted the lantern high, and its light scattered the darkness.\""
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Kai is clearly the main character, and the events center around their personal journey. They experience a clear internal conflict (feeling small and unsure) and resolve it through their actions. The narrative focuses on their individual transformation and their newly found courage.",
+      "evidence": "\"Under a silver moon, a young adventurer named Kai, much like you, wandered through the whispering woods. Kai often felt small and unsure... Kai's heart swelled with courage they never knew they had.\""
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story primarily focuses on Kai's personal achievement in overcoming their feelings of insecurity and discovering their bravery. The narrative emphasizes their internal growth and the achievement of courage rather than focusing on relationships with other characters. There are no relationships mentioned.",
+      "evidence": "\"Kai often felt small and unsure... Kai's heart swelled with courage they never knew they had. From that night on, Kai knew, bravery could bloom even when least expected.\""
+    }
+  },
+  "summary": {
+    "Heroic Agency": 3,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

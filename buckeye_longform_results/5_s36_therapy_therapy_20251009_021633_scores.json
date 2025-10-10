@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "5_s36_therapy_therapy_20251009_021633.wav",
+  "transcript_file": "5_s36_therapy_therapy_20251009_021633_transcript.txt",
+  "timestamp": "2025-10-09T02:16:51.787681",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps such as setting a small meaningful goal, talking to someone, adjusting routines, and trying something new. These suggestions promote personal agency and action-oriented solutions to feeling stuck.",
+      "evidence": "The response includes phrases like \"Set one small, meaningful goal for today,\" \"Talk to someone you trust,\" \"consider adjusting your routine,\" and \"rediscover motivation by trying something new.\" These are direct instructions implying proactive engagement."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts with an empathetic statement, acknowledging the user's feelings of being stuck. This validates the user's emotions and creates a supportive tone.",
+      "evidence": "The phrase \"I'm really sorry you're feeling stuck\" directly acknowledges and validates the user's emotional state."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response primarily focuses on improvement and actionable steps to overcome feeling stuck, rather than suggesting withdrawal or avoidance. It suggests strategies for re-engaging with motivations and finding purpose.",
+      "evidence": "The suggestions such as \"reflect on what initially drove you,\" \"Set one small, meaningful goal,\" \"adjusting your routine,\" and \"trying something new\" are geared towards improvement and growth, not retreat."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

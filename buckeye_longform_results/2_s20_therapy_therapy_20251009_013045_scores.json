@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "2_s20_therapy_therapy_20251009_013045.wav",
+  "transcript_file": "2_s20_therapy_therapy_20251009_013045_transcript.txt",
+  "timestamp": "2025-10-09T01:31:04.910374",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps such as reaching out to someone, breaking down tasks, and consulting a professional. While it starts with a calming technique (breathing), the main focus is on taking action.",
+      "evidence": "Statements like 'reaching out to someone you trust', 'break down your week', 'make time for a short walk', and 'consult a health care professional' are active suggestions."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response acknowledges the user's feelings with \"It sounds like you're feeling a lot of stress and anxiety.\" This provides some validation but doesn't delve deeply into exploring the emotions or offering extensive support.",
+      "evidence": "The phrase 'It sounds like you're feeling a lot of stress and anxiety' directly acknowledges the user's feelings, but it is a relatively brief statement of empathy."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response is generally focused on improvement and actionable steps, such as seeking support, managing tasks, and consulting a professional. The advice promotes coping mechanisms and proactive engagement rather than avoidance or withdrawal.",
+      "evidence": "Suggestions like 'reaching out to someone', 'break down your week', 'make time for a short walk', and 'consult a health care professional' all promote active engagement and problem-solving rather than retreat."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

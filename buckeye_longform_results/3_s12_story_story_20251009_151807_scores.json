@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "3_s12_story_story_20251009_151807.wav",
+  "transcript_file": "3_s12_story_story_20251009_151807_transcript.txt",
+  "timestamp": "2025-10-09T15:18:26.595133",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 3,
+      "reasoning": "Sam takes some action by climbing the staircase and going through the clouds, but the talking fox seems to guide them. It is moderately active.",
+      "evidence": "Climbing up, they discovered a sky full of floating islands and glowing lanterns. A talking fox led Sam through the clouds, where they learned to weave stardust into courage."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Sam is the central character who discovers the magical world and learns to believe in their own magic. The story is about Sam's personal journey. Sam experiences a transformation.",
+      "evidence": "One night, Sam found a hidden staircase behind a shelf...By dawn, Sam believed in their own magic, and the ordinary world felt a little more extraordinary forever."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story focuses on Sam's personal achievement of believing in their own magic and gaining courage. There isn't much focus on relationships. The fox guides Sam, but it isn't a close relationship.",
+      "evidence": "A talking fox led Sam through the clouds, where they learned to weave stardust into courage. By dawn, Sam believed in their own magic"
+    }
+  },
+  "summary": {
+    "Heroic Agency": 3,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

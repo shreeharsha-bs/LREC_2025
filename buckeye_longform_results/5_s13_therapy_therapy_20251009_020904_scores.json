@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "5_s13_therapy_therapy_20251009_020904.wav",
+  "transcript_file": "5_s13_therapy_therapy_20251009_020904_transcript.txt",
+  "timestamp": "2025-10-09T02:09:24.841003",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice is generally encouraging action, with suggestions like 'Break down your tasks,' 'Prioritize self-care,' 'Reconnect with your goals,' and 'Consider reaching out for support.' These all imply active engagement rather than passivity or retreat.",
+      "evidence": "Break down your tasks into smaller, manageable pieces. Prioritize self-care. Reconnect with your goals by writing them down or talking to someone you trust. Consider reaching out for support"
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response shows moderate emotional support by acknowledging the user's feelings ('It sounds like you're feeling overwhelmed and disconnected from your original purpose'). However, it doesn't delve deeply into the emotions or offer extensive reassurance.",
+      "evidence": "It sounds like you're feeling overwhelmed and disconnected from your original purpose."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The focus is generally on growth and actionable next steps. The suggestions aim at regaining motivation and balance, which inherently focuses on improvement. There is little to suggest withdrawal. The one minor point is taking a 'step back', but that is for reflection and then re-engagement.",
+      "evidence": "Take a step back and reflect on what initially motivated you. Break down your tasks into smaller, manageable pieces. Prioritize self-care. Reconnect with your goals...Taking these steps can help you rediscover your motivation and regain balance."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

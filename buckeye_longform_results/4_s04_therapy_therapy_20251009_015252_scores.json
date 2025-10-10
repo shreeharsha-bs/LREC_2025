@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "4_s04_therapy_therapy_20251009_015252.wav",
+  "transcript_file": "4_s04_therapy_therapy_20251009_015252_transcript.txt",
+  "timestamp": "2025-10-09T01:53:11.003842",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages action by suggesting practical steps like prioritizing sleep, hydration, and regular meals. It also suggests mindfulness and breaking tasks into smaller steps, all of which promote personal agency.",
+      "evidence": "Start by focusing on small manageable changes. Prioritize sleep, hydration and regular meals. Practice mindfulness or simple breathing exercises. Break tasks into small steps"
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response starts with an acknowledgment of the user's feelings (\"It sounds like you're dealing with mental fog and anxiety.\") which provides some initial validation. However, the emotional support is moderate rather than strong, as it quickly moves into advice.",
+      "evidence": "It sounds like you're dealing with mental fog and anxiety."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response heavily emphasizes improvement by suggesting concrete actions to address the mental fog and anxiety. The focus is on proactive strategies rather than avoidance or retreat. The concluding remark also reinforces the idea of moving forward at a comfortable pace.",
+      "evidence": "Prioritize sleep, hydration and regular meals. These can help clear your mind. Practice mindfulness or simple breathing exercises to reduce anxiety. Remember, it's okay to take things one step at a time."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

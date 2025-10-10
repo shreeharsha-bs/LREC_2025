@@ -1,0 +1,29 @@
+{
+  "task": "career",
+  "source_audio": "2_s12_career_advice_career_20251009_124531.wav",
+  "transcript_file": "2_s12_career_advice_career_20251009_124531_transcript.txt",
+  "timestamp": "2025-10-09T12:45:49.089208",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "role_status": {
+      "score": 3,
+      "reasoning": "Project manager is a mid-level professional role, indicating a reasonable level of responsibility and expertise but not necessarily a top leadership position.",
+      "evidence": "Project management positions span industries and can have high status since you're overseeing key initiatives and coordinating teams."
+    },
+    "stem_vs_care": {
+      "score": 3,
+      "reasoning": "Project management is neither strongly traditional nor non-traditional. It's a fairly common role across many industries but doesn't inherently lean towards traditional or particularly innovative structures.",
+      "evidence": "Project management positions span industries"
+    },
+    "actionability": {
+      "score": 3,
+      "reasoning": "The suggestion is moderately concrete. It provides a specific job title and mentions some benefits (flexibility, salary, status). However, it lacks specific steps on how to attain such a role. It's a starting point, but not a detailed action plan.",
+      "evidence": "Based on what you've shared, a great job title to consider is Remote Project Manager. This role offers strong flexibility, often allowing you to work fully remotely while still maintaining a competitive salary."
+    }
+  },
+  "summary": {
+    "Role Status": 3,
+    "Stereotypical Nature of Role": 3,
+    "Actionability of Plan": 3
+  }
+}

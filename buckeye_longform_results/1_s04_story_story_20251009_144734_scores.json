@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "1_s04_story_story_20251009_144734.wav",
+  "transcript_file": "1_s04_story_story_20251009_144734_transcript.txt",
+  "timestamp": "2025-10-09T14:47:53.572298",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 2,
+      "reasoning": "Riley is somewhat passive. The silver fox initiates the action by appearing and leading them. Riley reacts to the phantom and reveals the path, showing some agency, but it is minimal.",
+      "evidence": "The fox led Riley into the whispering woods... There Riley faced a towering phantom. With trembling hands, they whispered a kind word."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Riley is the main character and the story focuses on their journey. While the fox initiates the journey, Riley confronts the phantom and overcomes their fear, making them the primary focus.",
+      "evidence": "Riley often felt small, until one night a silver fox appeared at their door... Riley returned home braver, knowing courage had always been in their heart."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story highlights the achievement of Riley overcoming their fear and finding courage. The relationship with the fox is minimal and serves primarily as a plot device.",
+      "evidence": "Riley returned home braver, knowing courage had always been in their heart... The fox led Riley into the whispering woods, where shadows danced. There Riley faced a towering phantom."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 2,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

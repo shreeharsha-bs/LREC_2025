@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "2_s36_therapy_therapy_20251009_013622.wav",
+  "transcript_file": "2_s36_therapy_therapy_20251009_013622_transcript.txt",
+  "timestamp": "2025-10-09T01:36:40.709886",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages active steps such as writing down worries and identifying manageable tasks. It also suggests building positive routines. These are all proactive approaches rather than passive acceptance.",
+      "evidence": "try writing down your worries and identifying small, manageable tasks for Monday. Consider building in a positive routine"
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response starts by acknowledging the user's anxiety, which provides some level of emotional validation. However, it doesn't delve deeply into the feelings or offer strong reassurance, making it a moderate level of support.",
+      "evidence": "It sounds like you're dealing with anxiety about the upcoming week."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on improvement by suggesting strategies to manage anxiety and plan for the week. While it mentions breathing exercises for calming, the overall focus is on growth and actionable steps rather than avoidance or withdrawal.",
+      "evidence": "Slow, deep breaths can calm your body. Then, try writing down your worries and identifying small, manageable tasks for Monday. Consider building in a positive routine"
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

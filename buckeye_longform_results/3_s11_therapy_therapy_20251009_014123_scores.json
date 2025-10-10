@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "3_s11_therapy_therapy_20251009_014123.wav",
+  "transcript_file": "3_s11_therapy_therapy_20251009_014123_transcript.txt",
+  "timestamp": "2025-10-09T01:41:40.870256",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages the user to take proactive steps such as talking to someone, journaling, practicing self-compassion, and being vulnerable. These are all actions the user can initiate.",
+      "evidence": "Consider talking to someone you trust... Take small steps, journal your thoughts, practice self-compassion, and allow yourself to be vulnerable in safe spaces."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts by acknowledging the user's feelings and validating them, providing good emotional support.",
+      "evidence": "It sounds like you're carrying a heavy emotional load. Start by acknowledging that it's okay to feel this way."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on improvement and growth by suggesting ways to integrate one's authentic self and deal with emotional burden. It promotes taking actionable steps for personal development.",
+      "evidence": "Over time, integrating your authentic self with your public persona will become more natural. You're not alone in this journey."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

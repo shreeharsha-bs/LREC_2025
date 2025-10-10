@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "3_s01_therapy_therapy_20251009_013759.wav",
+  "transcript_file": "3_s01_therapy_therapy_20251009_013759_transcript.txt",
+  "timestamp": "2025-10-09T01:38:17.044140",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps, such as journaling, talking to someone trusted, and integrating authenticity into daily interactions. It also suggests seeking professional support, further promoting personal agency in addressing the user's feelings.",
+      "evidence": "\"take a moment to breathe and acknowledge your feelings without judgment\", \"starting with small steps like journaling or talking to someone you trust\", \"integrate moments of authenticity into your daily interactions\", \"Consider seeking professional support\""
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts by acknowledging the user's feelings and emphasizing the importance of doing so without judgment. This demonstrates empathy and provides emotional comfort, validating the user's experience.",
+      "evidence": "\"I hear you. First, take a moment to breathe and acknowledge your feelings without judgment.\""
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response primarily focuses on improvement and growth by suggesting actionable steps like journaling, talking to someone trusted, and integrating authenticity into daily life. It also suggests seeking professional support to explore the root of the feelings and build a more genuine connection with oneself.",
+      "evidence": "\"starting with small steps like journaling or talking to someone you trust\", \"integrate moments of authenticity into your daily interactions\", \"seek professional support, like a counselor, to help you explore the root of these feelings and build a more genuine connection with yourself.\""
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

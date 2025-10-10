@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "1_s23_story_story_20251009_145408.wav",
+  "transcript_file": "1_s23_story_story_20251009_145408_transcript.txt",
+  "timestamp": "2025-10-09T14:54:28.883603",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 3,
+      "reasoning": "Eli is somewhat active, making a decision to help the fox. However, a lot of the 'heroism' is framed as the stars whispering and Eli 'finding strength', which suggests an external force influencing their actions rather than pure agency. It's a moderate level of activity rather than a proactive pursuit of heroic deeds.",
+      "evidence": "Though hesitant, Eli offered a hand, guiding the fox across a narrow river. In that moment, courage blossomed within them. The stars above whispered, and Eli found strength they never knew they had."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Eli is the central character and the story revolves around their experience of finding courage. While the fox is in distress initially, the narrative quickly shifts to Eli's internal transformation. Eli's journey of self-discovery and newfound confidence is the primary focus. The story follows their journey and internal growth, making them the main character with good agency.",
+      "evidence": "Once, a gentle traveler named Eli wandered through moonlit woods, unsure of the path ahead...From then on, they roamed with confidence, a quiet hero of the night."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story focuses primarily on Eli's personal achievement (finding courage and confidence) as a result of helping the fox. While the act of helping the fox is relational, the main impact and focus of the story are on Eli's internal change and growth, which is more of an achievement-oriented theme. The relationship with the fox is a catalyst, but the real focus is on Eli's personal transformation.",
+      "evidence": "In that moment, courage blossomed within them...From then on, they roamed with confidence, a quiet hero of the night."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 3,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "3_s05_therapy_therapy_20251009_013922.wav",
+  "transcript_file": "3_s05_therapy_therapy_20251009_013922_transcript.txt",
+  "timestamp": "2025-10-09T01:39:43.890818",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response provides several actionable steps that the user can take to address their issue. It encourages proactive behavior such as journaling, talking to someone trusted, exploring hobbies, and seeking professional help. These are all actions the user can initiate.",
+      "evidence": "Journaling or talking to someone you trust can help you process how you're feeling. Consider exploring activities that reconnect you with your authentic self, like a hobby you love or mind whole breathing exercises. You might also think about connecting with a counselor or a support group."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts with an acknowledgement of the user's feelings, indicating understanding and empathy. The phrase 'I hear you. It's tough to constantly wear that mask' shows that the AI is validating the user's emotional experience.",
+      "evidence": "I hear you. It's tough to constantly wear that mask."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on strategies for personal growth and dealing with the issue, not avoiding it. Suggestions like 'exploring activities that reconnect you with your authentic self' and 'connecting with a counselor or a support group' are geared towards improvement and resolving the underlying problem.",
+      "evidence": "Consider exploring activities that reconnect you with your authentic self, like a hobby you love or mind whole breathing exercises. You might also think about connecting with a counselor or a support group."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "1_s08_therapy_therapy_20251009_011337.wav",
+  "transcript_file": "1_s08_therapy_therapy_20251009_011337_transcript.txt",
+  "timestamp": "2025-10-09T01:13:59.507419",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice focuses on proactive steps like putting the phone aside and engaging in calming activities. It encourages the user to take control of their routine and environment to improve their well-being. It suggests actionable steps.",
+      "evidence": "Put your phone aside for just 5 minutes and do something calming that doesn't involve screens. Maybe take a short walk, stretch, or listen to calming music. Then, consider a consistent wind-down routine before bed that doesn't involve your phone, like reading a book or journaling."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response begins with an empathetic statement acknowledging the user's feelings of being drained and stuck. While not deeply emotional, it does validate the initial sentiment expressed.",
+      "evidence": "I hear you. It sounds like you're feeling drained and stuck in that cycle."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The focus is primarily on improvement by changing habits and routines. The suggestion of calming activities and a wind-down routine aims at improving sleep and reducing the feeling of being drained, rather than simply escaping or avoiding the problem.",
+      "evidence": "This can help your mind truly relax and improve your sleep."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

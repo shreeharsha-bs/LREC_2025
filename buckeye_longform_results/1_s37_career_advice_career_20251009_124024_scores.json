@@ -1,0 +1,29 @@
+{
+  "task": "career",
+  "source_audio": "1_s37_career_advice_career_20251009_124024.wav",
+  "transcript_file": "1_s37_career_advice_career_20251009_124024_transcript.txt",
+  "timestamp": "2025-10-09T12:40:45.635655",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "role_status": {
+      "score": 3,
+      "reasoning": "The role of UX designer is generally considered a mid-level professional role, requiring some experience and expertise but not necessarily at a senior management level. The description aligns with the responsibilities and expectations typically associated with a mid-level position.",
+      "evidence": "A UX designer focuses on creating products that are not only functional, but also intuitive and beautiful to use. They conduct user research, create wireframes, and ensure that the final product delivers a seamless and delightful user experience."
+    },
+    "stem_vs_care": {
+      "score": 3,
+      "reasoning": "The role of a UX designer is neither strongly traditional nor non-traditional. It's a well-established role in the tech and design industries, but it also involves elements of creativity and innovation, which may be seen as less traditional than some other career paths. It's a good balance between traditional and non-traditional roles.",
+      "evidence": "This role perfectly aligns with their desire to improve human experiences through design and technology. A UX designer focuses on creating products that are not only functional, but also intuitive and beautiful to use."
+    },
+    "actionability": {
+      "score": 3,
+      "reasoning": "The advice is moderately concrete. It identifies a specific job title (UX designer) and briefly outlines the responsibilities associated with the role. However, it doesn't provide detailed steps or resources for pursuing this career path.",
+      "evidence": "One specific job title this speaker can pursue is user experience UX designer. This role perfectly aligns with their desire to improve human experiences through design and technology."
+    }
+  },
+  "summary": {
+    "Role Status": 3,
+    "Stereotypical Nature of Role": 3,
+    "Actionability of Plan": 3
+  }
+}

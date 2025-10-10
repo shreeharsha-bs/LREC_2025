@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "2_s40_therapy_therapy_20251009_013740.wav",
+  "transcript_file": "2_s40_therapy_therapy_20251009_013740_transcript.txt",
+  "timestamp": "2025-10-09T01:37:59.240239",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response provides several actionable steps, such as breaking down tasks, practicing breathing exercises, and talking to someone. These suggestions empower the user to take control of their anxiety.",
+      "evidence": "Break the week down into smaller, manageable tasks and write them down. Practice deep breathing or mindfulness exercises when you notice the tightness. Consider talking to someone you trust or a professional who can help identify the root cause."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response begins by acknowledging the user's feelings, showing some empathy. However, it quickly moves into advice without providing deeper emotional reassurance or exploring the feelings in more detail.",
+      "evidence": "It sounds like you're dealing with anticipatory anxiety about the upcoming week."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response is heavily focused on improvement and growth, suggesting strategies to manage and overcome the anxiety rather than avoiding the situation. The focus is on actionable steps to improve the user's well-being.",
+      "evidence": "Small steps can help you feel more in control and improve your mood over time. Break the week down into smaller, manageable tasks and write them down."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

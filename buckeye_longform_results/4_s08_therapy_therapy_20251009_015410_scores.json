@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "4_s08_therapy_therapy_20251009_015410.wav",
+  "transcript_file": "4_s08_therapy_therapy_20251009_015410_transcript.txt",
+  "timestamp": "2025-10-09T01:54:38.922200",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages action through manageable steps. It suggests journaling, breaking down decisions, and practicing mindfulness, all of which require the user to take initiative and actively engage in self-help strategies. The advice is generally proactive, but could be stronger with more direct instruction.",
+      "evidence": "Try writing down your thoughts in a journal each day. Break decisions into tiny steps and tackle them one at a time. Practice deep breathing or mindfulness"
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response shows moderate emotional support by acknowledging the user's feelings with 'I'm really sorry you're feeling this way' and reassuring them that 'you're not alone'. However, it lacks depth and doesn't delve deeper into exploring the user's specific emotions or offering more personalized comfort.",
+      "evidence": "I'm really sorry you're feeling this way. Remember you're not alone."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response predominantly focuses on improvement by suggesting actionable steps like journaling and mindfulness. While mentioning talking to a friend or professional could be seen as a coping mechanism, the overall emphasis is on actively addressing the problem and fostering personal growth, rather than retreating from the situation.",
+      "evidence": "A good next step is to start with small manageable actions. Try writing down your thoughts in a journal each day. Practice deep breathing or mindfulness."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

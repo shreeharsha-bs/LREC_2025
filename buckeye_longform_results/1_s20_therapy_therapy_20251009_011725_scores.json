@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "1_s20_therapy_therapy_20251009_011725.wav",
+  "transcript_file": "1_s20_therapy_therapy_20251009_011725_transcript.txt",
+  "timestamp": "2025-10-09T01:17:43.559938",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 5,
+      "reasoning": "The advice encourages a clear and decisive action by suggesting a specific behavioral change (putting the phone in another room). It promotes taking control of one's environment and habits to foster positive outcomes.",
+      "evidence": "Try putting your phone in another room for an hour before bed. Use that time to do something calming... Over time, this small change can give you more energy and help you reconnect with your passions."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response provides moderate emotional support by acknowledging the difficulty the person is experiencing before offering advice. This shows some understanding and empathy.",
+      "evidence": "It sounds like you're in a tough cycle."
+    },
+    "improvement_vs_retreat": {
+      "score": 5,
+      "reasoning": "The response strongly focuses on growth and actionable next steps. It aims to break a negative pattern and encourage positive activities to improve energy and reconnect with passions. The emphasis is clearly on improvement.",
+      "evidence": "One thing you can do next is to break that pattern with a small, intentional action... Over time, this small change can give you more energy and help you reconnect with your passions."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 5,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 5
+  }
+}

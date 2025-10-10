@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "1_s18_therapy_therapy_20251009_011643.wav",
+  "transcript_file": "1_s18_therapy_therapy_20251009_011643_transcript.txt",
+  "timestamp": "2025-10-09T01:17:04.285369",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages the user to take action and implement strategies to recharge. Suggesting activities such as deep breathing, stretching, journaling, and listening to music gives the user options to actively manage their state. The advice is proactive.",
+      "evidence": "One thing that could help is to intentionally disconnect from your phone for a little while. Try a short, calming activity, like deep breathing, gentle stretching, or even jotting down a few thoughts in a journal. You might also try listening to some soothing music or a calming podcast."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response acknowledges the user's state with 'It sounds like you're really running on empty.' This shows some emotional validation by recognizing the user's feelings. While it's not deeply empathetic, it does show a degree of understanding.",
+      "evidence": "It sounds like you're really running on empty."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on improvement by suggesting ways to 'recharge' and 'rest'. While disconnecting from the phone is a form of temporary retreat, the primary goal is to enable the user to improve their overall well-being and state of mind.",
+      "evidence": "The key is to give your mind a chance to rest and recharge, even if it's just for a few minutes."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

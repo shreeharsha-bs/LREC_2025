@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "2_s18_story_story_20251009_150604.wav",
+  "transcript_file": "2_s18_story_story_20251009_150604_transcript.txt",
+  "timestamp": "2025-10-09T15:06:25.710561",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 1,
+      "reasoning": "Aaron is largely passive, reacting to the firefly rather than actively solving his problems. The firefly initiates the action and resolves Aaron's distress. Aaron simply 'held' the firefly.",
+      "evidence": "One evening, a glimmering firefly flickered into the room. The tiny creature whispered, hold me in your palm. When Aaron did, the firefly's light filled the room with warmth. Suddenly, the worries lifted, replaced by peace."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Aaron is clearly the main character and the story revolves around his worries. The narrative focuses on his internal state and his experience with the firefly, making him the central figure in the story.",
+      "evidence": "Once, there was a kind soul named Aaron, burdened by heavy worries. Every night, Aaron lay awake, thoughts swirling like storm clouds... From that day on, Aaron knew, even a small spark of magic could transform the heaviest heart."
+    },
+    "achievement_vs_relational": {
+      "score": 1,
+      "reasoning": "The story focuses on Aaron's emotional state and the relational aspect of his interaction with the firefly. The resolution is internal and emotional (peace replacing worries), rather than an external achievement.",
+      "evidence": "Suddenly, the worries lifted, replaced by peace. From that day on, Aaron knew, even a small spark of magic could transform the heaviest heart."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 1,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 1
+  }
+}

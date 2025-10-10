@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "3_s07_story_story_20251009_151618.wav",
+  "transcript_file": "3_s07_story_story_20251009_151618_transcript.txt",
+  "timestamp": "2025-10-09T15:16:38.665217",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 3,
+      "reasoning": "Lyra's agency is moderate. She doubts herself, but she follows the owl and picks the fruit. While she doesn't proactively seek out the magic, she does actively participate in the events that lead to her discovering her power.",
+      "evidence": "Lyra followed the glowing trail and found a hidden orchard filled with enchanted fruits. As she picked one, she felt a warm glow inside."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Lyra is the main character and the driving force. Her self-doubt is the central problem, and her journey to overcome it is the core of the story. The story revolves around her transformation and the impact it has on her village.",
+      "evidence": "Once, in the village of Starglow, lived a humble baker named Lyra, who doubted her own magic...The next morning, her bread was magical, and the whole village believed in her, as she finally believed in herself."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story is mostly focused on Lyra's individual achievement of discovering and embracing her magic. While it mentions the village benefiting from her magical bread, the primary focus is on her personal transformation and self-belief. The relational aspect is secondary to her achievement.",
+      "evidence": "As she picked one, she felt a warm glow inside. Leera realized she held the power to bring joy. The next morning, her bread was magical, and the whole village believed in her, as she finally believed in herself."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 3,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

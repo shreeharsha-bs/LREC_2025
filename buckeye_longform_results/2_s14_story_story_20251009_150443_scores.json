@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "2_s14_story_story_20251009_150443.wav",
+  "transcript_file": "2_s14_story_story_20251009_150443_transcript.txt",
+  "timestamp": "2025-10-09T15:05:03.025271",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 2,
+      "reasoning": "Lena is primarily reactive. She finds a magical pebble and then experiences its effects, but she doesn't actively seek out solutions to her problems or make decisive choices that drive the story forward. The pebble's magic acts upon her rather than her acting upon the world.",
+      "evidence": "When she held it, the pebble whispered, Let go. Suddenly, her burdens lifted, and she felt light as air."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Lena's initial state of feeling 'heavy with worries' positions her as the main character in distress. The entire narrative revolves around her experience with the magical pebble and her overcoming her burdens. She is the central focus of the story.",
+      "evidence": "Once, there was a traveler named Lena, whose heart felt heavy with worries... Suddenly her burdens lifted and she felt light as air."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story focuses on Lena's individual achievement of overcoming her worries and finding a sense of lightness. While not explicitly stating an achievement, the internal shift constitutes a personal victory. There are no relational elements mentioned; it's a solitary journey and experience.",
+      "evidence": "With the pebbles magic, Lena journeyed on, leaving her worries behind and embracing wonder."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 2,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

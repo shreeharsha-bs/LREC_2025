@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "5_s26_therapy_therapy_20251009_021330.wav",
+  "transcript_file": "5_s26_therapy_therapy_20251009_021330_transcript.txt",
+  "timestamp": "2025-10-09T02:13:49.589484",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response generally encourages action by suggesting steps like 'Break the to-do list into manageable pieces' and 'Consider talking to someone you trust or a coach'. These are proactive steps aimed at addressing the feeling of being overwhelmed.",
+      "evidence": "'Break the to-do list into manageable pieces.', 'Consider talking to someone you trust or a coach to rediscover your motivation.'"
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response demonstrates good emotional validation by starting with 'I hear how overwhelmed you're feeling' which directly acknowledges the user's emotional state. It also offers reassurance by stating 'You're not alone'.",
+      "evidence": "'I hear how overwhelmed you're feeling.', 'You're not alone.'"
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response generally focuses on growth by encouraging the user to address the underlying reasons for their feelings and to take actionable steps like breaking down tasks and seeking support. While it acknowledges the need to adjust pace, it frames it as 'wisdom' rather than retreat.",
+      "evidence": "'reflect on the deeper reasons you began this journey', 'Break the to-do list into manageable pieces', 'adjusting your pace is not failure but wisdom'"
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

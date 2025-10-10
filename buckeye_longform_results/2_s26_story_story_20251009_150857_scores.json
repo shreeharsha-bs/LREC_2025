@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "2_s26_story_story_20251009_150857.wav",
+  "transcript_file": "2_s26_story_story_20251009_150857_transcript.txt",
+  "timestamp": "2025-10-09T15:09:17.832301",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 2,
+      "reasoning": "Lyra's actions are primarily reactive. They stumble upon the firefly and repeat the word 'believe' as instructed. The transformation happens *to* them rather than being driven by their own initiative. While they do take steps forward, the main catalyst is external.",
+      "evidence": "Lyra stumbled upon a shimmering firefly. This firefly whispered a single word, believe. As Lyra repeated the word, a warm glow surrounded them, lifting the weight from their heart."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Lyra is clearly the main character and the focus is entirely on their distress and eventual relief. The story revolves around their internal struggle with worries and the resolution of that struggle. The firefly only exists to aid Lyra.",
+      "evidence": "Once, there was a person named Lyra, whose shoulders drooped under the weight of their worries. ... With each step, Lira found new strength, and soon the worries faded into the night."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story focuses on Lyra's internal achievement of overcoming their worries. There are no relationships explored or even mentioned. The emphasis is solely on their individual journey and the personal strength they gain.",
+      "evidence": "With each step, Lira found new strength, and soon the worries faded into the night. From then on, Lira knew the magic of believing in themselves."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 2,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

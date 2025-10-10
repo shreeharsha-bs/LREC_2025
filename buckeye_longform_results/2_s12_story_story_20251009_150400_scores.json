@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "2_s12_story_story_20251009_150400.wav",
+  "transcript_file": "2_s12_story_story_20251009_150400_transcript.txt",
+  "timestamp": "2025-10-09T15:04:20.884437",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 1,
+      "reasoning": "Elina is entirely passive in the story. She 'hopes for a little relief' but takes no action to achieve it. The firefly initiates all the action and resolves her worries.",
+      "evidence": "Every night, she gazed out at the stars, hoping for a little relief. One evening, a tiny firefly landed on her windowsill and whispered, I hold a bit of magic."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Elina is clearly the main character experiencing distress. The story revolves around her worries and how they are resolved, even if passively. The firefly exists to alleviate her distress.",
+      "evidence": "Once upon a time, there was a person named Elina, who felt weighed down by worries like heavy stones. Every night, she gazed out at the stars, hoping for a little relief."
+    },
+    "achievement_vs_relational": {
+      "score": 1,
+      "reasoning": "The story focuses entirely on Elina's emotional state and the relational interaction with the firefly. There are no achievements mentioned or implied, only the resolution of her worries through the firefly's magic.",
+      "evidence": "The firefly's glow lit up Alina's heart, lifting one worry at a time until she drifted into peaceful dreams, knowing magic was real."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 1,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 1
+  }
+}

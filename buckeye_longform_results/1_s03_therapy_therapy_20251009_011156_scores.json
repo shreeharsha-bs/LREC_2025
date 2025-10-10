@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "1_s03_therapy_therapy_20251009_011156.wav",
+  "transcript_file": "1_s03_therapy_therapy_20251009_011156_transcript.txt",
+  "timestamp": "2025-10-09T01:12:18.267191",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice encourages the user to take proactive steps to change their evening routine. It suggests specific activities like reading, walking, and journaling, which require active participation. It also encourages reducing screen time, another actionable step. These suggestions empower the user to take control of their evenings.",
+      "evidence": "One thing you could try is setting a small intentional activity before bed, like reading a short chapter of a book, a calming walk, or journaling for just five minutes. Also, think about reducing screen time gradually."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response starts with \"I hear you. It sounds like...\" which acknowledges the user's feelings. However, it doesn't delve deeper into exploring or validating the emotions behind the user's zoning out.",
+      "evidence": "I hear you. It sounds like your evenings have become a routine of zoning out."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on improving the user's evening routine by suggesting intentional activities and reducing screen time. While it acknowledges the current state of 'zoning out', the emphasis is on moving towards a more fulfilling and recharged evening.",
+      "evidence": "This can help you wind down more mindfully. Over time, you'll likely feel a little more recharged and find your evenings more fulfilling."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "5_s03_therapy_therapy_20251009_020545.wav",
+  "transcript_file": "5_s03_therapy_therapy_20251009_020545_transcript.txt",
+  "timestamp": "2025-10-09T02:06:04.049472",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice encourages action by suggesting identifying a small meaningful task and gradually reintroducing activities that nourish the spirit. It also suggests starting small and letting the renewed sense of purpose guide future steps. This is generally encouraging action, without being overly forceful.",
+      "evidence": "\"Identify one small meaningful task that brings you joy or fulfillment. Gradually reintroduce activities that nourish your spirit... Start small and let that renewed sense of purpose guide your next steps.\""
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response begins by acknowledging and validating the user's feeling of being overwhelmed. This demonstrates emotional empathy and provides comfort before moving into actionable advice.",
+      "evidence": "\"I hear how overwhelmed you feel.\""
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response primarily focuses on improvement by encouraging the user to reconnect with their motivation, identify fulfilling tasks, and gradually reintroduce activities. While it does suggest a short break, the overall focus is on growth and taking actionable next steps to overcome the feeling of being overwhelmed.",
+      "evidence": "\"reconnect with your original motivation... Identify one small meaningful task that brings you joy or fulfillment. Gradually reintroduce activities that nourish your spirit... Start small and let that renewed sense of purpose guide your next steps.\""
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

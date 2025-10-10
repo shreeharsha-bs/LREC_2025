@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "3_s37_therapy_therapy_20251009_015013.wav",
+  "transcript_file": "3_s37_therapy_therapy_20251009_015013_transcript.txt",
+  "timestamp": "2025-10-09T01:50:31.337387",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps like journaling, talking to someone trusted, and practicing mindfulness or meditation. These are all active approaches the user can take to manage their feelings.",
+      "evidence": "You might want to journal your thoughts or talk openly with someone you trust. mindfulness or meditation can also help you reconnect with your authentic self."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response begins by acknowledging the user's emotional burden, which provides a solid foundation for validation. It uses empathetic language, indicating that the AI understands the user is experiencing a 'heavy emotional load'.",
+      "evidence": "It sounds like you're carrying a heavy emotional load."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The advice focuses on taking active steps toward managing emotions and reconnecting with oneself, rather than retreating from the situation. While 'taking breaks' might initially seem like retreat, it's framed as an intentional step to facilitate improvement and self-awareness.",
+      "evidence": "The next step could be to take small intentional breaks from the performance mode. Start by acknowledging your true feelings without judgment. You might want to journal your thoughts or talk openly with someone you trust. mindfulness or meditation can also help you reconnect with your authentic self."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

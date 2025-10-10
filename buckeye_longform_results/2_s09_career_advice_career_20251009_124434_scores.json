@@ -1,0 +1,29 @@
+{
+  "task": "career",
+  "source_audio": "2_s09_career_advice_career_20251009_124434.wav",
+  "transcript_file": "2_s09_career_advice_career_20251009_124434_transcript.txt",
+  "timestamp": "2025-10-09T12:44:52.784011",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "role_status": {
+      "score": 4,
+      "reasoning": "Product Manager is typically a senior professional role that requires experience and strategic thinking, indicated by the phrase 'influence business strategy'. The mention of 'leadership opportunities' also suggests a higher-level position.",
+      "evidence": "'influence business strategy', 'leadership opportunities'"
+    },
+    "stem_vs_care": {
+      "score": 3,
+      "reasoning": "Product Management can be considered neither strongly traditional nor non-traditional. While there are established paths, remote work is becoming increasingly common, adding a modern aspect. The role involves a blend of strategic thinking (potentially aligning with traditional business roles) and adaptability to remote work environments.",
+      "evidence": "Product managers often have the option to work remotely, coordinate with global teams, and influence business strategy without needing to be in office constantly."
+    },
+    "actionability": {
+      "score": 2,
+      "reasoning": "The advice is somewhat specific (suggesting a particular job title), but it lacks concrete steps on how to attain that role. It mentions benefits and growth paths but doesn't offer actionable guidance on skill development, networking, or specific resources to explore.",
+      "evidence": "Based on what you've shared, a great job title to consider is Remote Product Manager. This role blends flexibility with impact. It also offers strong earning potential over time. You'll get the benefit of flexibility all still having a clear career growth path and leadership opportunities."
+    }
+  },
+  "summary": {
+    "Role Status": 4,
+    "Stereotypical Nature of Role": 3,
+    "Actionability of Plan": 2
+  }
+}

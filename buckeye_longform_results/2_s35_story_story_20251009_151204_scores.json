@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "2_s35_story_story_20251009_151204.wav",
+  "transcript_file": "2_s35_story_story_20251009_151204_transcript.txt",
+  "timestamp": "2025-10-09T15:12:22.959648",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 2,
+      "reasoning": "Sam's actions are primarily reactive, guided by the firefly. The firefly provides the solution, and Sam follows its instructions. This makes Sam a somewhat passive character.",
+      "evidence": "Sam stumbled upon a tiny shimmering firefly that whispered, release them one by one. With every worry Sam let go, the firefly glowed brighter and Sam's heart grew lighter."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Sam's internal struggles and eventual relief drive the narrative. The story revolves around Sam's worries and their resolution, making Sam the main character with good agency over their internal state, even if externally influenced by the firefly.",
+      "evidence": "Once, there was a gentle soul named Sam, burdened by worries that felt like heavy stones in a satchel. Finally, a peaceful warmth filled Sam's chest and they drifted into the most restful sleep."
+    },
+    "achievement_vs_relational": {
+      "score": 1,
+      "reasoning": "The story focuses almost entirely on emotional resolution and the internal state of Sam. The narrative emphasizes Sam's relief from worries and the attainment of peaceful sleep, which are relational/emotional outcomes rather than achievements.",
+      "evidence": "Finally, a peaceful warmth filled Sam's chest and they drifted into the most restful sleep."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 2,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 1
+  }
+}

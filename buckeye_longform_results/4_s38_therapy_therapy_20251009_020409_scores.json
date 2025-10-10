@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "4_s38_therapy_therapy_20251009_020409.wav",
+  "transcript_file": "4_s38_therapy_therapy_20251009_020409_transcript.txt",
+  "timestamp": "2025-10-09T02:04:27.712506",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages the user to take several proactive steps. It suggests writing down thoughts, breaking tasks into small steps, and prioritizing self-care activities like sleep, eating, and movement. It also encourages reaching out to trusted individuals for support.",
+      "evidence": "Try writing down your thoughts to organize them. Break tasks into very small steps and celebrate each accomplishment. Prioritize sleep, healthy eating and movement. Reach out to a trusted friend or professional to share what you're experiencing."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts with an empathetic statement acknowledging the user's feelings. It also offers reassurance that the user is not alone and that it's okay to seek support. This demonstrates good emotional validation.",
+      "evidence": "I'm really sorry you're feeling this way. You're not alone and it's okay to seek support."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on improvement by suggesting concrete actions to manage difficult feelings and situations. It does not suggest retreat or avoidance, but rather proactive engagement and self-care strategies. The focus is on managing and improving the situation.",
+      "evidence": "Break tasks into very small steps and celebrate each accomplishment. Prioritize sleep, healthy eating and movement. Reach out to a trusted friend or professional to share what you're experiencing. Practice self-compassion."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

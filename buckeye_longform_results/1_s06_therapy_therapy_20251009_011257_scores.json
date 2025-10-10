@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "1_s06_therapy_therapy_20251009_011257.wav",
+  "transcript_file": "1_s06_therapy_therapy_20251009_011257_transcript.txt",
+  "timestamp": "2025-10-09T01:13:17.997574",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice given encourages action by suggesting specific, manageable activities. It motivates the user to take control and make positive changes.",
+      "evidence": "One thing you can try is to set a small, intentional evening ritual. Maybe reading a few pages of a book, journaling, or taking a short walk. Even five minutes of a calming activity can help you shift out of autopilot. Also, consider exploring a hobby or activity you once loved, even in small doses."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response shows moderate emotional support by acknowledging the user's feelings of being stuck in a draining routine. However, it doesn't delve deeply into the emotions or provide extensive reassurance.",
+      "evidence": "It sounds like you're feeling stuck in a draining routine."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response mainly focuses on improvement and growth. It suggests activities that aim to reignite passion and provide a sense of purpose, rather than simply avoiding the negative feelings.",
+      "evidence": "Gradually, this can reignite your passion and bring back a sense of purpose."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

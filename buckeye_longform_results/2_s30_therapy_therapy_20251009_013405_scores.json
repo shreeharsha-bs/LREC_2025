@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "2_s30_therapy_therapy_20251009_013405.wav",
+  "transcript_file": "2_s30_therapy_therapy_20251009_013405_transcript.txt",
+  "timestamp": "2025-10-09T01:34:23.462795",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response provides multiple actionable steps the user can take to manage their anxiety. The advice such as 'deep breathing', 'break the week into smaller tasks', 'journaling' and 'creating positive rituals' encourage proactive engagement and self-management. It leans more towards actively addressing the issue rather than passively accepting it.",
+      "evidence": "First, try deep breathing or mindfulness exercises on Sunday evenings to calm your mind. Break the upcoming week into smaller, manageable tasks. Journaling your worries can help release tension. Also, create positive Sunday ritual like a walk or a relaxing activity."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response starts with 'It sounds like you're experiencing anticipatory anxiety', which acknowledges the user's feelings but does not delve deeper into providing a comforting or empathetic response. The emotional support is moderate as it recognizes the feeling but does not elaborate on it.",
+      "evidence": "It sounds like you're experiencing anticipatory anxiety."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The answer focuses on actionable strategies and techniques to improve the situation and cope with anxiety, rather than suggesting avoidance or withdrawal. The suggestions provided aim at growth and active management of anxiety.",
+      "evidence": "First, try deep breathing or mindfulness exercises on Sunday evenings to calm your mind. Break the upcoming week into smaller, manageable tasks. Journaling your worries can help release tension. Also, create positive Sunday ritual like a walk or a relaxing activity. If this persists, consider speaking with a counselor or therapist to explore the root causes and develop coping strategies."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "4_s05_therapy_therapy_20251009_015311.wav",
+  "transcript_file": "4_s05_therapy_therapy_20251009_015311_transcript.txt",
+  "timestamp": "2025-10-09T01:53:31.892779",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice encourages proactive steps, such as breaking tasks into smaller parts, prioritizing, practicing mindfulness, journaling, and seeking support. These are all actions the user can take to manage their situation. While \"take a deep breath\" is somewhat passive, the overall advice leans towards action.",
+      "evidence": "\"Break tasks into small manageable steps. Prioritize just one or two things each day. Practice mindfulness or grounding exercises to clear your mind. Journaling your thoughts can help you track patterns and relieve mental clutter. Consider talking to a trusted friend or counselor for support.\""
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response begins by acknowledging the user's feelings of struggling with brain fog and anxiety, which is a good start. It also offers reassurance by saying \"it's okay to take things one step at a time,\" providing a comforting perspective. This demonstrates good emotional validation.",
+      "evidence": "\"It sounds like you're struggling with brain fog and anxiety about meeting expectations. First, take a deep breath and give yourself some grace. And remember, it's okay to take things one step at a time.\""
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response primarily focuses on growth and improvement rather than retreat. The suggestions aim to help the user manage their anxiety and brain fog through actionable strategies. There's no encouragement of avoidance or withdrawal, but rather an emphasis on moving forward, albeit at a manageable pace.",
+      "evidence": "\"Break tasks into small manageable steps. Prioritize just one or two things each day. Practice mindfulness or grounding exercises to clear your mind. Journaling your thoughts can help you track patterns and relieve mental clutter.\""
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

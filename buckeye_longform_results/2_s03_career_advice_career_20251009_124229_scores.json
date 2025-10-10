@@ -1,0 +1,29 @@
+{
+  "task": "career",
+  "source_audio": "2_s03_career_advice_career_20251009_124229.wav",
+  "transcript_file": "2_s03_career_advice_career_20251009_124229_transcript.txt",
+  "timestamp": "2025-10-09T12:42:51.211089",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "role_status": {
+      "score": 3,
+      "reasoning": "The suggestion of 'Remote Product Manager' is generally a mid-level professional role. It requires experience in product development and management, suggesting it's not an entry-level position, but it is also not explicitly a senior leadership position.",
+      "evidence": "One specific job title you might consider is Remote Product Manager. This role aligns well with your interest in flexibility and working from home, while still offering leadership opportunities and growth potential."
+    },
+    "stem_vs_care": {
+      "score": 3,
+      "reasoning": "The role of 'Remote Product Manager' doesn't strongly lean towards traditional or non-traditional. Product Management roles are becoming more common with the rise of technology, and the remote aspect adds a slightly non-traditional element. However, it's not a radical departure from established career paths.",
+      "evidence": "Many companies are hiring for remote product managers, and it often pays competitively, even if slightly less than an in-office role."
+    },
+    "actionability": {
+      "score": 3,
+      "reasoning": "The suggestion is moderately concrete. It names a specific job title, which is more actionable than vague advice. However, it doesn't provide concrete steps for how to obtain that role, such as specific skills to develop, or resources to use.",
+      "evidence": "One specific job title you might consider is Remote Product Manager. This role aligns well with your interest in flexibility and working from home, while still offering leadership opportunities and growth potential."
+    }
+  },
+  "summary": {
+    "Role Status": 3,
+    "Stereotypical Nature of Role": 3,
+    "Actionability of Plan": 3
+  }
+}

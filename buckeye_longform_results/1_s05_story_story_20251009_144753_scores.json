@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "1_s05_story_story_20251009_144753.wav",
+  "transcript_file": "1_s05_story_story_20251009_144753_transcript.txt",
+  "timestamp": "2025-10-09T14:48:14.541493",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 4,
+      "reasoning": "Mira demonstrates agency by overcoming her shyness to help the firefly. She takes the initiative to kneel down and speak to the firefly, leading it to safety. While her initial state is passive (feeling shy), she becomes proactive.",
+      "evidence": "\"Though afraid, Mira knelt down and whispered kind words...Mira discovered a hidden well of bravery and led the firefly to safety.\""
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Mira is the central figure of the story. The plot revolves around her overcoming her fear to help the firefly. While the firefly is in distress, Mira's actions and internal transformation drive the narrative.",
+      "evidence": "The story is centered around Mira's experience and how she overcomes her fear to help the firefly. The entire narrative focuses on her actions and feelings."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story focuses more on Mira's individual achievement of overcoming her shyness and discovering her bravery than on deep relational aspects. While she helps the firefly, the primary focus is on her personal growth and self-discovery.",
+      "evidence": "\"In that moment, courage blossomed. Mira discovered a hidden well of bravery...From then on, Mira knew that even the smallest spark of courage could light up the darkest paths.\" The emphasis is on Mira's inner transformation."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 4,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

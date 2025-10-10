@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "5_s22_therapy_therapy_20251009_021213.wav",
+  "transcript_file": "5_s22_therapy_therapy_20251009_021213_transcript.txt",
+  "timestamp": "2025-10-09T02:12:30.575787",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice encourages specific actions such as identifying small actions, introducing a hobby, or talking to someone. These are proactive steps designed to break the cycle.",
+      "evidence": "Identify one or two small actions that could bring variety or a sense of purpose back into your routine. Consider introducing a new hobby or talking to someone you trust about rediscovering your goals."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response acknowledges the user's feelings of being overwhelmed and stuck. This provides moderate emotional support without being overly effusive.",
+      "evidence": "It sounds like you're feeling overwhelmed and stuck in a repetitive cycle."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The focus is on breaking the cycle and regaining momentum, suggesting a path towards improvement rather than retreat. The suggestions aim to introduce variety and purpose, promoting growth.",
+      "evidence": "Small changes can break the cycle and help you regain momentum."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

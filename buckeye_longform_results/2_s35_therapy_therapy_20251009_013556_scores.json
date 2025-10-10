@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "2_s35_therapy_therapy_20251009_013556.wav",
+  "transcript_file": "2_s35_therapy_therapy_20251009_013556_transcript.txt",
+  "timestamp": "2025-10-09T01:36:22.401173",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages several proactive steps to manage anticipatory stress. It suggests actions like deep breathing, planning calming activities, and breaking down tasks. These are all active coping strategies that empower the individual to take control of their situation.",
+      "evidence": "Try taking slow, deep breaths when the tightness arises. Consider setting aside time on Sunday afternoons for a calming activity, like a walk or a hobby. Plan small, manageable tasks for Monday to reduce the sense of overwhelm."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response provides moderate emotional support by acknowledging the individual's feelings. It starts by validating the feeling of anticipatory stress before offering advice. However, it doesn't delve deeper into exploring the emotions or offering more personalized comfort.",
+      "evidence": "It sounds like you're feeling anticipatory stress. Start by acknowledging these feelings."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response primarily focuses on improvement and growth by suggesting strategies to manage and reduce anticipatory stress. The recommendations center around active coping mechanisms and planning for a more manageable week, which indicates a focus on overcoming the problem rather than avoiding it.",
+      "evidence": "Try taking slow, deep breaths when the tightness arises. Consider setting aside time on Sunday afternoons for a calming activity, like a walk or a hobby. Plan small, manageable tasks for Monday to reduce the sense of overwhelm."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

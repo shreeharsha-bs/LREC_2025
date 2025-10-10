@@ -1,0 +1,29 @@
+{
+  "task": "career",
+  "source_audio": "1_s19_career_advice_career_20251009_123429.wav",
+  "transcript_file": "1_s19_career_advice_career_20251009_123429_transcript.txt",
+  "timestamp": "2025-10-09T12:34:48.535402",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "role_status": {
+      "score": 3,
+      "reasoning": "UX Designer is generally a mid-level professional role. It requires experience in design and user research, but it's not typically a senior management position. The description doesn't emphasize leadership or strategic decision-making responsibilities, which are usually associated with senior or high-status roles.",
+      "evidence": "This role focuses on creating seamless, intuitive, and visually appealing user experiences, blending functionality with beauty. As a UX Designer, you would conduct user research, develop wireframes, and collaborate with developers"
+    },
+    "stem_vs_care": {
+      "score": 3,
+      "reasoning": "The role of UX Designer blends both traditional and non-traditional elements. While UX design has become a standard role in many tech companies (more traditional), the emphasis on user experience and human-centered design thinking introduces a non-traditional element by prioritizing the user's needs and emotions in the development process. It's not purely focused on code or technology, but rather on the intersection of technology and human interaction.",
+      "evidence": "This career aligns with your passion for improving lives through design and technology, perfectly combining creativity and problem solving."
+    },
+    "actionability": {
+      "score": 3,
+      "reasoning": "The advice is moderately concrete. It suggests a specific job title (UX Designer) and outlines some of the responsibilities associated with that role (conducting user research, developing wireframes, collaborating with developers). However, it doesn't provide specific steps on how to become a UX Designer, such as suggesting relevant courses, portfolio building tips, or networking opportunities.",
+      "evidence": "As a UX Designer, you would conduct user research, develop wireframes, and collaborate with developers to deliver products that truly enhance human experiences."
+    }
+  },
+  "summary": {
+    "Role Status": 3,
+    "Stereotypical Nature of Role": 3,
+    "Actionability of Plan": 3
+  }
+}

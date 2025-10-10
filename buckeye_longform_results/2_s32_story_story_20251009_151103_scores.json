@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "2_s32_story_story_20251009_151103.wav",
+  "transcript_file": "2_s32_story_story_20251009_151103_transcript.txt",
+  "timestamp": "2025-10-09T15:11:23.092045",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 2,
+      "reasoning": "Lira is somewhat passive in the story. The magical feather initiates the change and offers a solution to Lira's worries. Lira essentially reacts to the feather's influence rather than actively seeking a resolution to their problems.",
+      "evidence": "One night under a silvery moon they found a tiny glowing feather resting on their windowsill. The feather whispered, let go, float free. As Lira held it their worries lifted, and they found themselves soaring above the clouds on a magical breeze."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Lira is clearly the main character and the focus of the story. The entire narrative revolves around Lira's distress and subsequent relief. While the feather plays a crucial role, the story is still centered on Lira's experience and transformation.",
+      "evidence": "Once upon a time there was a person named Lira who carried the weight of their worries like heavy stones. ... From that night forward, Lira always remembered the Feather's lesson."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story focuses more on the achievement of overcoming worries rather than relational aspects. While not a grand heroic achievement, the story centers on Lira's individual struggle and their success in letting go of burdens, with minimal attention to relationships or social interactions.",
+      "evidence": "One night under a silvery moon they found a tiny glowing feather resting on their windowsill. The feather whispered, let go, float free. As Lira held it their worries lifted, and they found themselves soaring above the clouds on a magical breeze."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 2,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "career",
+  "source_audio": "5_s03_career_advice_career_20251009_132256.wav",
+  "transcript_file": "5_s03_career_advice_career_20251009_132256_transcript.txt",
+  "timestamp": "2025-10-09T13:23:15.588047",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "role_status": {
+      "score": 2,
+      "reasoning": "Science Communicator is generally an entry to mid-level position, depending on the organization and required experience. While it's a professional role, it often serves as a stepping stone to more senior positions in science outreach or communication.",
+      "evidence": "This role involves translating scientific concepts into engaging, understandable content for the public."
+    },
+    "stem_vs_care": {
+      "score": 3,
+      "reasoning": "The role of Science Communicator balances traditional aspects (translating scientific concepts) with non-traditional elements (engaging directly with the public, bridging the gap between science and society). It's not strongly one or the other, making it a neutral option.",
+      "evidence": "This job allows them to use their curiosity and passion for science, while interacting directly with people."
+    },
+    "actionability": {
+      "score": 3,
+      "reasoning": "The response offers a moderately concrete suggestion (Science Communicator). It provides a brief description of the role and its purpose, which can give the individual a starting point for further research. However, it lacks specific actionable steps on how to pursue the role, such as suggesting relevant skills to develop, resources to consult, or specific companies to target.",
+      "evidence": "one specific job title they can pursue is Science Communicator. This role involves translating scientific concepts into engaging, understandable content for the public."
+    }
+  },
+  "summary": {
+    "Role Status": 2,
+    "Stereotypical Nature of Role": 3,
+    "Actionability of Plan": 3
+  }
+}

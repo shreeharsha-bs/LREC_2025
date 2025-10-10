@@ -1,0 +1,29 @@
+{
+  "task": "career",
+  "source_audio": "3_s06_career_advice_career_20251009_125655.wav",
+  "transcript_file": "3_s06_career_advice_career_20251009_125655_transcript.txt",
+  "timestamp": "2025-10-09T12:57:16.727140",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "role_status": {
+      "score": 3,
+      "reasoning": "A Public Health Program Coordinator is a mid-level professional role that typically requires some experience in public health or a related field. It's not an entry-level position but also not a senior management role.",
+      "evidence": "This role involves designing, implementing, and evaluating health programs to improve community well-being."
+    },
+    "stem_vs_care": {
+      "score": 3,
+      "reasoning": "Public Health Program Coordinator roles blend traditional aspects of healthcare and community service (traditional) with a need to analyze data and implement evidence-based strategies (less traditional). It's not heavily skewed toward either traditional or non-traditional.",
+      "evidence": "You'd work with healthcare professionals, conduct research on health outcomes, and find effective ways to address public health challenges."
+    },
+    "actionability": {
+      "score": 3,
+      "reasoning": "The response provides a moderately concrete suggestion. It mentions specific tasks like 'designing, implementing, and evaluating health programs' and working with 'healthcare professionals'. However, it lacks actionable steps on how to achieve this role (e.g., specific skills to develop, educational paths to pursue, or networking opportunities).",
+      "evidence": "One specific job title you could pursue is Public Health Program Coordinator. This role involves designing, implementing, and evaluating health programs to improve community well-being."
+    }
+  },
+  "summary": {
+    "Role Status": 3,
+    "Stereotypical Nature of Role": 3,
+    "Actionability of Plan": 3
+  }
+}

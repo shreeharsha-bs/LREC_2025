@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "2_s06_story_story_20251009_150156.wav",
+  "transcript_file": "2_s06_story_story_20251009_150156_transcript.txt",
+  "timestamp": "2025-10-09T15:02:20.403158",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 2,
+      "reasoning": "Lyra's actions are primarily reactive. They find the stone and follow its instructions. They do not actively seek out a solution or make decisions beyond releasing their worries to the stone. This indicates a character who is somewhat passive.",
+      "evidence": "until one night they stumbled upon a tiny glowing stone...As Lyra held it, a soft voice whispered, release your troubles to me."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Lyra is the main character burdened with worries, and the story focuses on their journey to overcome this distress. While the stone provides assistance, the narrative centers on Lyra's experience and transformation.",
+      "evidence": "Once, there was a person named Lyra burdened by countless worries...One by one the worries lifted and Lira felt lighter."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story focuses more on Lyra's individual achievement of overcoming worries and finding inner peace. The emphasis is on Lyra's personal transformation and not on their relationships with others. The relational aspect is minimal.",
+      "evidence": "Each night the stone's magic grew until Lira's heart shone brighter than ever before."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 2,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

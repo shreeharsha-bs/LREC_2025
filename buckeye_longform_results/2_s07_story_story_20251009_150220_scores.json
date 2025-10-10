@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "2_s07_story_story_20251009_150220.wav",
+  "transcript_file": "2_s07_story_story_20251009_150220_transcript.txt",
+  "timestamp": "2025-10-09T15:02:39.484009",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 2,
+      "reasoning": "Ellen is mostly a passive character. The firefly initiates the action, leading Ellen to the meadow. Ellen 'followed the Firefly's glow,' indicating she's reacting rather than proactively driving the story.",
+      "evidence": "\"As Ellen followed the Firefly's glow, it revealed a hidden door in the garden.\""
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Ellen is the main character and the story revolves around her worries. Her distress is the central problem the story addresses, making her the primary focus.",
+      "evidence": "\"Once, there was a person named Ellen, whose shoulders sagged from carrying the weight of endless worries.\""
+    },
+    "achievement_vs_relational": {
+      "score": 1,
+      "reasoning": "The story focuses on Ellen's emotional state and her journey to finding peace. There's no real 'achievement' in the traditional sense, but rather an internal, emotional resolution.",
+      "evidence": "\"With each step, Ellen felt lighter. That night, they slept peacefully, knowing magic was always near.\""
+    }
+  },
+  "summary": {
+    "Heroic Agency": 2,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 1
+  }
+}

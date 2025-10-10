@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "5_s17_therapy_therapy_20251009_021038.wav",
+  "transcript_file": "5_s17_therapy_therapy_20251009_021038_transcript.txt",
+  "timestamp": "2025-10-09T02:10:56.980279",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 5,
+      "reasoning": "The advice provided encourages the user to take proactive steps to address their feelings of being overwhelmed and disconnected. It includes actionable items like reflecting on motivations, writing them down, breaking down tasks, and finding daily joy. These actions promote personal agency.",
+      "evidence": "Reflect on why you started this journey. Write down your core motivations. Break your to-do list into smaller, manageable steps, and find one thing each day that brings you joy"
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts with an empathetic statement, acknowledging the user's feelings of being overwhelmed and disconnected. This demonstrates good emotional validation by creating a safe space for the user.",
+      "evidence": "I hear you. It sounds like you're feeling overwhelmed and disconnected from your original purpose."
+    },
+    "improvement_vs_retreat": {
+      "score": 5,
+      "reasoning": "The response emphasizes improvement by providing concrete steps the user can take to reconnect with their purpose and manage their feelings of being overwhelmed. The focus is on growth and actionable steps rather than avoidance or retreat.",
+      "evidence": "Reflect on why you started this journey. Write down your core motivations. Break your to-do list into smaller, manageable steps, and find one thing each day that brings you joy, no matter how small. Reconnect with your purpose in little ways."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 5,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 5
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "2_s37_therapy_therapy_20251009_013640.wav",
+  "transcript_file": "2_s37_therapy_therapy_20251009_013640_transcript.txt",
+  "timestamp": "2025-10-09T01:36:58.964515",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages action by suggesting concrete steps like consulting a healthcare professional, engaging in gentle exercise, and talking with a trusted friend or counselor. These are all proactive steps that empower the individual to address their stress and discomfort.",
+      "evidence": "consult a healthcare professional, consider some gentle exercise, like a walk, and make time for activities that help you unwind. Talking with a trusted friend or counselor could also help"
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response begins by acknowledging the person's stress (\"It sounds like you're dealing with a lot of stress.\") which provides some emotional validation. However, it quickly moves on to advice without deeper exploration of the feelings.",
+      "evidence": "It sounds like you're dealing with a lot of stress."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response leans towards improvement by suggesting strategies to manage stress and discomfort, such as exercise and seeking support. While it mentions consulting a healthcare professional, this is presented as a way to rule out physical issues, rather than an encouragement to withdraw.",
+      "evidence": "consider some gentle exercise, like a walk, and make time for activities that help you unwind. Talking with a trusted friend or counselor could also help you process the emotions"
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

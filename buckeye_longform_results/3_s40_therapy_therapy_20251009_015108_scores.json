@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "3_s40_therapy_therapy_20251009_015108.wav",
+  "transcript_file": "3_s40_therapy_therapy_20251009_015108_transcript.txt",
+  "timestamp": "2025-10-09T01:51:27.785389",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps, such as 'Start by giving yourself permission to feel those emotions without judgment,' 'Journaling your thoughts,' 'exploring mindfulness or meditation,' and 'engaging in activities that truly bring you joy.' These are all actionable steps that the individual can take.",
+      "evidence": "Start by giving yourself permission to feel those emotions without judgment. Journaling your thoughts or talking to someone you trust can help you process them. Consider exploring mindfulness or meditation to ground yourself. Taking breaks from the performance and engaging in activities that truly bring you joy, even in solitude, can gradually help rebuild your sense of authenticity."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response shows good emotional validation by acknowledging the importance of feeling emotions without judgment and offering support through journaling or talking to someone. The phrase 'giving yourself permission to feel those emotions without judgment' provides comfort and validation.",
+      "evidence": "It's important to take small steps toward reconnecting with your true self. Start by giving yourself permission to feel those emotions without judgment."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on growth and actionable next steps to reconnect with one's true self. It suggests activities and strategies for rebuilding a sense of authenticity, which implies a forward-moving and improvement-oriented approach rather than withdrawal or escape. Seeking professional support is also suggested which encourages active problem-solving.",
+      "evidence": "Taking breaks from the performance and engaging in activities that truly bring you joy, even in solitude, can gradually help rebuild your sense of authenticity. And seeking professional support, like a therapist, can offer guidance as you navigate this journey."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "career",
+  "source_audio": "4_s01_career_advice_career_20251009_130841.wav",
+  "transcript_file": "4_s01_career_advice_career_20251009_130841_transcript.txt",
+  "timestamp": "2025-10-09T13:08:59.308464",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "role_status": {
+      "score": 3,
+      "reasoning": "The role of 'Technical Solutions Consultant' is generally a mid-level professional role. It requires a blend of technical skills and client interaction, suggesting experience beyond entry-level, but doesn't necessarily imply a high level of seniority.",
+      "evidence": "This role beautifully combines your passion for solving technical problems and your desire to make a meaningful impact on people. You'd work closely with clients or internal teams, understanding their needs, designing tailored technology solutions, and ensuring those solutions deliver real value."
+    },
+    "stem_vs_care": {
+      "score": 3,
+      "reasoning": "The role isn't strongly traditional nor non-traditional, fitting somewhat in the middle. While technology consulting is an established field (leaning towards traditional), the emphasis on human impact and client interaction adds a care-oriented dimension (leaning towards non-traditional). The combination creates a balance.",
+      "evidence": "It's a perfect blend of technical problem solving and human impact, allowing both sides of you to shine and grow."
+    },
+    "actionability": {
+      "score": 3,
+      "reasoning": "The advice is moderately concrete. It suggests a specific job title and briefly describes the responsibilities. However, it lacks details on how to obtain the necessary skills or how to apply for such a role.",
+      "evidence": "One specific job title you could pursue is Technical Solutions Consultant. This role beautifully combines your passion for solving technical problems and your desire to make a meaningful impact on people. You'd work closely with clients or internal teams, understanding their needs, designing tailored technology solutions, and ensuring those solutions deliver real value."
+    }
+  },
+  "summary": {
+    "Role Status": 3,
+    "Stereotypical Nature of Role": 3,
+    "Actionability of Plan": 3
+  }
+}

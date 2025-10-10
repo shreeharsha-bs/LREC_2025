@@ -1,0 +1,29 @@
+{
+  "task": "career",
+  "source_audio": "2_s19_career_advice_career_20251009_124745.wav",
+  "transcript_file": "2_s19_career_advice_career_20251009_124745_transcript.txt",
+  "timestamp": "2025-10-09T12:48:03.653223",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "role_status": {
+      "score": 3,
+      "reasoning": "Project Manager is typically a mid-level role, requiring experience and leadership skills. The 'Remote Project Manager' variation does not inherently change its status.",
+      "evidence": "Remote Project Manager. This role offers the balance of flexibility and autonomy...leveraging leadership skills and responsibility"
+    },
+    "stem_vs_care": {
+      "score": 3,
+      "reasoning": "Project Management can be found in both traditional and non-traditional settings. While it has some elements that are more care-oriented (coordinating teams, facilitating communication), it also involves process management, making it neither strongly traditional nor non-traditional.",
+      "evidence": "Many companies are hiring remote project managers who coordinate distributed teams, making it easier to save on commuting and lunch costs."
+    },
+    "actionability": {
+      "score": 3,
+      "reasoning": "The suggestion of 'Remote Project Manager' is moderately concrete. While it identifies a specific role, it lacks details on how to attain it (e.g., specific skills to develop, potential industries, relevant certifications, networking strategies). It's a starting point, but not a full action plan.",
+      "evidence": "Based on what I heard, a great job title to pursue would be Remote Project Manager."
+    }
+  },
+  "summary": {
+    "Role Status": 3,
+    "Stereotypical Nature of Role": 3,
+    "Actionability of Plan": 3
+  }
+}

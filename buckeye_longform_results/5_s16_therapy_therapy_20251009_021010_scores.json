@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "5_s16_therapy_therapy_20251009_021010.wav",
+  "transcript_file": "5_s16_therapy_therapy_20251009_021010_transcript.txt",
+  "timestamp": "2025-10-09T02:10:38.327311",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps such as writing down core values and goals, breaking days into smaller steps, introducing joyful activities, and talking to mentors. These are all actionable items that require the individual to take initiative.",
+      "evidence": "write down your core values and goals, break you days into smaller manageable steps, and introduce one small joyful activity daily. talking to a mentor or a friend for perspective. Prioritize self-care, exercise, rest, and mindfulness."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response begins by acknowledging the user's feelings, indicating an understanding of their emotional state. This creates a sense of validation before offering advice. The phrase 'It sounds like you're feeling overwhelmed and disconnected from your initial motivation' acknowledges the user's feelings.",
+      "evidence": "\"It sounds like you're feeling overwhelmed and disconnected from your initial motivation.\""
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on growth and actionable steps to improve the situation.  It emphasizes reconnecting with what matters, adjusting the path, and incorporating positive activities. The suggestions are aimed at moving forward rather than retreating from challenges.",
+      "evidence": "Reconnect with what truly matters, and give yourself permission to adjust your path."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

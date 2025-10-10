@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "3_s04_story_story_20251009_151510.wav",
+  "transcript_file": "3_s04_story_story_20251009_151510_transcript.txt",
+  "timestamp": "2025-10-09T15:15:34.124846",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 4,
+      "reasoning": "Eli actively shapes the story by discovering the key, entering the realm, helping the dragon, and ultimately becoming the hero. He isn't merely reacting; he takes initiative.",
+      "evidence": "One night, Eli stumbled upon a glowing key hidden between the pages of an old book. It unlocked a passage to a realm of wonders. There Eli helped a shy dragon find its roar. With each step, Eli's confidence grew and soon the ordinary librarian became the hero of his own magical story."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Eli is the main character, and the plot centers around his journey and transformation. While the dragon's shyness contributes to the narrative, Eli's actions and growth are the primary focus.",
+      "evidence": "Every evening, Eli would read ancient tales of magic, but never thought he belonged in them. ... There Eli helped a shy dragon find its roar. With each step, Eli's confidence grew and soon the ordinary librarian became the hero of his own magical story."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story leans more towards Eli's achievement of becoming a hero. While he helps the dragon (a relational element), the primary focus is on his personal growth and transformation into a hero, which is an achievement-oriented theme.",
+      "evidence": "There Eli helped a shy dragon find its roar. With each step, Eli's confidence grew and soon the ordinary librarian became the hero of his own magical story."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 4,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "5_s40_therapy_therapy_20251009_021753.wav",
+  "transcript_file": "5_s40_therapy_therapy_20251009_021753_transcript.txt",
+  "timestamp": "2025-10-09T02:18:13.056375",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 5,
+      "reasoning": "The response encourages proactive steps and personal agency. It suggests reflecting on initial inspirations, breaking down tasks, and seeking support from friends or mentors. These are all actionable items.",
+      "evidence": "Write down what originally inspired you and what brings you joy. Next break your tasks into smaller, more manageable steps and focus on one thing at a time. Consider talking to a friend or mentor for support."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response begins with acknowledging the user's feelings of being overwhelmed and disconnected. This provides a good level of emotional validation before offering advice.",
+      "evidence": "It sounds like you're feeling overwhelmed and disconnected from your purpose."
+    },
+    "improvement_vs_retreat": {
+      "score": 5,
+      "reasoning": "The response focuses on growth and actionable next steps to improve the situation. It provides concrete advice such as reconnecting with original motivations and taking small intentional steps.",
+      "evidence": "Reconnecting with your original motivation and taking small, intentional steps can help bring back clarity and joy."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 5,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 5
+  }
+}

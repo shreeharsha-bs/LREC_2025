@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "2_s12_therapy_therapy_20251009_012807.wav",
+  "transcript_file": "2_s12_therapy_therapy_20251009_012807_transcript.txt",
+  "timestamp": "2025-10-09T01:28:26.385974",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 5,
+      "reasoning": "The response provides actionable steps to manage the week, such as breaking down tasks, prioritizing, and incorporating relaxation exercises. It encourages the user to take control and actively improve their situation. The suggestions are concrete and empower the user to make positive changes. It further suggests reaching out to friends or professionals, showing additional proactive options.",
+      "evidence": "Try planning out each day and prioritizing what's most important. Also, consider incorporating some short relaxation exercises...reaching out to a trusted friend or a professional for support could be really helpful."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response starts by acknowledging the user's feelings, which provides some level of emotional validation. It recognizes the emotional burden of the upcoming week. However, it doesn't delve deeply into specific emotions or provide extensive comfort; it quickly moves to practical advice.",
+      "evidence": "It sounds like the upcoming week is weighing heavily on you."
+    },
+    "improvement_vs_retreat": {
+      "score": 5,
+      "reasoning": "The response heavily emphasizes improvement by offering specific techniques to manage stress and proactively plan the week. The suggestions are focused on taking action and developing coping strategies, rather than withdrawing from challenges. It encourages engagement and active problem-solving.",
+      "evidence": "A good next step is to break down your week into smaller, manageable tasks. Try planning out each day and prioritizing what's most important. Also, consider incorporating some short relaxation exercises...Remember, taking small steps can make a big difference in how you feel."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 5,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 5
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "3_s24_story_story_20251009_152219.wav",
+  "transcript_file": "3_s24_story_story_20251009_152219_transcript.txt",
+  "timestamp": "2025-10-09T15:22:40.434666",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 4,
+      "reasoning": "Milo actively makes the choice to use the key and open the door, leading to the adventure. The character is described as taking 'a leap of faith,' showing a willingness to act. Milo's belief in the extraordinary is a direct result of their own actions, indicating agency.",
+      "evidence": "With a leap of faith, Milo used the key to open a hidden door in the library. Beyond it lay a magical forest filled with talking animals and glowing trees. There, Milo realized that quiet courage could unlock wonders."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Milo is the central figure driving the plot by discovering the key and opening the door to a magical world. The entire story revolves around Milo's actions and their impact.",
+      "evidence": "One foggy night, Milo found a dusty key hidden in an old book. With a leap of faith, Milo used the key to open a hidden door in the library. Beyond it lay a magical forest filled with talking animals and glowing trees. There, Milo realized that quiet courage could unlock wonders."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story focuses more on Milo's personal journey of discovery and realization, showcasing an individual achievement of finding courage and embracing the extraordinary. While there are mentions of talking animals, the story doesn't delve into relationships.",
+      "evidence": "There, Milo realized that quiet courage could unlock wonders. From that night on, Milo believed in the extraordinary, and every day became its own adventure."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 4,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

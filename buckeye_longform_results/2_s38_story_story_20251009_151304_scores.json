@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "2_s38_story_story_20251009_151304.wav",
+  "transcript_file": "2_s38_story_story_20251009_151304_transcript.txt",
+  "timestamp": "2025-10-09T15:13:22.613323",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 1,
+      "reasoning": "Eli is a passive character. The firefly initiates and solves the problem. Eli simply follows instructions.",
+      "evidence": "a glowing firefly appeared and whispered, hold me close and let your burdens float away. Trusting the tiny creature, Eli cupped it gently."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Eli is clearly the main character and the entire story revolves around their distress and subsequent relief.",
+      "evidence": "Once, there was a kind soul named Eli, burdened by worries that felt like stones in a satchel."
+    },
+    "achievement_vs_relational": {
+      "score": 1,
+      "reasoning": "The story primarily focuses on Eli's emotional state and resolution of their worries, rather than any external achievements.",
+      "evidence": "From that night on, Eli carried less weight and more wonder in their heart."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 1,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 1
+  }
+}

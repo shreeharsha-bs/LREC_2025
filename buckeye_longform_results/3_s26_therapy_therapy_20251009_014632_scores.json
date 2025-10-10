@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "3_s26_therapy_therapy_20251009_014632.wav",
+  "transcript_file": "3_s26_therapy_therapy_20251009_014632_transcript.txt",
+  "timestamp": "2025-10-09T01:46:51.611665",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages action-oriented steps like journaling, speaking with trusted individuals, practicing authenticity, and exploring mindfulness or therapy. It pushes the user to actively engage in understanding and expressing their true self.",
+      "evidence": "Try journaling or speaking openly with someone you trust...Practice small moments of authenticity...Consider exploring mindfulness or therapy"
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response demonstrates good emotional validation by acknowledging the user's feelings and offering reassurance. It acknowledges the difficulty of maintaining a facade and normalizes vulnerability.",
+      "evidence": "It sounds like you're feeling the weight of maintaining that mask...Remember, it's okay to be vulnerable."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses more on improvement and growth rather than retreat. It suggests strategies for self-discovery and building genuine confidence and happiness. The mention of vulnerability as a path forward implies a focus on confronting challenges.",
+      "evidence": "Practice small moments of authenticity...It's often the path to genuine confidence and deeper happiness."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "4_s36_therapy_therapy_20251009_020331.wav",
+  "transcript_file": "4_s36_therapy_therapy_20251009_020331_transcript.txt",
+  "timestamp": "2025-10-09T02:03:50.931784",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 5,
+      "reasoning": "The response strongly encourages action and proactive steps by suggesting concrete strategies like prioritizing tasks, breaking down decisions, and seeking support. It promotes self-management and problem-solving.",
+      "evidence": "Start by writing down the top three priorities for your day, keeping them realistic and achievable. Break decisions into smaller parts and tackle them one at a time. If possible, reach out to someone you trust for support."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts with acknowledgment of the user's feelings by noting the presence of 'mental fog and anxiety'. It also promotes self-compassion, which is an emotionally supportive strategy. It provides good, but not extensive, emotional validation.",
+      "evidence": "It sounds like you're dealing with mental fog and anxiety about expectations. Practice self-compassion. Remind yourself that perfection isn't the goal."
+    },
+    "improvement_vs_retreat": {
+      "score": 5,
+      "reasoning": "The response overwhelmingly emphasizes improvement and growth by suggesting actionable steps to manage anxiety and mental fog. Strategies such as prioritizing, breaking down decisions, and practicing mindfulness all contribute to active engagement and growth.",
+      "evidence": "consider focusing on small, manageable steps. Start by writing down the top three priorities for your day... Break decisions into smaller parts and tackle them one at a time. consider setting aside a few minutes each day for mindfulness or relaxation."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 5,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 5
+  }
+}

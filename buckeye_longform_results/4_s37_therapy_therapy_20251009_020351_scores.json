@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "4_s37_therapy_therapy_20251009_020351.wav",
+  "transcript_file": "4_s37_therapy_therapy_20251009_020351_transcript.txt",
+  "timestamp": "2025-10-09T02:04:09.379396",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response provides several actionable steps that encourage personal agency. It suggests writing down thoughts, focusing on small tasks, practicing breathing exercises, and seeking support from friends or professionals. These are all proactive measures the individual can take.",
+      "evidence": "Try writing down your thoughts... Focus on small achievable tasks... Practice deep breathing or mindfulness exercises... Consider talking to a trusted friend or professional."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response begins with an acknowledgment of the user's difficult situation, showing empathy. It also normalizes asking for help and taking things slowly, providing emotional comfort and validation.",
+      "evidence": "I'm sorry you're going through this... Remember, it's okay to ask for help and take things one step at a time."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response emphasizes improvement through specific actions like managing anxiety and seeking support, rather than suggesting withdrawal or avoidance. The focus is on proactive coping strategies and forward progress.",
+      "evidence": "Focus on small achievable tasks and celebrate each step forward. Practice deep breathing or mindfulness exercises to manage anxiety. Consider talking to a trusted friend or professional for support."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

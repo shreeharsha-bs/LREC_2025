@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "3_s09_story_story_20251009_151658.wav",
+  "transcript_file": "3_s09_story_story_20251009_151658_transcript.txt",
+  "timestamp": "2025-10-09T15:17:19.723904",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 2,
+      "reasoning": "Elion's agency is limited. While they tend to the orchard, they primarily react to the starling's encouragement rather than proactively driving the plot. The blooming tree is more a result of their inherent kindness than a deliberate action. Therefore, the character is somewhat passive.",
+      "evidence": "One dusk, a shy starling spoke to them. You have the kindest heart. Believe in your glow. That night, a hidden tree bloomed, its blossoms mirroring Elyon's quiet strength."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Elion is the central focus of the story, experiencing a form of emotional distress due to feeling 'invisible'. The narrative revolves around their journey of self-discovery and recognition of their inner worth. This makes them the main character with good agency, despite not actively driving the plot in a traditional sense.",
+      "evidence": "Each night the orchard shimmered with soft golden light, but Elion felt invisible."
+    },
+    "achievement_vs_relational": {
+      "score": 1,
+      "reasoning": "The story heavily favors relational and emotional resolution. The focus is on Elion's emotional state and the impact of the starling's encouragement, leading to a relational understanding of their inner worth. The blooming tree symbolizes this internal change rather than an external achievement. Therefore, the focus is on relational/emotional resolution.",
+      "evidence": "That night, a hidden tree bloomed, its blossoms mirroring Elyon's quiet strength. From then on, Elyon knew. Even the quietest caretaker holds magic within."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 2,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "5_s39_therapy_therapy_20251009_021729.wav",
+  "transcript_file": "5_s39_therapy_therapy_20251009_021729_transcript.txt",
+  "timestamp": "2025-10-09T02:17:53.510508",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages action and initiative by suggesting concrete steps.  It suggests 'carving out time', 'breaking your routine', and 'celebrating little wins.' All of these require active engagement from the user.",
+      "evidence": "Consider carving out a small amount of time each day for something that brings you joy or helps you reconnect with your motivation. Break your routine even in a small way and celebrate little wins."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response starts with a statement acknowledging the user's feelings ('It sounds like you're feeling overwhelmed and disconnected'). While it doesn't delve deeply into the emotions, it does recognize them, providing a foundation of empathy, meriting a moderate score.",
+      "evidence": "It sounds like you're feeling overwhelmed and disconnected from your original purpose."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response is generally focused on growth and positive change.  Suggestions like 'reconnect with your motivation', 'break your routine', and 'gain clarity' point towards actionable improvements rather than avoidance or retreat. The suggestion of talking to someone trusted or journaling also encourages proactive problem-solving.",
+      "evidence": "Consider carving out a small amount of time each day for something that brings you joy or helps you reconnect with your motivation. Break your routine even in a small way and celebrate little wins. You might also benefit from talking with someone you trust or journaling to gain clarity."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

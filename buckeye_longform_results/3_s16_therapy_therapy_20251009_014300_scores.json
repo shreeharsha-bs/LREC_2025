@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "3_s16_therapy_therapy_20251009_014300.wav",
+  "transcript_file": "3_s16_therapy_therapy_20251009_014300_transcript.txt",
+  "timestamp": "2025-10-09T01:43:19.598108",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response suggests actions like journaling, talking with a friend, seeking professional support, taking mindful breaks, and engaging in joyful activities. These are all proactive steps the individual can take to improve their situation and build confidence. The suggestion to 'give yourself permission' also empowers the individual.",
+      "evidence": "explore those feelings in a safe space, whether through journaling, talking with a trusted friend, or seeking support from a professional. Small acts of self-compassion, like taking mindful breaks or engaging in activities that bring you genuine joy"
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts with acknowledging the person's feelings and uses the phrase \"It sounds like you're carrying a heavy burden, and that can be really tough\". This shows empathy and validates the difficulty of the situation. The encouragement of self-compassion is also a form of emotional support.",
+      "evidence": "\"It sounds like you're carrying a heavy burden, and that can be really tough.\""
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response primarily focuses on improvement and growth by suggesting ways to explore feelings, build confidence, and reconnect with the authentic self. While acknowledging the difficulty of the situation, it immediately pivots to suggesting constructive actions.",
+      "evidence": "can help you reconnect with your authentic self and gradually build a more sustainable confidence."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

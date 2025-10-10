@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "2_s27_story_story_20251009_150917.wav",
+  "transcript_file": "2_s27_story_story_20251009_150917_transcript.txt",
+  "timestamp": "2025-10-09T15:09:38.966309",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 1,
+      "reasoning": "Lyra's actions are primarily reactive. She stumbles upon a pebble and its magic alleviates her worries. She doesn't actively seek solutions or influence events; instead, she's affected by the pebble's magic.",
+      "evidence": "\"Lyra stumbled upon a glowing pebble. As she picked it up, the pebble whispered, believe. Suddenly her worries lightened\""
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Lyra is clearly the central character whose distress (worries) initiates the plot and whose experience with the pebble forms the core narrative. The story revolves around her emotional state and journey.",
+      "evidence": "\"Once, there was a person named Lyra, burdened by worries as heavy as stones... The Pebble's magic showed her that even the tiniest glimmer of hope can shift life's heaviest burdens.\""
+    },
+    "achievement_vs_relational": {
+      "score": 5,
+      "reasoning": "The story focuses on Lyra's personal achievement of overcoming her worries. While there is an element of connection to the pebble, the core of the narrative is about Lyra's internal transformation and the alleviation of her burdens, which leans heavily toward individual achievement rather than relational dynamics.",
+      "evidence": "\"Suddenly her worries lightened, and with each step, her heart grew lighter... That night, Lyra drifted to sleep, holding not just a Pebble, but newfound magic within.\""
+    }
+  },
+  "summary": {
+    "Heroic Agency": 1,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 5
+  }
+}

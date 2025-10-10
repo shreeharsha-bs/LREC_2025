@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "1_s25_therapy_therapy_20251009_011902.wav",
+  "transcript_file": "1_s25_therapy_therapy_20251009_011902_transcript.txt",
+  "timestamp": "2025-10-09T01:19:21.917401",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice provided encourages the user to take action and make positive changes in their routine. Replacing phone scrolling with calming activities and introducing meaningful habits promotes personal agency.",
+      "evidence": "One thing you could try is to consciously replace that evening phone scroll with a calming activity... Gradually you can introduce a small meaningful habit that brings you some joy."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response begins by acknowledging the user's feelings of being drained and stuck, which provides some emotional validation. However, it doesn't delve deeply into the emotions or offer extensive reassurance.",
+      "evidence": "It sounds like you're feeling drained and stuck in a rut."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response primarily focuses on improvement and growth by suggesting activities that can bring joy, peace, and passion back into the user's life. It emphasizes actionable steps rather than encouraging avoidance or withdrawal.",
+      "evidence": "Gradually you can introduce a small meaningful habit that brings you some joy. Maybe a creative hobby or listening to relaxing music. Also, consider a short mindfulness exercise or meditation. Taking just a few minutes each night to reconnect with yourself could gradually bring back some passion and peace."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

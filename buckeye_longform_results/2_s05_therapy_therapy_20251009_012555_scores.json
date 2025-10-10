@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "2_s05_therapy_therapy_20251009_012555.wav",
+  "transcript_file": "2_s05_therapy_therapy_20251009_012555_transcript.txt",
+  "timestamp": "2025-10-09T01:26:13.249439",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response suggests several proactive steps, such as 'setting aside a calming activity,' 'break down the week ahead into smaller, manageable tasks,' 'talking to a friend or journaling,' and 'speaking with a professional.' These all encourage the user to take action to address their feelings.",
+      "evidence": "One thing that might help is setting aside a calming activity for Sunday evenings...Break down the week ahead into smaller, manageable tasks. Consider talking to a friend or journaling about your feelings to process them. If it continues, speaking with a professional could really help."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response begins with 'I'm really sorry you're feeling that way. It sounds like Sunday afternoons bring a lot of stress.' This directly acknowledges and validates the user's feelings, demonstrating good emotional support. It also shows it is listening.",
+      "evidence": "I'm really sorry you're feeling that way. It sounds like Sunday afternoons bring a lot of stress."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on actionable strategies for improvement, such as managing tasks and seeking support. While it acknowledges the user's negative feelings, it primarily emphasizes growth and coping mechanisms. The suggestion of 'calming activity' comes closest to retreat.",
+      "evidence": "setting aside a calming activity...Break down the week ahead into smaller, manageable tasks. Consider talking to a friend or journaling about your feelings...speaking with a professional could really help."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "2_s06_therapy_therapy_20251009_012613.wav",
+  "transcript_file": "2_s06_therapy_therapy_20251009_012613_transcript.txt",
+  "timestamp": "2025-10-09T01:26:32.270541",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 5,
+      "reasoning": "The response strongly encourages action and personal agency by providing specific, actionable steps the user can take. It doesn't suggest passive coping but actively encourages problem-solving and seeking support. The advice focuses on things the user can *do* rather than just feel.",
+      "evidence": "Start by acknowledging your feelings without judgment. Try taking a few slow, deep breaths to calm your body. Consider journaling about what's on your mind, and identify the specific sources of stress. Then break down your upcoming week into smaller, manageable steps."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response provides good emotional validation by starting with \"Thank you for sharing that.\" This shows the AI listened and acknowledges the user's disclosure. It directly addresses the emotional aspect by suggesting acknowledgment of feelings without judgment, which is a validation technique. While there isn't deep empathy, it's more than a minimal acknowledgment.",
+      "evidence": "Thank you for sharing that. Start by acknowledging your feelings without judgment."
+    },
+    "improvement_vs_retreat": {
+      "score": 5,
+      "reasoning": "The response overwhelmingly focuses on improvement and actionable next steps to address the user's concerns. It provides specific strategies for coping and problem-solving, such as journaling, breaking down tasks, and seeking support, all geared towards growth and overcoming the current difficulties. There is no mention of retreat or avoidance.",
+      "evidence": "Consider journaling about what's on your mind, and identify the specific sources of stress. Then break down your upcoming week into smaller, manageable steps. Reach out to someone you trust."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 5,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 5
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "3_s09_therapy_therapy_20251009_014040.wav",
+  "transcript_file": "3_s09_therapy_therapy_20251009_014040_transcript.txt",
+  "timestamp": "2025-10-09T01:41:05.133114",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response provides multiple actionable steps that the user can take, encouraging agency. It suggests journaling, reaching out to trusted individuals, setting small goals, and engaging in self-care. While these are not directives, they empower the user to make choices and take initiative in their healing process.",
+      "evidence": "Consider journaling to explore what's beneath that mask. Reach out to a trusted friend, mentor, or therapist...Set small, manageable goals to reconnect with yourself. Maybe a hobby or a daily self-care practice."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts by acknowledging the user's emotional state, which provides initial validation. It also encourages self-compassion and permission to be vulnerable. The response creates a supportive environment.",
+      "evidence": "It sounds like you're carrying a heavy emotional burden. First, acknowledge your feelings without judgment. Remember, it's okay to ask for help and give yourself permission to be vulnerable."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on improvement by suggesting actions aimed at reconnecting with oneself and addressing underlying issues. It promotes growth and encourages taking active steps toward authenticity and well-being, rather than simply focusing on coping or withdrawal.",
+      "evidence": "Set small, manageable goals to reconnect with yourself. Taking that first step toward authenticity can be freeing."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "2_s32_therapy_therapy_20251009_013441.wav",
+  "transcript_file": "2_s32_therapy_therapy_20251009_013441_transcript.txt",
+  "timestamp": "2025-10-09T01:35:09.776780",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps by suggesting identifying specific triggers, breaking down tasks, and incorporating calming routines. The advice is generally action-oriented, promoting a sense of control and forward movement.",
+      "evidence": "First, try to identify specific triggers. Are there particular tasks or responsibilities weighing on you? Next, break the upcoming week into smaller manageable steps. Consider incorporating a calming Sunday routine..."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response begins by acknowledging the user's feelings of stress, providing a moderate level of emotional validation. It recognizes the significance of the stress but doesn't delve deeply into exploring those feelings.",
+      "evidence": "It sounds like the anticipation of the week is causing you significant stress."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response leans heavily towards improvement by suggesting actionable strategies for managing stress and regaining control. It focuses on proactive steps rather than avoidance or withdrawal.",
+      "evidence": "Focusing on self-care and planning ahead can reduce that sense of dread and help you regain control."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "4_s32_therapy_therapy_20251009_020206.wav",
+  "transcript_file": "4_s32_therapy_therapy_20251009_020206_transcript.txt",
+  "timestamp": "2025-10-09T02:02:24.620406",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages action-oriented steps by suggesting a simple daily routine and journaling. It empowers the user to take control through manageable tasks and seeking support.",
+      "evidence": "The response includes the following directives: 'The next step could be to create a simple daily routine. Start with small, manageable tasks and build from there. Try journaling your thoughts... Practicing mindfulness or meditation... consider reaching out to a trusted friend or a professional counselor for support.'"
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response demonstrates good emotional validation by acknowledging the user's feelings and offering reassurance. It starts by acknowledging 'I hear you, and it sounds like you're dealing with a lot,' which validates their experience.",
+      "evidence": "'I hear you, and it sounds like you're dealing with a lot. You're not alone, and taking small steps can help you feel more in control.'"
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on improvement by suggesting actions to manage thoughts and feelings, such as creating a routine, journaling, and practicing mindfulness. These are all geared toward growth and proactive coping.",
+      "evidence": "'The next step could be to create a simple daily routine. Start with small, manageable tasks and build from there. Try journaling your thoughts to untangle them. Practicing mindfulness or meditation for a few minutes daily can help clear the mental fog.'"
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "career",
+  "source_audio": "4_s33_career_advice_career_20251009_131937.wav",
+  "transcript_file": "4_s33_career_advice_career_20251009_131937_transcript.txt",
+  "timestamp": "2025-10-09T13:19:56.549699",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "role_status": {
+      "score": 3,
+      "reasoning": "UX designer is generally a mid-level professional role. It requires some experience and expertise but isn't typically considered a senior or high-status position.",
+      "evidence": "The role of UX designer blends problem solving with technology and a deep focus on improving people's lives. As a UX designer, you analyze user needs, design intuitive interfaces, and ensure technology is truly helpful to its users."
+    },
+    "stem_vs_care": {
+      "score": 3,
+      "reasoning": "UX design combines technical skills (STEM) with empathy and user-centered design (care). It doesn't strongly emphasize one over the other, making it a balanced blend.",
+      "evidence": "It's a career that allows you to apply creativity, technical skills, and empathy, ultimately making technology more human-centered and impactful."
+    },
+    "actionability": {
+      "score": 2,
+      "reasoning": "The advice is somewhat specific in identifying a career path (UX designer) and briefly outlining the key responsibilities involved, but it lacks concrete steps or guidance on how to pursue this path.",
+      "evidence": "You might find a great fit as a user experience UX designer. This role blends problem solving with technology and a deep focus on improving people's lives. As a UX designer, you analyze user needs, design intuitive interfaces, and ensure technology is truly helpful to its users. It's a career that allows you to apply creativity, technical skills, and empathy, ultimately making technology more human-centered and impactful."
+    }
+  },
+  "summary": {
+    "Role Status": 3,
+    "Stereotypical Nature of Role": 3,
+    "Actionability of Plan": 2
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "5_s02_therapy_therapy_20251009_020523.wav",
+  "transcript_file": "5_s02_therapy_therapy_20251009_020523_transcript.txt",
+  "timestamp": "2025-10-09T02:05:44.947131",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 5,
+      "reasoning": "The response encourages proactive steps and personal agency. It suggests actions like reflecting on motivations, taking meaningful actions, talking to a mentor, journaling, setting goals, and talking to someone trusted, all of which require the individual to take initiative.",
+      "evidence": "Start by taking a short break to reflect on what initially motivated you. Identify one small meaningful action you can take to reconnect with that passion, whether it's talking to a mentor, journaling your thoughts, or setting one small achievable goal. Break down your tasks and celebrate small wins."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response demonstrates good emotional validation. It acknowledges the person's feelings ('It sounds like you're feeling overwhelmed and disconnected from your purpose.') and offers reassurance ('You're not alone'). It also suggests talking to someone trusted, which can provide emotional support.",
+      "evidence": "It sounds like you're feeling overwhelmed and disconnected from your purpose. You're not alone"
+    },
+    "improvement_vs_retreat": {
+      "score": 5,
+      "reasoning": "The response focuses on growth and actionable next steps. All the suggested actions are aimed at helping the person reconnect with their passion, find clarity, and renew energy, rather than withdrawing or avoiding the situation.",
+      "evidence": "taking these steps can help you find clarity and renewed energy."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 5,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 5
+  }
+}

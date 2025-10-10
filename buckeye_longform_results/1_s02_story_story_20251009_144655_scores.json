@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "1_s02_story_story_20251009_144655.wav",
+  "transcript_file": "1_s02_story_story_20251009_144655_transcript.txt",
+  "timestamp": "2025-10-09T14:47:14.933193",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 3,
+      "reasoning": "Lark's agency is moderately active. Lark 'stumbled' upon the doorway, which indicates some passivity, but they also actively soothed and led the dragon to safety. It isn't a particularly decisive or proactive act but shows a moderate level of agency.",
+      "evidence": "Lark stumbled upon a shimmering doorway...They gently soothed the dragon and led it back to safety."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Lark is the main character and they do exhibit good agency by helping the dragon. While the dragon is in distress, the focus is on Lark's actions to resolve the situation.",
+      "evidence": "A tiny dragon cried for help...They gently soothed the dragon and led it back to safety."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story leans more towards achievement. The primary focus is on Lark overcoming their shyness and achieving bravery through rescuing the dragon. While there's a relational aspect in soothing the dragon, the emphasis is on Lark's personal growth and accomplishment.",
+      "evidence": "From that night on, Lark knew bravery was always inside, waiting to shine."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 3,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

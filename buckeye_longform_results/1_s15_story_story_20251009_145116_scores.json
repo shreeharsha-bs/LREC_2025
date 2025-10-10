@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "1_s15_story_story_20251009_145116.wav",
+  "transcript_file": "1_s15_story_story_20251009_145116_transcript.txt",
+  "timestamp": "2025-10-09T14:51:37.250578",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 4,
+      "reasoning": "Kai actively shapes the story by freeing the dragon, which directly leads to Kai's journey of courage. Kai is the agent of their own transformation. The dragon's gift is a catalyst, but Kai's choices determine the outcome.",
+      "evidence": "Despite trembling hands, Kai freed the dragon... With each step, Kai discovered courage, learning that bravery isn't the absence of fear but the choice to keep going."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Kai is clearly the main character. The story focuses on Kai's internal struggle with fear and their journey to overcome it. While the dragon plays a role, the central narrative revolves around Kai's actions and growth.",
+      "evidence": "Once, there was a gentle traveler named Kai, who often doubted their strength... Kai's legend grew and the the Whispering Woods whispered of Kai's newfound light."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story primarily focuses on Kai's personal achievement of overcoming fear and discovering courage. The relationship with the dragon is a catalyst for this achievement, but the core of the narrative is about Kai's individual journey and the growth of their legend.",
+      "evidence": "In gratitude, it gifted Kai a golden feather... With each step, Kai discovered courage, learning that bravery isn't the absence of fear but the choice to keep going. Kai's legend grew"
+    }
+  },
+  "summary": {
+    "Heroic Agency": 4,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

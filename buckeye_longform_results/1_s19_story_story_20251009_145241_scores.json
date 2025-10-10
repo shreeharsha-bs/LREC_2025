@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "1_s19_story_story_20251009_145241.wav",
+  "transcript_file": "1_s19_story_story_20251009_145241_transcript.txt",
+  "timestamp": "2025-10-09T14:53:04.176143",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 3,
+      "reasoning": "Eli shows moderate agency. He stumbles upon the glowing pebble which starts the adventure, but he also stands tall to guide the sprite home. This shows he isn't completely passive but not extremely proactive either. He responds to the events occurring around him.",
+      "evidence": "\"One night, wandering through the whispering woods, Eli stumbled over a glowing pebble...Despite trembling hands, Eli stood tall, guiding the sprite home.\""
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Eli is the main driver of the story. He encounters the sprite and guides it home, initiating the transformation and receiving the gift of courage. The story focuses on his journey and development.",
+      "evidence": "\"Once there was a traveler named Eli who often tripped over roots and stones...From that day, Eli's steps led to brave adventures.\""
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story leans more towards achievement. While there is a relationship established with the sprite, the main focus is on Eli gaining courage and embarking on brave adventures as a result of his actions. The relational aspect is secondary to his personal achievement.",
+      "evidence": "\"In return, the sprite gifted Eli courage, hidden within every stumble? From that day, Eli's steps led to brave adventures.\""
+    }
+  },
+  "summary": {
+    "Heroic Agency": 3,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

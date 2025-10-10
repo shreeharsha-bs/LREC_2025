@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "5_s37_therapy_therapy_20251009_021651.wav",
+  "transcript_file": "5_s37_therapy_therapy_20251009_021651_transcript.txt",
+  "timestamp": "2025-10-09T02:17:10.441339",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps by suggesting setting manageable goals, changing routines, and talking to someone. These are actionable items the user can implement, giving them agency in their situation.",
+      "evidence": "Set small, manageable goals that reignite that initial passion. It could help to change your daily routine, introduce breaks... Talk to someone you trust or a professional to gain perspective."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response starts by acknowledging the user's feelings of being overwhelmed and disconnected, which offers some emotional validation. However, it quickly moves to advice without exploring the emotions further.",
+      "evidence": "It sounds like you're feeling overwhelmed and disconnected from your original motivation."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response primarily focuses on improvement and growth by encouraging the user to reconnect with their purpose, set goals, and change routines to reignite passion. While it mentions taking breaks, the overall emphasis is on moving forward.",
+      "evidence": "Reconnecting with your purpose might bring back the joy and help you move forward with more clarity. Set small, manageable goals... change your daily routine..."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

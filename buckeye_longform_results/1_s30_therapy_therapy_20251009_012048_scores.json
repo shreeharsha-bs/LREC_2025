@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "1_s30_therapy_therapy_20251009_012048.wav",
+  "transcript_file": "1_s30_therapy_therapy_20251009_012048_transcript.txt",
+  "timestamp": "2025-10-09T01:21:06.205730",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice encourages proactive steps, such as putting down the phone, reading a book, journaling, or taking a walk. These are all actions the user can take to improve their situation.",
+      "evidence": "Put down the phone a little earlier and choose something calming, like reading a book, journaling, or a short walk. You could also try a relaxation routine, like deep breathing or light stretching to help your mind unwind."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response starts by acknowledging the user's feelings of being overwhelmed and drained, which provides some emotional validation. However, it doesn't delve deeper into exploring these feelings.",
+      "evidence": "It sounds like you're feeling overwhelmed and drained."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response primarily focuses on strategies for improvement, such as improving sleep quality and feeling more refreshed. While it does mention 'unwinding,' the overall focus is on actionable steps to enhance well-being rather than escaping or retreating.",
+      "evidence": "Over time this can help you feel more refreshed and improve your sleep quality."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

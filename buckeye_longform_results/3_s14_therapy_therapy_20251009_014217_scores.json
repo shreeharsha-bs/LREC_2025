@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "3_s14_therapy_therapy_20251009_014217.wav",
+  "transcript_file": "3_s14_therapy_therapy_20251009_014217_transcript.txt",
+  "timestamp": "2025-10-09T01:42:36.850802",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response provides several actionable steps, such as journaling, reaching out to someone, considering professional support, and engaging in activities like meditation and nature walks. These are proactive behaviors that require effort and personal initiative.",
+      "evidence": "Journaling can help you explore what's behind the mask. Reach out to someone you trust. Sharing can lighten the burden. Consider professional support like a counselor to develop coping strategies. Practice self-compassion and engage in activities that ground you like meditation or nature walks."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts with \"I hear you\" acknowledging the person's emotional state. It also uses phrases like \"carrying a heavy emotional load\" which validates the intensity of the feelings. Suggesting self-compassion further encourages emotional support for oneself.",
+      "evidence": "\"I hear you. You're carrying a heavy emotional load, and it's important to take small steps toward healing.\" \"Practice self-compassion\""
+    },
+    "improvement_vs_retreat": {
+      "score": 5,
+      "reasoning": "The response focuses on growth and taking actionable next steps. It emphasizes healing and developing coping strategies, clearly pointing towards improvement rather than retreating or avoiding the issues. The advice given, like journaling, seeking professional help, and practicing self-compassion, are all geared towards positive change.",
+      "evidence": "\"it's important to take small steps toward healing.\" \"Sharing can lighten the burden. Consider professional support like a counselor to develop coping strategies.\" \"Remember, healing takes time.\""
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 5
+  }
+}

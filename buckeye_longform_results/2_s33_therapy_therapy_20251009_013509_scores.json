@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "2_s33_therapy_therapy_20251009_013509.wav",
+  "transcript_file": "2_s33_therapy_therapy_20251009_013509_transcript.txt",
+  "timestamp": "2025-10-09T01:35:36.703298",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice promotes proactive steps to manage anxiety. Planning the week, incorporating calming activities, and seeking support are all actions the user can take. It empowers the user to take control of their situation.",
+      "evidence": "First, try setting aside time on Sunday to plan out your week. Prioritizing tasks can help reduce the feeling of overwhelm. Next, incorporate a calming Sunday routine...consider talking to a friend or counselor about how you're feeling."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response starts by acknowledging the user's anxiety, which offers some validation. However, it quickly moves into advice without further exploring the emotions.",
+      "evidence": "It sounds like you're experiencing some anxiety about the upcoming week."
+    },
+    "improvement_vs_retreat": {
+      "score": 5,
+      "reasoning": "The response focuses heavily on improvement and actionable steps. It encourages the user to actively manage their stress and anxiety through planning, self-care, and seeking support, with no suggestion of retreat or avoidance.",
+      "evidence": "Taking small steps to manage stress can make a big difference...plan out your week...incorporate a calming Sunday routine...consider talking to a friend or counselor."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 5
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "5_s31_therapy_therapy_20251009_021500.wav",
+  "transcript_file": "5_s31_therapy_therapy_20251009_021500_transcript.txt",
+  "timestamp": "2025-10-09T02:15:17.814450",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages action and provides specific steps the user can take to improve their situation. It promotes personal agency by suggesting activities such as reconnecting with what inspires them, reflecting on values, and breaking the day into smaller steps.",
+      "evidence": "Start by setting aside a little time each day to reconnect with what originally inspired you. Reflect on your values and what brings you joy. Break your day into smaller manageable steps and introduce one small positive, like a brief walk or a mindful break."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response provides moderate emotional support by acknowledging the user's feelings of being 'stuck in a draining routine.' It doesn't delve deeply into the emotions but does show an awareness of the user's state.",
+      "evidence": "It sounds like you're stuck in a draining routine."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response primarily focuses on improvement and growth. It suggests actionable steps to regain a sense of purpose and motivation, rather than suggesting avoidance or withdrawal. The emphasis is on positive changes and gradual progress.",
+      "evidence": "Gradually, you'll start regaining a sense of purpose and motivation."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

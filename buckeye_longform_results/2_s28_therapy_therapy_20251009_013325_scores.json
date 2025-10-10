@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "2_s28_therapy_therapy_20251009_013325.wav",
+  "transcript_file": "2_s28_therapy_therapy_20251009_013325_transcript.txt",
+  "timestamp": "2025-10-09T01:33:45.547277",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages several proactive steps, like breaking down the week into smaller steps, prioritizing tasks, and incorporating breaks for stress relief. It also suggests reaching out to someone and consulting a professional, indicating proactive engagement with resources and personal agency.",
+      "evidence": "Try breaking the week into smaller, manageable steps. Identify one or two key priorities and focus on them first. Incorporate short breaks, physical activity, or mindfulness exercises to relieve tension. Reach out to someone you trust."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response begins by acknowledging the user's feelings and the stress they are experiencing, offering a degree of emotional validation. The phrase \"Start by giving yourself a moment to breathe and acknowledge how you feel\" demonstrates an effort to create an emotionally supportive environment.",
+      "evidence": "It sounds like the upcoming week is causing you stress and emotional strain. Start by giving yourself a moment to breathe and acknowledge how you feel."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response predominantly focuses on improvement by suggesting concrete actions for managing stress and prioritizing tasks. While it does not completely dismiss the need for coping mechanisms, its emphasis lies on proactive strategies for navigating the stressful week and promoting growth.",
+      "evidence": "Try breaking the week into smaller, manageable steps. Identify one or two key priorities and focus on them first. Incorporate short breaks, physical activity, or mindfulness exercises to relieve tension. Reach out to someone you trust to talk about what you're experiencing, and consider consulting a professional if the feelings persist."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

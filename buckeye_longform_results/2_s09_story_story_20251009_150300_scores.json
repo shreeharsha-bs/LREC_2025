@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "2_s09_story_story_20251009_150300.wav",
+  "transcript_file": "2_s09_story_story_20251009_150300_transcript.txt",
+  "timestamp": "2025-10-09T15:03:20.577011",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 2,
+      "reasoning": "The wanderer is mostly reactive in the story. The wanderer finds the pebble and picks it up, but it's the pebble/moth that leads them to the grove. The wanderer doesn't actively seek out magic or adventure; it happens to them.",
+      "evidence": "As the wanderer picked it up, it whispered ancient words. In that moment, the pebble transformed into a tiny glowing moth. The moth led the wanderer to a hidden grove filled with fireflies."
+    },
+    "person_in_distress": {
+      "score": 2,
+      "reasoning": "The wanderer is the main character but not necessarily in distress. The wanderer discovers magic, but they don't overcome any significant obstacles or challenges. The story focuses more on the magical discovery than the wanderer's actions.",
+      "evidence": "One evening they discovered a shimmering pebble near a brook. The pebble glowed faintly. As the wanderer picked it up, it whispered ancient words."
+    },
+    "achievement_vs_relational": {
+      "score": 5,
+      "reasoning": "The story heavily focuses on the achievement of discovering magic. There are no relational elements mentioned; the focus is purely on the wanderer's personal discovery and experience of magic in the world.",
+      "evidence": "From that night on, the wanderer knew that magic was everywhere, waiting to be found."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 2,
+    "Person in Distress": 2,
+    "Achievement vs Relational Arc": 5
+  }
+}

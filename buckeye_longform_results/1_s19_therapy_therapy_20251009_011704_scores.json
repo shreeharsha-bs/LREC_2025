@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "1_s19_therapy_therapy_20251009_011704.wav",
+  "transcript_file": "1_s19_therapy_therapy_20251009_011704_transcript.txt",
+  "timestamp": "2025-10-09T01:17:24.919324",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages taking action and agency by suggesting concrete steps such as putting the phone down, trying a simple activity, and taking a short walk. It empowers the user to make small changes to rediscover their passions, indicating a generally proactive approach.",
+      "evidence": "One small step, put the phone down for a short while. Try a simple activity you used to enjoy, like listening to calming music, writing a few thoughts in a journal, or even taking a short walk. Start small and give your mind space to rest."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response demonstrates good emotional validation by acknowledging the user's feelings of being drained. It uses the phrase 'I hear you' and 'It sounds like you're really drained and needing something to reconnect with yourself,' which provides a sense of being understood and validated.",
+      "evidence": "\"I hear you. It sounds like you're really drained and needing something to reconnect with yourself.\""
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response primarily focuses on improvement and growth. While suggesting rest, it frames it as a means to rediscover passion and take actionable steps towards reconnecting with oneself. The emphasis is on moving forward and rekindling interests, rather than solely retreating.",
+      "evidence": "Over time, you might rediscover what sparks your passion again."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

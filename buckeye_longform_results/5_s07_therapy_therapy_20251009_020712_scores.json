@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "5_s07_therapy_therapy_20251009_020712.wav",
+  "transcript_file": "5_s07_therapy_therapy_20251009_020712_transcript.txt",
+  "timestamp": "2025-10-09T02:07:30.857636",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice encourages taking action by breaking down tasks, prioritizing rest, and finding joy in small things. It promotes taking initiative in managing one's well-being. Reconnecting with the initial purpose also promotes agency. Suggesting talking to a coach or trusted person further supports proactive engagement. There's a good level of actionable advice.",
+      "evidence": "Then break tasks into smaller manageable steps and prioritize rest. Find one small thing each day that brings you joy and build from there. Consider talking to someone you trust or a coach for support."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts with acknowledging the user's feelings, which shows empathy. Suggesting to take a break to breathe and reflect also validates the user's current emotional state and promotes self-care.",
+      "evidence": "It sounds like you're feeling overwhelmed and disconnected from your original motivation. First, take a short break to breathe and reflect."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The advice primarily focuses on improving the situation by addressing the feeling of being overwhelmed and disconnected. It promotes reconnection with the initial purpose, breaking down tasks, and finding joy, all of which are geared towards growth and forward movement. While it mentions rest, it does so in the context of supporting improvement, not as an escape.",
+      "evidence": "Try to reconnect with your initial purpose, why you started this journey. Then break tasks into smaller manageable steps and prioritize rest. Find one small thing each day that brings you joy and build from there."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

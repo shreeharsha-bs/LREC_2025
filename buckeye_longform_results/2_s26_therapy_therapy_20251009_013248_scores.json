@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "2_s26_therapy_therapy_20251009_013248.wav",
+  "transcript_file": "2_s26_therapy_therapy_20251009_013248_transcript.txt",
+  "timestamp": "2025-10-09T01:33:06.421668",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice encourages proactive steps like journaling, talking to someone, breaking down tasks, and engaging in physical activity. It promotes action and self-management.",
+      "evidence": "Start by taking a few deep breaths and grounding yourself in the present moment. Try journaling your thoughts or talking to someone you trust about how you're feeling. Consider breaking down your week into smaller, manageable tasks. You might also benefit from some gentle physical activity or relaxation techniques."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response acknowledges the feelings of tightness and stress, showing some empathy, but it does not delve deeply into exploring or validating those feelings. It is a moderate level of support.",
+      "evidence": "It sounds like the tightness and stress you're feeling could be tied to anticipation of the week ahead."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response generally focuses on growth by suggesting actionable steps to manage stress and anxiety, like journaling, talking to someone, and physical activity. While it mentions relaxation techniques, the primary emphasis is on actively addressing the issue.",
+      "evidence": "Try journaling your thoughts or talking to someone you trust about how you're feeling. Consider breaking down your week into smaller, manageable tasks. You might also benefit from some gentle physical activity or relaxation techniques."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

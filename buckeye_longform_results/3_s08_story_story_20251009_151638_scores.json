@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "3_s08_story_story_20251009_151638.wav",
+  "transcript_file": "3_s08_story_story_20251009_151638_transcript.txt",
+  "timestamp": "2025-10-09T15:16:58.309712",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 4,
+      "reasoning": "Milo demonstrates proactive behavior in helping the dragon, showing initiative and problem-solving skills. The story highlights Milo's active role in resolving the dragon's plight, making him a generally proactive character.",
+      "evidence": "Through clever riddles and quiet courage, Milo helped the dragon, discovering their own strength within."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Milo is the main character and driver of the plot after entering the magical world. The story revolves around Milo's actions and choices in helping the dragon, showcasing good agency.",
+      "evidence": "One evening the book glowed, and Milo stepped into a world of floating islands and singing stars. ... Through clever riddles and quiet courage, Milo helped the dragon..."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story focuses primarily on Milo's achievement in helping the dragon find its lost flame. While there might be an implied relationship developed between Milo and the dragon, the narrative emphasizes the accomplishment more.",
+      "evidence": "Shy and unsure, Milo met a tiny dragon who needed help finding its lost flame. Through clever riddles and quiet courage, Milo helped the dragon, discovering their own strength within."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 4,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

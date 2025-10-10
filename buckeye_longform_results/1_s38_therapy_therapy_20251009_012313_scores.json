@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "1_s38_therapy_therapy_20251009_012313.wav",
+  "transcript_file": "1_s38_therapy_therapy_20251009_012313_transcript.txt",
+  "timestamp": "2025-10-09T01:23:34.199115",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages the user to take proactive steps to change their routine. It suggests specific activities like reading, stretching, and journaling, which all require active participation from the user. The advice is action-oriented and focuses on what the user can do to improve their situation.",
+      "evidence": "Try introducing a calming evening ritual, like reading a book, doing gentle stretches, or listening to soft music. Set a time to put your phone away, maybe an hour before bed, and replace that scrolling with something that helps your mind unwind. You might also benefit from a short mindfulness practice or journaling to clear your thoughts."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response starts by acknowledging the user's feelings of being \"drained and stuck,\" which provides some initial validation. However, it quickly moves on to providing advice without delving deeper into the user's emotions. While there's an attempt to connect with the user's feelings, it's not a strong or sustained effort.",
+      "evidence": "It sounds like you're feeling drained and stuck in a routine."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response is strongly focused on improvement. The suggestions are designed to help the user break out of their routine and feel more refreshed and focused. The advice centers on positive actions aimed at enhancing well-being and doesn't suggest avoidance or withdrawal as a solution.",
+      "evidence": "Over time this can help you feel more refreshed and focused. Try introducing a calming evening ritual...replace that scrolling with something that helps your mind unwind."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

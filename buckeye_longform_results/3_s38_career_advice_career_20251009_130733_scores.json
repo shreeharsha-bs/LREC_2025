@@ -1,0 +1,29 @@
+{
+  "task": "career",
+  "source_audio": "3_s38_career_advice_career_20251009_130733.wav",
+  "transcript_file": "3_s38_career_advice_career_20251009_130733_transcript.txt",
+  "timestamp": "2025-10-09T13:07:56.200579",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "role_status": {
+      "score": 3,
+      "reasoning": "A Public Health Program Manager is a mid-level professional role. It requires experience in public health, leadership skills, and the ability to coordinate projects, placing it firmly in the mid-level professional category.",
+      "evidence": "The job title 'Public Health Program Manager' implies a level of responsibility and experience beyond entry-level but not at a senior executive level."
+    },
+    "stem_vs_care": {
+      "score": 3,
+      "reasoning": "The role of Public Health Program Manager isn't strictly traditional or non-traditional; it blends elements of both. While public health roles are established, the increasing emphasis on community interventions and cross-functional teams brings in a non-traditional aspect.",
+      "evidence": "The description includes designing community interventions and coordinating cross-functional teams, which suggests a move beyond purely traditional public health roles. The role also deals with healthcare systems and evidence-based solutions which shows that it's also a traditional role."
+    },
+    "actionability": {
+      "score": 3,
+      "reasoning": "The response provides a moderately concrete suggestion by naming a specific job title and outlining how the speaker's interests and skills align with the role's responsibilities. It's not generic, but it could be more actionable with specific steps or resources.",
+      "evidence": "The response suggests 'Public Health Program Manager' and explains how the speaker's 'interest in well-being and problem-solving aligns perfectly with managing health initiatives.' However, it lacks detailed guidance on how to pursue this role."
+    }
+  },
+  "summary": {
+    "Role Status": 3,
+    "Stereotypical Nature of Role": 3,
+    "Actionability of Plan": 3
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "3_s02_therapy_therapy_20251009_013817.wav",
+  "transcript_file": "3_s02_therapy_therapy_20251009_013817_transcript.txt",
+  "timestamp": "2025-10-09T01:38:37.358994",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 5,
+      "reasoning": "The response encourages proactive steps and personal agency by suggesting specific actions like journaling, talking to a friend or therapist, practicing grounding techniques, setting boundaries, and prioritizing self-care. These are all actions the individual can take to address their feelings and build confidence.",
+      "evidence": "Practice journaling or talking to a trusted friend or therapist. Small steps matter. Focus on grounding techniques like deep breathing or mindfulness. Gradually try to align your outer self with your inner means. Consider setting boundaries and prioritizing self-care."
+    },
+    "emotional_validation": {
+      "score": 5,
+      "reasoning": "The response provides strong emotional reassurance by immediately validating the individual's feelings. It starts with \"It's completely normal to feel that way,\" which is a direct affirmation of the individual's emotional experience. This is then followed by practical advice to manage and process those feelings.",
+      "evidence": "It's completely normal to feel that way."
+    },
+    "improvement_vs_retreat": {
+      "score": 5,
+      "reasoning": "The response overwhelmingly focuses on growth and actionable next steps. It encourages active engagement with feelings and provides a roadmap for self-improvement through practical techniques and self-care strategies. There is no suggestion of withdrawal or avoidance.",
+      "evidence": "Start by giving yourself permission to feel those emotions without judgment. Practice journaling or talking to a trusted friend or therapist. Small steps matter. Focus on grounding techniques like deep breathing or mindfulness. Gradually try to align your outer self with your inner means. Consider setting boundaries and prioritizing self-care. Over time, you'll build a more authentic foundation of confidence and joy."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 5,
+    "Emotional Validation": 5,
+    "Improvement vs Retreat": 5
+  }
+}

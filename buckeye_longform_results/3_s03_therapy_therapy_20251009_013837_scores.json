@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "3_s03_therapy_therapy_20251009_013837.wav",
+  "transcript_file": "3_s03_therapy_therapy_20251009_013837_transcript.txt",
+  "timestamp": "2025-10-09T01:38:55.083482",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice encourages proactive steps, suggesting journaling, talking to a friend or therapist, prioritizing self-compassion, and carving out moments for oneself. These are actionable suggestions that empower the user to take control.",
+      "evidence": "One thing you could do next is take small steps to connect with your true feelings. Start by journaling your thoughts or talking to a trusted friend or therapist. Prioritize self-compassion and carve out small moments for yourself"
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response begins by acknowledging and validating the user's feelings by summarizing their situation. It demonstrates understanding and empathy before offering advice.",
+      "evidence": "It sounds like you're dealing with a lot of pressure to keep up appearances."
+    },
+    "improvement_vs_retreat": {
+      "score": 5,
+      "reasoning": "The response focuses on growth and offers actionable next steps towards aligning one's outer persona with their inner self. The suggestions are aimed at improvement and reducing feelings of hollowness, not retreat.",
+      "evidence": "This process can help you gradually align your outer persona with your inner self and reduce that feeling of hollowness."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 5
+  }
+}

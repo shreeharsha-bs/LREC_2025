@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "4_s01_therapy_therapy_20251009_015127.wav",
+  "transcript_file": "4_s01_therapy_therapy_20251009_015127_transcript.txt",
+  "timestamp": "2025-10-09T01:51:55.276973",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps and provides actionable advice. It emphasizes taking charge of one's well-being through self-care, breaking down tasks, and practicing grounding techniques. It also prompts the user to journal thoughts and seek support, thus giving the user agency in managing their struggles.",
+      "evidence": "\"First, prioritize self-care. Ensure good sleep, balanced nutrition, and regular physical activity. Break tasks into small manageable steps to reduce overwhelm. Practice grounding techniques like deep breathing or mindfulness to calm your mind. Consider journaling your thoughts to identify patterns and ease decision making. Talk to someone you trust or seek professional support.\""
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response starts with an empathetic statement acknowledging the user's struggles, which provides some emotional validation. However, the rest of the response focuses more on practical advice rather than deep emotional reassurance.",
+      "evidence": "\"It sounds like you're struggling with mental fog and anxiety.\""
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response leans heavily towards improvement and actionable next steps. It offers strategies to manage anxiety and mental fog, and focuses on taking concrete actions to improve one's well-being rather than suggesting avoidance or withdrawal.",
+      "evidence": "\"Ensure good sleep, balanced nutrition, and regular physical activity. Break tasks into small manageable steps to reduce overwhelm. Practice grounding techniques like deep breathing or mindfulness to calm your mind. Consider journaling your thoughts to identify patterns and ease decision making.\""
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

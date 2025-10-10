@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "2_s29_therapy_therapy_20251009_013345.wav",
+  "transcript_file": "2_s29_therapy_therapy_20251009_013345_transcript.txt",
+  "timestamp": "2025-10-09T01:34:05.205939",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice encourages action and proactive steps. Breaking down the week into manageable pieces and incorporating relaxation techniques are actionable strategies. Talking to a trusted friend or professional is also a proactive step to seek support.",
+      "evidence": "First, try breaking down your week into manageable pieces and focus on one day at a time. Second, consider incorporating relaxation techniques...Third, reflect on whether there are specific triggers at work and think about talking to a trusted friend or professional for support."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response begins by acknowledging the user's feelings of stress and anxiety, offering a moderate level of emotional support through validation. While it acknowledges the feelings, it doesn't delve deeply into exploring the emotions further.",
+      "evidence": "It sounds like you're experiencing significant stress and anxiety about the upcoming week."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response primarily focuses on strategies for improvement and managing the situation rather than suggesting avoidance. The advice centers on managing stress, addressing triggers, and seeking support, all of which contribute to growth and positive change.",
+      "evidence": "try breaking down your week into manageable pieces...consider incorporating relaxation techniques...think about talking to a trusted friend or professional for support."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

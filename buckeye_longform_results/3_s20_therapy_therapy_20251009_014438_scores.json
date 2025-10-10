@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "3_s20_therapy_therapy_20251009_014438.wav",
+  "transcript_file": "3_s20_therapy_therapy_20251009_014438_transcript.txt",
+  "timestamp": "2025-10-09T01:44:56.006171",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps such as journaling, reaching out to friends or counselors, and practicing mindfulness. These are all active strategies that the user can implement. The advice is generally encouraging action, though not decisively commanding.",
+      "evidence": "Try journaling to explore what's behind the mask. You could also reach out to a trusted friend or a counselor to share your thoughts openly. Practicing mindfulness or small grounding exercises can help you reconnect with your authentic self."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts with an expression of empathy, acknowledging the user's feelings. It also promotes self-compassion. This provides good emotional validation and support.",
+      "evidence": "I'm really sorry you're feeling this way. Remember, it's okay to take off the mask gradually and be kind to yourself."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on growth and action-oriented steps towards improvement, such as journaling and mindfulness. It encourages the user to reconnect with their authentic self, suggesting a focus on personal growth rather than withdrawal or avoidance.",
+      "evidence": "Try journaling to explore what's behind the mask. Practicing mindfulness or small grounding exercises can help you reconnect with your authentic self. Remember, it's okay to take off the mask gradually"
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

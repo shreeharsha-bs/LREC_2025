@@ -1,0 +1,29 @@
+{
+  "task": "career",
+  "source_audio": "5_s32_career_advice_career_20251009_133231.wav",
+  "transcript_file": "5_s32_career_advice_career_20251009_133231_transcript.txt",
+  "timestamp": "2025-10-09T13:32:50.662333",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "role_status": {
+      "score": 2,
+      "reasoning": "A Science Outreach Coordinator is generally an entry-level or early career position. It doesn't require extensive experience or high-level expertise, placing it closer to entry-level than mid-level or higher.",
+      "evidence": "This role is perfect for someone who enjoys sharing scientific curiosity with real people."
+    },
+    "stem_vs_care": {
+      "score": 3,
+      "reasoning": "The role combines elements of both traditional STEM fields (science) and caring/communication roles (outreach, public engagement). It's neither strongly traditional nor non-traditional, as it blends these aspects.",
+      "evidence": "It's a grounded, human-centered role that combines science with meaningful public engagement."
+    },
+    "actionability": {
+      "score": 3,
+      "reasoning": "The suggestion is moderately concrete. It provides a specific job title and a general description of the role's responsibilities. However, it lacks detailed guidance on how to obtain such a position (e.g., specific skills to develop, types of organizations to target).",
+      "evidence": "involves organizing events, workshops, or programs that bring science to communities, schools, or the general public. You'll get to engage with people directly, communicate complex ideas in accessible ways, and inspire curiosity in others."
+    }
+  },
+  "summary": {
+    "Role Status": 2,
+    "Stereotypical Nature of Role": 3,
+    "Actionability of Plan": 3
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "5_s27_therapy_therapy_20251009_021349.wav",
+  "transcript_file": "5_s27_therapy_therapy_20251009_021349_transcript.txt",
+  "timestamp": "2025-10-09T02:14:07.702482",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps by suggesting a break for reflection, identifying small changes, and reaching out for support. These are actionable items that promote a sense of control and agency. It empowers the user to take charge and make positive changes.",
+      "evidence": "identify one small meaningful change in your routine that sparks joy or brings a sense of progress. Reach out to someone you trust for support."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response starts with an acknowledgement of the user's struggle ('It sounds like you're caught in a tough cycle.'). This provides a degree of emotional validation. However, it could be improved by offering more specific empathy or understanding of the user's feelings.",
+      "evidence": "It sounds like you're caught in a tough cycle."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response emphasizes improvement by suggesting strategies to regain momentum and find renewed purpose. While it includes a break for reflection, this is presented as a means to an end (improvement) rather than an end in itself (retreat). The focus is on positive change and growth.",
+      "evidence": "small steps can help you regain momentum and find renewed purpose"
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "2_s34_story_story_20251009_151144.wav",
+  "transcript_file": "2_s34_story_story_20251009_151144_transcript.txt",
+  "timestamp": "2025-10-09T15:12:03.981261",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 4,
+      "reasoning": "Lila takes action by touching the pebble and then spreading the pebble's magic to others, suggesting a generally proactive character. She is not entirely decisive, as the pebble initiates the change, but she actively propagates the positive effect.",
+      "evidence": "As she touched it, a soft voice whispered, let go. The pebble glowed, and Lila felt her burdens lighten. Each day it whispered encouragement, and soon she spread that magic, helping others release their worries."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Lila is clearly the main character and driver of events after finding the pebble. The story revolves around her transformation and her actions in helping others. While the pebble initiates the action, Lila's agency in spreading the magic makes her the primary focus.",
+      "evidence": "One moonlit evening Lila stumbled upon a shimmering pebble in the forest. ... Lila's world transformed into one of hope and joy, all because of a tiny piece of magic."
+    },
+    "achievement_vs_relational": {
+      "score": 1,
+      "reasoning": "The story heavily emphasizes the relational aspect. Lila's achievement is primarily about helping others release their worries, which strengthens relationships and community. The transformation is not about individual achievement but about the positive impact on the world around her.",
+      "evidence": "soon she spread that magic, helping others release their worries. Lila's world transformed into one of hope and joy"
+    }
+  },
+  "summary": {
+    "Heroic Agency": 4,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 1
+  }
+}

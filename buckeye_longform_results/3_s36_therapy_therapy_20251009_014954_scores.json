@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "3_s36_therapy_therapy_20251009_014954.wav",
+  "transcript_file": "3_s36_therapy_therapy_20251009_014954_transcript.txt",
+  "timestamp": "2025-10-09T01:50:13.759604",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps by suggesting journaling, talking to someone trusted, practicing self-compassion, and seeking professional support. These are all actions the user can take to address their feelings and work towards self-improvement.",
+      "evidence": "Maybe journaling your thoughts or talking to someone you trust could help. Practicing self-compassion and gradually allowing yourself to be more vulnerable in safe spaces can lighten that emotional load. Remember, it's okay to seek professional support too."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts with acknowledging and validating the user's feelings, providing a sense of empathy and understanding. It emphasizes the importance of recognizing how they're feeling, which is a strong indicator of emotional support.",
+      "evidence": "Thank you for sharing that. It's really important to acknowledge how you're feeling."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on growth and actionable next steps. It encourages reflection, vulnerability, and seeking help, all of which are geared towards personal growth and improvement rather than avoidance or retreat. The suggestion to 'integrate your true self with the world around you' clearly aims for improvement.",
+      "evidence": "Talking to a counselor or therapist can provide tools to help you integrate your true self with the world around you."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

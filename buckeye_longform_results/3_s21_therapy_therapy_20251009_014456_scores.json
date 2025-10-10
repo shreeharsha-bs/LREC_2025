@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "3_s21_therapy_therapy_20251009_014456.wav",
+  "transcript_file": "3_s21_therapy_therapy_20251009_014456_transcript.txt",
+  "timestamp": "2025-10-09T01:45:15.767874",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps such as journaling, talking to someone trusted, practicing authenticity, and mindfulness. These actions empower the individual to take control of their emotional state.",
+      "evidence": "Try journaling your thoughts or talking to someone you trust. Consider small moments where you can be more authentic, even in your daily life. Mindfulness or grounding exercises may help you stay present"
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts by acknowledging the user's feelings, which provides a degree of emotional validation. It does so in a direct and empathetic manner.",
+      "evidence": "It's important to acknowledge how you're feeling."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response leans towards improvement by suggesting actions like journaling, mindfulness, and seeking professional support to build confidence. It does not suggest avoidance or retreat.",
+      "evidence": "The next step could be to gently explore what's behind that mask...consider seeking professional support to help you navigate these feelings and gradually build a more genuine confidence from within."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

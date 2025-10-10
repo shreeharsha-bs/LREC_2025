@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "4_s28_therapy_therapy_20251009_020047.wav",
+  "transcript_file": "4_s28_therapy_therapy_20251009_020047_transcript.txt",
+  "timestamp": "2025-10-09T02:01:06.817696",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice encourages taking action to manage the situation. It suggests practical steps like breaking tasks into smaller steps, practicing mindfulness, and seeking support from others. While it also acknowledges the need to rest and adjust expectations, the overall tone leans towards actively addressing the challenges.",
+      "evidence": "First, try to slow down and simplify your routine. Break tasks into smaller steps. Practice mindfulness or gentle breathing exercises. Consider talking to someone you trust or a mental health professional."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response begins with an expression of empathy ('I'm really sorry you're going through this.') which acknowledges the user's feelings. It also uses the phrase 'It sounds overwhelming,' further validating the emotional experience. It also suggests taking time to rest and permission to adjust expectations.",
+      "evidence": "I'm really sorry you're going through this. It sounds overwhelming... Focus on small wins and give yourself permission to rest."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses primarily on improvement by suggesting practical strategies to manage and overcome difficulties. While it acknowledges the need for rest and simplification, the majority of the advice points towards taking proactive steps to improve the situation rather than simply withdrawing from it. The focus on mindfulness and seeking support points towards growth and active coping.",
+      "evidence": "First, try to slow down and simplify your routine. Break tasks into smaller steps. Practice mindfulness or gentle breathing exercises. Consider talking to someone you trust or a mental health professional. Focus on small wins..."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

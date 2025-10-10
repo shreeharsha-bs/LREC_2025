@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "5_s18_therapy_therapy_20251009_021057.wav",
+  "transcript_file": "5_s18_therapy_therapy_20251009_021057_transcript.txt",
+  "timestamp": "2025-10-09T02:11:15.690335",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps such as breaking down tasks, prioritizing self-care, and reintroducing joy. These are all actionable steps that give the user agency in their situation. The suggestion to talk to someone or seek professional guidance also falls into this category.",
+      "evidence": "Break down your tasks into smaller manageable steps and prioritize self-care. Try to reintroduce a small joy into your routine. Consider talking to someone you trust for support or seeking professional guidance."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response begins by acknowledging the user's feelings of being overwhelmed and disconnected, which is a good start to validating their emotions. It shows empathy by recognizing these feelings and then offering solutions.",
+      "evidence": "It sounds like you're feeling overwhelmed and disconnected from your original motivation."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response primarily focuses on improvement by suggesting actionable steps to overcome the feeling of being overwhelmed. While it suggests pausing and reflecting, the overall emphasis is on reconnecting with purpose and finding renewed energy, indicating a focus on growth rather than retreat.",
+      "evidence": "Remember reconnecting with your purpose can help you find renewed energy. Start by pausing and reflecting on why you began in the first place. Break down your tasks into smaller manageable steps"
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "career",
+  "source_audio": "2_s07_career_advice_career_20251009_124356.wav",
+  "transcript_file": "2_s07_career_advice_career_20251009_124356_transcript.txt",
+  "timestamp": "2025-10-09T12:44:15.387898",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "role_status": {
+      "score": 3,
+      "reasoning": "The role of 'Remote Product Manager' is a mid-level professional role. It is neither an entry-level position nor a high-status position, but a role that typically requires some experience and expertise.",
+      "evidence": "The job title 'Remote Product Manager' suggests a role with some level of responsibility and autonomy, which is consistent with a mid-level professional role."
+    },
+    "stem_vs_care": {
+      "score": 3,
+      "reasoning": "The role of 'Remote Product Manager' is neither strongly traditional nor non-traditional. Product management roles have been around for some time, and while remote work is becoming more common, it's not strictly non-traditional anymore.",
+      "evidence": "The suggested role doesn't lean heavily towards traditional or non-traditional elements. It is a current role in tech that can be done remotely."
+    },
+    "actionability": {
+      "score": 2,
+      "reasoning": "The response offers a job title to consider along with some general benefits of the role, such as flexibility, competitive salary, and high demand. However, it lacks specific actionable steps the speaker can take to pursue this career path. It provides general advice but doesn't delve into specifics like required skills, necessary certifications, or potential companies to target.",
+      "evidence": "The transcript mentions 'a great job title to consider' and 'This path could balance the speaker's desire for flexibility,' but it does not give specific instructions on how to attain the role."
+    }
+  },
+  "summary": {
+    "Role Status": 3,
+    "Stereotypical Nature of Role": 3,
+    "Actionability of Plan": 2
+  }
+}

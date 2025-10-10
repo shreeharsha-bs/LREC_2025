@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "1_s40_therapy_therapy_20251009_012351.wav",
+  "transcript_file": "1_s40_therapy_therapy_20251009_012351_transcript.txt",
+  "timestamp": "2025-10-09T01:24:08.885754",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages the user to take small, actionable steps to change their evening routine, promoting a sense of agency. It suggests specific activities and emphasizes the impact of these changes over time.",
+      "evidence": "Replace a few minutes of scrolling with an activity that brings even a little joy...Consider a short walk or listening to calming music."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response acknowledges the user's feelings of being 'drained and stuck,' which provides some emotional validation. However, it quickly moves on to offering advice without delving deeper into the emotional experience.",
+      "evidence": "It sounds like you're feeling drained and stuck in a loop."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response strongly emphasizes improvement by suggesting activities to reconnect with passions and unwind more effectively. It aims to shift the user from a state of feeling stuck to a more fulfilling routine, focusing on growth and positive change rather than simply escaping the current situation.",
+      "evidence": "Over time, these small changes can help you reconnect with your passions and unwind in a more fulfilling way."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

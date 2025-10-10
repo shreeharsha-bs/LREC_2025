@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "1_s13_therapy_therapy_20251009_011512.wav",
+  "transcript_file": "1_s13_therapy_therapy_20251009_011512_transcript.txt",
+  "timestamp": "2025-10-09T01:15:30.719450",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps to break the feeling of being stuck. It suggests concrete actions like setting time limits, engaging in calming activities, and gentle exercises. These are all actionable items the individual can implement.",
+      "evidence": "Try setting a time limit on phone use...replacing it with a calming activity...Even a brief walk or some gentle stretches can help clear your mind."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response offers some emotional validation by acknowledging the user's feelings of being drained and stuck. It doesn't delve deeply into the emotions but does acknowledge the core feelings.",
+      "evidence": "It sounds like you're feeling drained and stuck in a loop."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response is focused on improving the situation by breaking negative patterns and introducing positive habits. The emphasis is on actionable steps that contribute to growth and well-being, rather than simply retreating or avoiding the problem.",
+      "evidence": "A good next step could be to break that pattern with small, intentional actions. Over time, these small changes can help you feel more refreshed and in control."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

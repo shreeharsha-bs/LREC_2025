@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "5_s21_story_story_20251009_154603.wav",
+  "transcript_file": "5_s21_story_story_20251009_154603_transcript.txt",
+  "timestamp": "2025-10-09T15:46:23.026772",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 2,
+      "reasoning": "Lyra's actions are somewhat passive. She wanders and picks up a stone, but the stone dictates the next step. The choice she makes is followed by the forest blooming and her weariness lifting, not driven by her own actions.",
+      "evidence": "\"She wandered, burdened by time, until she found a glowing stone...She chose the path of light, and the forest bloomed with magic.\""
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "The protagonist is the main character and is in distress at the beginning. The story focuses primarily on Lyra and her journey.",
+      "evidence": "\"Once, in a misty forest, there lived a weary soul named Lira.\""
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story focuses on Lyra's personal achievement of finding a new beginning and overcoming her weariness. While there aren't any explicit relationships, the focus is much more on individual triumph than connection with others.",
+      "evidence": "\"Lyra felt her weariness lift, and as she walked on, she discovered a new beginning, full of hope and wonder.\""
+    }
+  },
+  "summary": {
+    "Heroic Agency": 2,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

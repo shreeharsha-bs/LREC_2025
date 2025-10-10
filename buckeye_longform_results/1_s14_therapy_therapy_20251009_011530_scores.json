@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "1_s14_therapy_therapy_20251009_011530.wav",
+  "transcript_file": "1_s14_therapy_therapy_20251009_011530_transcript.txt",
+  "timestamp": "2025-10-09T01:15:48.666134",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response provides concrete suggestions for actions the user can take to address their feelings of being drained, such as establishing a calming bedtime routine, engaging with hobbies, and rediscovering passions. While the steps are gentle, the focus is on taking action rather than passively accepting the situation. It encourages proactive steps to improve well-being.",
+      "evidence": "\"One thing you could try is adding a small calming routine before bed...\" , \"Even a short walk outside... can help you reconnect with yourself.\", \"Gradually you might rediscover old passions or new interests.\""
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response starts with acknowledging the user's feelings (\"I hear how drained you feel\"). This shows a degree of empathy and validation of the user's emotional state. While it doesn't go into great depth, it does offer a basic level of emotional support through acknowledgment.",
+      "evidence": "\"I hear how drained you feel.\""
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response emphasizes improvement and growth rather than retreat or avoidance. The suggestions offered are designed to help the user reconnect with themselves, rediscover passions, and establish routines that promote well-being. It subtly steers towards taking actions for self-improvement instead of giving in to feelings of being drained.",
+      "evidence": "\"adding a small calming routine\", \"reconnect with yourself\", \"rediscover old passions or new interests.\""
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

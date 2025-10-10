@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "4_s29_therapy_therapy_20251009_020106.wav",
+  "transcript_file": "4_s29_therapy_therapy_20251009_020106_transcript.txt",
+  "timestamp": "2025-10-09T02:01:26.741508",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice provided generally encourages action and provides steps that the user can actively take to address their mental fog and anxiety. Actions include writing down thoughts, practicing mindfulness, making time for sleep and movement, and reaching out to others.",
+      "evidence": "Try writing down thoughts or to-do lists to clear your mind. Practice mindfulness or short-breathing exercises to calm anxiety. Make time for regular sleep and gentle movement like walking. Reach out to a trusted friend or counselor to share your worries."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response shows good emotional validation by acknowledging the user's feelings ('It sounds like you're dealing with mental fog and anxiety') and offering reassurance and kindness ('Be kind to yourself as you work through it.').",
+      "evidence": "It sounds like you're dealing with mental fog and anxiety. Be kind to yourself as you work through it."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on growth and actionable next steps to improve the user's mental state rather than suggesting withdrawal or avoidance. The advice is oriented towards actively managing and mitigating anxiety and mental fog.",
+      "evidence": "Focus on small, manageable steps. Try writing down thoughts or to-do lists to clear your mind. Practice mindfulness or short-breathing exercises to calm anxiety. Make time for regular sleep and gentle movement like walking."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

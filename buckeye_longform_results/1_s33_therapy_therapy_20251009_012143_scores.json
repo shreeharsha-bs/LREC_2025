@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "1_s33_therapy_therapy_20251009_012143.wav",
+  "transcript_file": "1_s33_therapy_therapy_20251009_012143_transcript.txt",
+  "timestamp": "2025-10-09T01:22:01.500503",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages action and provides concrete suggestions for the user to implement. The suggestions, such as taking a walk or listening to a podcast, are actionable and empower the user to take control of their situation.",
+      "evidence": "One idea is to introduce a calming evening ritual, like a short walk, listening to a soothing podcast, or reading a few pages of a book you enjoy. You could also try a simple breathing exercise to clear your mind. Experiment with setting a consistent bedtime and a short wind-down routine, even just 15 minutes, to help you feel more refreshed and in control."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response starts with an acknowledgment of the user's feelings, which indicates some level of emotional validation. It shows an attempt to understand the user's emotional state but does not go deep into exploring those feelings.",
+      "evidence": "\"I hear you. It sounds like you're feeling drained and stuck in a routine.\""
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response clearly focuses on improvement and actionable next steps. The advice centers on creating positive routines and habits to feel more refreshed and in control, rather than suggesting avoidance or withdrawal.",
+      "evidence": "You could also try a simple breathing exercise to clear your mind. Experiment with setting a consistent bedtime and a short wind-down routine, even just 15 minutes, to help you feel more refreshed and in control."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

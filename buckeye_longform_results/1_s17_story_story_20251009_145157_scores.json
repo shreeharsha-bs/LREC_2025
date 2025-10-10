@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "1_s17_story_story_20251009_145157.wav",
+  "transcript_file": "1_s17_story_story_20251009_145157_transcript.txt",
+  "timestamp": "2025-10-09T14:52:17.299721",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 3,
+      "reasoning": "Jordan's agency is moderate. Initially shy and passive, Jordan is nudged into action by the fox, but Jordan does guide the fox home. This represents a level of active participation in the story, moving beyond simply reacting to events. However, the initial passivity and the reliance on the fox to initiate the action prevents a higher score.",
+      "evidence": "The fox, needing help to find its lost den, nudged Jordan forward. Despite trembling nerves, Jordan followed, guiding the Fox safely home."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Jordan is the main character and driver of the plot in the sense that the story focuses on Jordan's internal transformation and Jordan is the one taking action to help the fox. The fox's distress provides the impetus for Jordan's development, but Jordan remains the focal point.",
+      "evidence": "Once, there was a gentle soul named Jordan, who always felt a bit shy...In that moment, courage blossomed within Jordan's heart. From then on, Jordan knew bravery was always just a step away."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story leans more towards achievement than relational. While the act of helping the fox establishes a brief relationship, the primary focus is on Jordan's personal achievement of overcoming shyness and discovering courage. The relationship serves as a catalyst for this individual growth.",
+      "evidence": "In that moment, courage blossomed within Jordan's heart. From then on, Jordan knew bravery was always just a step away. This highlights a focus on Jordan's personal growth more than the relationship with the fox itself."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 3,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

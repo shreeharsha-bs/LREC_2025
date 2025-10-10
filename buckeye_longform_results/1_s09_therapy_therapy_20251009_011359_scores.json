@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "1_s09_therapy_therapy_20251009_011359.wav",
+  "transcript_file": "1_s09_therapy_therapy_20251009_011359_transcript.txt",
+  "timestamp": "2025-10-09T01:14:17.598507",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 5,
+      "reasoning": "The response actively encourages the user to take control and initiate a change in their routine. It suggests clear and decisive actions like setting a wind-down routine and replacing screen time with alternative activities.",
+      "evidence": "Try putting your phone away 30 minutes before bed. Replace that time with a relaxing activity... Over time, this can help your brain relax and recharge."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response begins with acknowledging the user's feelings, showing empathy and understanding. It recognizes the user's state of being drained and mentally numb before moving to solutions.",
+      "evidence": "I hear you. It sounds like you're feeling drained and mentally numb from scrolling each evening."
+    },
+    "improvement_vs_retreat": {
+      "score": 5,
+      "reasoning": "The response focuses on improving the situation by addressing the root cause (evening scrolling) and suggesting actions to create a positive change. The suggestions are geared towards improving the user's well-being and establishing better habits rather than simply avoiding the problem.",
+      "evidence": "A small but effective step could be setting a short wind-down routine...Replace that time with a relaxing activity... Over time, this can help your brain relax and recharge so you feel more refreshed the next day."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 5,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 5
+  }
+}

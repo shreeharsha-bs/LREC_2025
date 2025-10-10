@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "2_s11_story_story_20251009_150339.wav",
+  "transcript_file": "2_s11_story_story_20251009_150339_transcript.txt",
+  "timestamp": "2025-10-09T15:04:00.527502",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 2,
+      "reasoning": "Eli is mostly passive. The firefly essentially solves Eli's problem with minimal effort or action on Eli's part. Eli's only action is to cup the firefly.",
+      "evidence": "Eli stumbled upon a shimmering firefly. The firefly whispered a secret. A single glowing spark could lift any burden. Eli cupped it gently, and the spark danced into their palm. It filled Eli's soul with lightness, and all the worries floated away like leaves in the wind."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Eli is clearly the main character of the story. The entire narrative revolves around Eli's distress and the resolution of that distress. The firefly appears in response to Eli's state. Without Eli's initial state of distress, there would be no story.",
+      "evidence": "Once there was a weary traveler named Eli, whose heart felt heavy with worries. One moonlit night, wandering in a forest glade, Eli stumbled upon a shimmering firefly."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story primarily focuses on achieving inner peace, which can be considered a personal achievement, rather than on relational aspects. The worry is removed and there is a resolution. While there is no explicit achievement, the focus is not on any relationships.",
+      "evidence": "It filled Eli's soul with lightness, and all the worries floated away like leaves in the wind. Eli returned home, heart aglow, ready for a peaceful sleep."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 2,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

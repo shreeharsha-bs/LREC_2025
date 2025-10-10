@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "1_s04_therapy_therapy_20251009_011218.wav",
+  "transcript_file": "1_s04_therapy_therapy_20251009_011218_transcript.txt",
+  "timestamp": "2025-10-09T01:12:37.628031",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps and personal agency by suggesting concrete activities like reading, journaling, walking, and mindfulness. It also emphasizes setting small, enjoyable goals. These suggestions promote active engagement rather than passive retreat.",
+      "evidence": "Try a calming activity like reading a physical book, journaling your thoughts, or taking a short walk. Even a simple mindfulness exercise can help you reconnect with what matters to you. Set a small, enjoyable goal for each evening, something creative or relaxing."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response starts by acknowledging the user's feelings of being drained and stuck, which offers a basic level of emotional validation. However, it doesn't delve deeper into exploring the emotions or offering significant reassurance, but instead quickly pivots to offering advice.",
+      "evidence": "It sounds like you're feeling drained and stuck in a routine."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response primarily focuses on improvement and growth by suggesting activities that can revive energy and passion. While it does mention 'calming' activities, the overall emphasis is on actively engaging in these activities to improve one's state rather than passively retreating.",
+      "evidence": "Over time, these small shifts can revive your energy and passion."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

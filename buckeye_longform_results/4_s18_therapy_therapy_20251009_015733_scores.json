@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "4_s18_therapy_therapy_20251009_015733.wav",
+  "transcript_file": "4_s18_therapy_therapy_20251009_015733_transcript.txt",
+  "timestamp": "2025-10-09T01:57:52.943256",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages the user to take several proactive steps. It suggests setting manageable goals, prioritizing rest and hydration, journaling, and reaching out for support. These suggestions empower the user to actively manage their mental state and seek help.",
+      "evidence": "Consider setting small, manageable goals each day and prioritize rest and hydration. Journaling your thoughts might help clear your mind. Reach out to someone you trust to share how you're feeling. If possible, talk to a professional counselor for guidance."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response begins by acknowledging the user's feelings, indicating an understanding of their situation (\"It sounds like you're dealing with mental fog and anxiety about meeting expectations.\"). This initial validation, combined with the reassurance that they are not alone, provides good emotional support.",
+      "evidence": "\"It sounds like you're dealing with mental fog and anxiety about meeting expectations.\" ... \"Remember, you're not alone\""
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response primarily focuses on strategies for improvement and growth. It emphasizes actionable steps like setting goals, journaling, and seeking support, rather than suggesting avoidance or withdrawal. The overall tone is geared towards overcoming the current challenges.",
+      "evidence": "Consider setting small, manageable goals each day and prioritize rest and hydration. Journaling your thoughts might help clear your mind. Reach out to someone you trust to share how you're feeling. If possible, talk to a professional counselor for guidance. Remember, you're not alone, and taking small steps can help you regain clarity and confidence."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

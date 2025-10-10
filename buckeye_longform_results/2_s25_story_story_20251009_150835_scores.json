@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "2_s25_story_story_20251009_150835.wav",
+  "transcript_file": "2_s25_story_story_20251009_150835_transcript.txt",
+  "timestamp": "2025-10-09T15:08:57.771119",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 1,
+      "reasoning": "The traveler is entirely passive in the story. They find a pebble, pick it up, and let the pebble's magic affect them. They don't actively shape the events or overcome obstacles through their own actions.",
+      "evidence": "Once there was a weary traveler burdened by worries. One moonlit night, deep in a silent forest, they found a shimmering pebble. Curious, they picked it up. The pebble whispered, let go. As the traveler held it, a warm light filled their heart, and their heavy thoughts drifted away."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "The protagonist, the 'weary traveler,' is the central figure and their distress (worries, heavy thoughts) motivates the initial setup of the story. The plot revolves around them finding a solution to their distress.",
+      "evidence": "Once there was a weary traveler burdened by worries...As the traveler held it, a warm light filled their heart, and their heavy thoughts drifted away. From that day on, their steps grew lighter, and hope blossomed wherever they wandered."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story focuses primarily on the traveler's personal achievement of overcoming worries and finding hope. While there's an implied relationship with the magical pebble, the main emphasis is on the traveler's individual journey and emotional state.",
+      "evidence": "As the traveler held it, a warm light filled their heart, and their heavy thoughts drifted away. From that day on, their steps grew lighter, and hope blossomed wherever they wandered."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 1,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "1_s07_story_story_20251009_144834.wav",
+  "transcript_file": "1_s07_story_story_20251009_144834_transcript.txt",
+  "timestamp": "2025-10-09T14:48:53.120927",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 4,
+      "reasoning": "Mira shows agency by summoning courage and leading the fox home to break the spell. This indicates proactive behavior rather than purely reactive. She takes initiative to help the fox and resolve the problem.",
+      "evidence": "\"Summoning courage she never knew, Mira led the creature home, breaking the spell.\""
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "While Mira isn't in distress herself, she is the main driver of events after encountering the fox. Her decision to help the fox directly leads to breaking the curse, making her central to the plot's resolution. She takes actions that drive the plot forward.",
+      "evidence": "\"One moonlit night, while wandering near the old oak, she stumbled into a hidden glade, where a frightened fox whispered of a dark forest curse. Summoning courage she never knew, Mira led the creature home, breaking the spell.\""
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story leans more toward achievement, with the breaking of the curse being the primary focus. While there is a relational aspect in helping the fox, the emphasis is on Mira's achievement of breaking the spell and gaining strength. The relationship with the fox is functional to achieve the goal.",
+      "evidence": "\"Summoning courage she never knew, Mira led the creature home, breaking the spell. From then on, she walked bravely, her heart aglow with newfound strength.\""
+    }
+  },
+  "summary": {
+    "Heroic Agency": 4,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

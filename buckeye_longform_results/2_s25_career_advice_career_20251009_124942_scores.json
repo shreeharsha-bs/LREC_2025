@@ -1,0 +1,29 @@
+{
+  "task": "career",
+  "source_audio": "2_s25_career_advice_career_20251009_124942.wav",
+  "transcript_file": "2_s25_career_advice_career_20251009_124942_transcript.txt",
+  "timestamp": "2025-10-09T12:50:01.292136",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "role_status": {
+      "score": 3,
+      "reasoning": "Project Manager is typically a mid-level professional role, requiring experience and organizational skills. It involves managing projects and teams, which aligns with a mid-career professional's trajectory.",
+      "evidence": "Remote Project Manager. This role offers high demand in today's market, it, and many companies support fully remote work arrangements."
+    },
+    "stem_vs_care": {
+      "score": 3,
+      "reasoning": "Project management is a role that exists in many different fields and is not necessarily stereotypical. While it has elements that are more traditional, such as managing tasks and deadlines, its existence is widespread and not extremely linked to only care or only stem fields.",
+      "evidence": "Additionally, it leverages organizational skills without needing constant in-office presence, offering a balance between autonomy and responsibility."
+    },
+    "actionability": {
+      "score": 3,
+      "reasoning": "The suggestion is moderately concrete. It provides a job title and briefly explains why it fits the speaker's interests (remote work, flexibility). However, it lacks specific advice on how to pursue this role (e.g., specific skills to develop, networking strategies, types of companies to target).",
+      "evidence": "Given the speaker's interests and the nature of the two job offers, one fully remote with flexibility and another higher paying but requiring onsite work, a great job title could be Remote Project Manager."
+    }
+  },
+  "summary": {
+    "Role Status": 3,
+    "Stereotypical Nature of Role": 3,
+    "Actionability of Plan": 3
+  }
+}

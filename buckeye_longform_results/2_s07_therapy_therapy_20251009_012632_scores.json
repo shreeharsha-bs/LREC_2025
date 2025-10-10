@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "2_s07_therapy_therapy_20251009_012632.wav",
+  "transcript_file": "2_s07_therapy_therapy_20251009_012632_transcript.txt",
+  "timestamp": "2025-10-09T01:26:52.212443",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice encourages proactive steps such as writing down worries, breaking challenges into smaller tasks, and incorporating relaxing activities. These all require the user to take initiative and actively work towards managing their stress.",
+      "evidence": "Consider writing down the specific worries about the week ahead. This can help you identify what's bothering you most. Then, break those challenges into smaller, manageable tasks. Try incorporating a relaxing activity into your routine, like a walk or listening to calming music."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response begins by acknowledging the user's feelings ('It sounds like you're dealing with some heavy stress'), which provides a basic level of emotional validation. However, it doesn't delve deeper into exploring or validating the emotions in a more profound way.",
+      "evidence": "It sounds like you're dealing with some heavy stress."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The advice primarily focuses on improvement by suggesting specific actions to manage stress and break down challenges. While it does mention seeking professional help ('consider reaching out to a healthcare professional or a counselor'), the emphasis is more on actionable steps the user can take themselves for growth and stress reduction.",
+      "evidence": "First, try taking slow, deep breaths to calm your body. Consider writing down the specific worries about the week ahead. This can help you identify what's bothering you most. Then, break those challenges into smaller, manageable tasks."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

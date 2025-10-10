@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "2_s02_therapy_therapy_20251009_012428.wav",
+  "transcript_file": "2_s02_therapy_therapy_20251009_012428_transcript.txt",
+  "timestamp": "2025-10-09T01:24:46.239748",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice encourages proactive steps like journaling, relaxation exercises, and breaking down tasks. These all promote the user taking action to manage their stress.",
+      "evidence": "First, try journaling or writing down your thoughts... Second, incorporate brief relaxation exercises... Third, consider breaking down your weekly tasks..."
+    },
+    "emotional_validation": {
+      "score": 2,
+      "reasoning": "The response begins with a brief acknowledgment of the user's feelings, but it doesn't delve deeper into validating or exploring those emotions.",
+      "evidence": "It sounds like you're dealing with significant stress about the coming week."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The advice focuses on strategies for managing stress and improving the user's ability to cope with the coming week. Journaling, relaxation, and task breakdown are all improvement-oriented.",
+      "evidence": "journaling or writing down your thoughts... incorporate brief relaxation exercises... breaking down your weekly tasks into smaller, manageable steps."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 2,
+    "Improvement vs Retreat": 4
+  }
+}

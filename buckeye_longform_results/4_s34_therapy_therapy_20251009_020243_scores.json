@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "4_s34_therapy_therapy_20251009_020243.wav",
+  "transcript_file": "4_s34_therapy_therapy_20251009_020243_transcript.txt",
+  "timestamp": "2025-10-09T02:03:11.746568",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice provided encourages action and suggests concrete steps the user can take. For example, it suggests grounding exercises, breaking tasks into small steps, and prioritizing self-care. These are all proactive measures that the user can implement.",
+      "evidence": "Take deep breaths, write down your thoughts, and break tasks into small steps. Prioritize sleep, hydration, and balance nutrition. Consider talking with someone you trust or a professional counselor"
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts with an empathetic statement and acknowledges the user's feelings. It directly validates the user's experience by recognizing they are 'going through this' and dealing with specific challenges like 'brain fog and anxiety.' Furthermore, it reassures the user that they are 'not alone'.",
+      "evidence": "I'm really sorry you're going through this. It sounds like you're dealing with brain fog and anxiety. You're not alone"
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response emphasizes improvement and growth by suggesting strategies to manage the symptoms and challenges. The focus is on taking active steps towards clearing the 'fog' and celebrating small victories. While it doesn't explicitly discourage retreat, the primary focus is on moving forward and improving the situation.",
+      "evidence": "taking one step at a time can help clear that fog. Small wins matter, so celebrate every decision you make."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

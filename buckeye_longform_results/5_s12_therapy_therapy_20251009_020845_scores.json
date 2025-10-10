@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "5_s12_therapy_therapy_20251009_020845.wav",
+  "transcript_file": "5_s12_therapy_therapy_20251009_020845_transcript.txt",
+  "timestamp": "2025-10-09T02:09:04.642867",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response actively encourages the user to take initiative and control over their situation. It suggests actionable steps like 'break your tasks into smaller, more manageable steps and prioritize them,' 'scheduling short breaks,' and 'reconnect with a mentor'. These are all proactive measures that empower the user.",
+      "evidence": "break your tasks into smaller, more manageable steps and prioritize them. Consider scheduling short breaks and activities that bring you joy, even if they feel small. Reconnect with a mentor or a supportive friend"
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts by acknowledging the user's feelings, stating, 'It sounds like you're feeling overwhelmed and disconnected from your original purpose.' This demonstrates empathy. It also encourages self-compassion by suggesting the user 'give yourself permission to pause'.",
+      "evidence": "It sounds like you're feeling overwhelmed and disconnected from your original purpose. Start by taking a step back and giving yourself permission to pause."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response largely focuses on improvement and growth by encouraging the user to re-evaluate their goals, break down tasks, and seek support. While it suggests 'taking a step back,' this is framed as a temporary measure to facilitate future progress, not as a retreat from the problem altogether. The final line encourages building motivation, which aligns with an improvement oriented approach.",
+      "evidence": "Reflect on the reasons you started this journey. Break your tasks into smaller, more manageable steps and prioritize them. Reconnect with a mentor or a supportive friend who can offer perspective. Focus on small wins and gradually rebuild your motivation."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

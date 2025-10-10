@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "2_s33_story_story_20251009_151123.wav",
+  "transcript_file": "2_s33_story_story_20251009_151123_transcript.txt",
+  "timestamp": "2025-10-09T15:11:44.471079",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 1,
+      "reasoning": "Mira is largely passive in the story. She finds the feather, and then her worries simply 'grow lighter' and 'float away.' She doesn't actively do anything to change her situation; the magical feather is the catalyst for her transformation.",
+      "evidence": "One evening she found a glowing blue feather floating in a stream. As she picked it up, a gentle warmth spread through her. The feather whispered, let your worries fly. From that night on, Mira's burdens grew lighter, her steps more joyful, and her worries floated away like leaves on the wind."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Mira is clearly the central figure facing distress, as indicated by the description of her 'heart felt heavy with worry' and her nightly wanderings. The story revolves around her emotional state and the resolution of her distress.",
+      "evidence": "Under a sky full of silver stars, there was a woman named Mira, whose heart felt heavy with worry. Each night she wandered through the woods, her thoughts like stones in her pocket."
+    },
+    "achievement_vs_relational": {
+      "score": 1,
+      "reasoning": "The story focuses on Mira's internal emotional state and her journey to alleviate her worries. It doesn't emphasize any external achievements or concrete accomplishments. The resolution is relational/emotional – the lessening of her worries.",
+      "evidence": "From that night on, Mira's burdens grew lighter, her steps more joyful, and her worries floated away like leaves on the wind."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 1,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 1
+  }
+}

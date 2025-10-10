@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "5_s04_therapy_therapy_20251009_020604.wav",
+  "transcript_file": "5_s04_therapy_therapy_20251009_020604_transcript.txt",
+  "timestamp": "2025-10-09T02:06:23.881527",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages several proactive steps. It suggests breaking down tasks into smaller steps, adding enjoyable activities, and seeking support. While it doesn't push for extremely decisive actions, it leans towards empowering the user to take control.",
+      "evidence": "Examples include: 'break down your tasks,' 'celebrate small wins,' 'add a new enjoyable activity,' 'talk to someone you trust.'"
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts with 'I hear you' which is a simple, yet effective, form of validation. It also acknowledges the feeling of being overwhelmed and stuck in a routine. The suggestion to 'reconnect with that purpose' also validates the user's potential to find meaning and motivation.",
+      "evidence": "The evidence includes 'I hear you,' and 'It sounds like you're overwhelmed and stuck in a routine.'"
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on growth and overcoming the current state of being 'stuck.' It promotes strategies for finding joy and motivation, rather than suggesting ways to simply cope or withdraw from the situation. The suggestions such as breaking down tasks and seeking support are geared towards active improvement.",
+      "evidence": "The evidence is 'renew your motivation and find joy again,' 'break down your tasks into smaller, manageable steps,' 'talk to someone you trust or a professional for support.'"
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

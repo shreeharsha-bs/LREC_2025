@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "3_s08_therapy_therapy_20251009_014021.wav",
+  "transcript_file": "3_s08_therapy_therapy_20251009_014021_transcript.txt",
+  "timestamp": "2025-10-09T01:40:39.933782",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps such as 'Practice mindfulness or journaling' and 'Gradually integrate small moments of authenticity into your daily life.' These suggestions empower the individual to take control and actively work towards aligning their inner feelings with their outward persona.",
+      "evidence": "'Start by giving yourself permission to feel your true emotions without judgment.', 'Practice mindfulness or journaling to explore what's behind this mask.', 'Gradually integrate small moments of authenticity into your daily life.'"
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response demonstrates good emotional validation by acknowledging the individual's feelings and offering reassurance. The phrase 'It sounds like you're feeling a strong disconnect between your public persona and your inner emotions' shows an understanding of the person's emotional state. The advice to 'give yourself permission to feel your true emotions without judgment' further validates their feelings.",
+      "evidence": "'It sounds like you're feeling a strong disconnect between your public persona and your inner emotions.', 'give yourself permission to feel your true emotions without judgment.', 'Remember, it's okay to be vulnerable.'"
+    },
+    "improvement_vs_retreat": {
+      "score": 5,
+      "reasoning": "The response strongly focuses on growth and actionable steps. The suggestions to 'talk to a trusted friend or therapist' and 'integrate small moments of authenticity' are aimed at active improvement. There is no encouragement of withdrawal or escape.",
+      "evidence": "'Find a trusted friend or therapist to talk to, and share these feelings openly.', 'Gradually integrate small moments of authenticity into your daily life.'"
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 5
+  }
+}

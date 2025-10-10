@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "1_s29_therapy_therapy_20251009_012030.wav",
+  "transcript_file": "1_s29_therapy_therapy_20251009_012030_transcript.txt",
+  "timestamp": "2025-10-09T01:20:48.498255",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages action by suggesting concrete steps to take, such as introducing an evening routine, reducing screen time, and finding relaxing hobbies. It empowers the user to take control of their evening and improve their sleep.",
+      "evidence": "One thing you could try next is introducing a simple evening routine. Start with something calming, like reading a book or doing a short stretch. Then gradually reduce screen time by setting a timer on your phone and putting it down at a certain point. You might also find a relaxing hobby like journaling or listening to gentle music."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response begins with an empathetic statement, acknowledging the draining feeling the user is experiencing. This provides some emotional support, but it doesn't delve deeply into the feelings or offer extensive reassurance.",
+      "evidence": "I totally get how draining that can feel."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on improvement and growth by suggesting actionable steps to improve sleep and unwind. It doesn't encourage avoidance or withdrawal but rather promotes positive habits and routines.",
+      "evidence": "Over time, these small steps can help you unwind and rest better."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

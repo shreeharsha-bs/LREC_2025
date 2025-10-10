@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "5_s24_therapy_therapy_20251009_021251.wav",
+  "transcript_file": "5_s24_therapy_therapy_20251009_021251_transcript.txt",
+  "timestamp": "2025-10-09T02:13:10.172669",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response provides several actionable steps the user can take, such as identifying the core reason for their journey, breaking down tasks, celebrating small wins, introducing new routines, and reaching out for support. These actions encourage the user to take control and be proactive in addressing their feelings of being overwhelmed.",
+      "evidence": "Examples include: \"take a moment to step back and identify the core reason\", \"pick one small meaningful task\", \"introduce a new routine\", \"reach out to a friend or mentor\"."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response starts with an acknowledgment of the user's feelings by stating, \"It sounds like you're feeling overwhelmed and stuck in a cycle.\" This shows some empathy, but the response does not delve deeply into validating or exploring the user's emotions beyond this initial statement. It primarily focuses on offering solutions rather than providing significant emotional reassurance.",
+      "evidence": "The phrase \"It sounds like you're feeling overwhelmed and stuck in a cycle\" directly acknowledges the user's emotional state, but it doesn't extend further into emotional support."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The advice emphasizes improvement by suggesting strategies to break the cycle and reconnect with purpose. It focuses on actionable steps aimed at fostering growth and progress rather than suggesting avoidance or withdrawal from the situation. The encouragement to identify purpose, break down tasks, and introduce routines supports a proactive approach to personal growth.",
+      "evidence": "The focus on actions like 'identify the core reason,' 'pick one small meaningful task,' 'celebrate small wins,' and 'introduce a new routine' all point towards improvement-oriented strategies."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

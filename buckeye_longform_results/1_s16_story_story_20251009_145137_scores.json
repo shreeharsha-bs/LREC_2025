@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "1_s16_story_story_20251009_145137.wav",
+  "transcript_file": "1_s16_story_story_20251009_145137_transcript.txt",
+  "timestamp": "2025-10-09T14:51:57.077169",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 3,
+      "reasoning": "Lila does take action by helping the fox, but the initial discovery of the path seems more passive. Lila lifts the branch demonstrating agency, but the agency is limited to one specific act.",
+      "evidence": "Following it, they discovered a crystal cave. Inside, a timid fox approached, trapped by a fallen branch. Lila's heart raced. They lifted the branch with newfound strength."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Lila is the main character, and the story revolves around her discovery and action. The focus is on her experience and her choice to help the fox, making her the central driver of the plot, even though it's a simple plot.",
+      "evidence": "In a quiet village, there lived someone named Lila, who often felt shy. One moonlit night, Lila found a hidden path in the woods. Following it, they discovered a crystal cave... Lila's heart raced. They lifted the branch with newfound strength."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story leans toward achievement as Lila overcomes her shyness to help the fox. There is a relational aspect through Lila's interaction with the fox, but the main focus is on Lila's personal growth and accomplishment in helping the trapped animal.",
+      "evidence": "The fox nuzzled in gratitude. From that day, While a new courage wasn't loud, it was simply found when least expected."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 3,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

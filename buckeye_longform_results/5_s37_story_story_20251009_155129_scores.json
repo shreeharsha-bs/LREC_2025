@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "5_s37_story_story_20251009_155129.wav",
+  "transcript_file": "5_s37_story_story_20251009_155129_transcript.txt",
+  "timestamp": "2025-10-09T15:51:56.007157",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 2,
+      "reasoning": "Aiden is mostly passive, reacting to the oak's whisper rather than actively pursuing a plan. He asks a question and follows the answer. He doesn't demonstrate much initiative beyond this.",
+      "evidence": "Aiden asked, Where can I find peace? The oak whispered of a hidden glen beyond the hills. With that single choice, Aiden followed the whisper"
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Aiden's quest for peace is the central element driving the plot. The story revolves around his question and subsequent journey. He is clearly the main character and the story is centered on his distress and search for resolution.",
+      "evidence": "Once in a quiet village lived a weary traveler named Aiden... Aiden asked, Where can I find peace?"
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story leans more towards achievement, with Aiden's discovery of peace being the central goal. While there's a hint of emotional resolution (finding calm and joy), the focus is more on the act of finding the glen and resting there, signifying an achievement.",
+      "evidence": "discovering a new beginning full of calm and joy. That night, under the stars, Aiden finally rested at the start of a different path."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 2,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

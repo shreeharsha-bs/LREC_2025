@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "3_s10_therapy_therapy_20251009_014105.wav",
+  "transcript_file": "3_s10_therapy_therapy_20251009_014105_transcript.txt",
+  "timestamp": "2025-10-09T01:41:23.221517",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps by suggesting reflection, journaling, and reaching out to trusted individuals or professionals. These are all actionable suggestions that promote personal agency in addressing the underlying issues.",
+      "evidence": "Find a quiet moment each day to reflect...Consider journaling how you truly feel without judgment. Then reach out to someone you trust or a mental health professional to share what's going on."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts by acknowledging the person's emotional state, which is a sign of good emotional validation. It also normalizes the need to share burdens and seek support. The initial sentence, in particular, acknowledges the difficulty of the situation.",
+      "evidence": "It sounds like you're carrying a heavy load behind that mask...You don't have to carry this alone."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on improvement by suggesting methods to acknowledge feelings, process them (journaling), and seek support, rather than suggesting avoidance or withdrawal. The core message is about confronting and working through the underlying issues.",
+      "evidence": "Taking off that mask a little at a time can bring real relief. Start by giving yourself permission to acknowledge those feelings."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

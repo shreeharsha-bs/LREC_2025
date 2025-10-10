@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "3_s02_story_story_20251009_151430.wav",
+  "transcript_file": "3_s02_story_story_20251009_151430_transcript.txt",
+  "timestamp": "2025-10-09T15:14:49.910716",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 3,
+      "reasoning": "Mira is moderately active. While the firefly prompts her, she still needs to bake the bread. The story indicates that Mira uses her existing baking skills and the magical suggestion to create the enchanted bread. She isn't entirely passive, but her actions are initiated by external influence.",
+      "evidence": "One twilight, a tiny firefly visited her oven, whispering, Believe in your magic. That night, Mira discovered her loaves could float, glow, and even sing."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Mira is the main character, and the story focuses on her discovery and the impact of her enchanted bread on the village. The plot centers around her experience and transformation, making her the central driving force, even though there is no explicit distress, the narrative follows her journey of self-discovery of her inherent magic.",
+      "evidence": "Once, in a village nestled between shimmering hills, lived a baker named Mira... The villagers adored her enchanted bread, and Mira realized she'd always had magic within."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story leans towards achievement, as it highlights Mira's discovery and the success of her enchanted bread. While the villagers' adoration suggests a relational element, the primary focus is on Mira's accomplishment of baking magical bread and the recognition she receives for it. The relational aspect is secondary to the achievement of creating something unique and beneficial.",
+      "evidence": "The villagers adored her enchanted bread, and Mira realized she'd always had magic within."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 3,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

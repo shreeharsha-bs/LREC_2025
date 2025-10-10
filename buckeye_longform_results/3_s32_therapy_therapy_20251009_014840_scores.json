@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "3_s32_therapy_therapy_20251009_014840.wav",
+  "transcript_file": "3_s32_therapy_therapy_20251009_014840_transcript.txt",
+  "timestamp": "2025-10-09T01:48:58.033347",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps by suggesting talking to trusted individuals, journaling thoughts, setting small goals, and practicing self-compassion. These are all actions the user can take to improve their situation.",
+      "evidence": "Start by talking to someone you trust...Journaling your thoughts can also help...setting small achievable goals each day...And practice self-compassion."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response demonstrates good emotional validation by acknowledging the user's feelings and offering reassurance that it's okay not to be okay. It also normalizes the struggle, which can be comforting.",
+      "evidence": "It's important to acknowledge how you're feeling and realize that you're not alone in this struggle...Remind yourself that it's okay to not be okay."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on improvement by providing strategies for processing emotions, regaining a sense of purpose, and practicing self-compassion. While acknowledging negative feelings, it emphasizes moving forward.",
+      "evidence": "talking to someone you trust...Journaling your thoughts can also help you process these emotions. setting small achievable goals each day to regain a sense of purpose. And practice self-compassion."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

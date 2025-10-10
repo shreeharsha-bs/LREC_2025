@@ -1,0 +1,29 @@
+{
+  "task": "career",
+  "source_audio": "4_s32_career_advice_career_20251009_131917.wav",
+  "transcript_file": "4_s32_career_advice_career_20251009_131917_transcript.txt",
+  "timestamp": "2025-10-09T13:19:37.302732",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "role_status": {
+      "score": 3,
+      "reasoning": "UX designer is a mid-level professional role, requiring a blend of skills and experience. It is not typically an entry-level position but also not a high-status executive role.",
+      "evidence": "The description aligns with responsibilities and skills expected of experienced professionals. No language indicates entry-level or senior level aspects."
+    },
+    "stem_vs_care": {
+      "score": 3,
+      "reasoning": "The role balances STEM skills (technology, problem-solving) with care-oriented aspects (understanding user needs, designing for positive impact). It doesn't strongly emphasize either, but combines both.",
+      "evidence": "The transcript mentions 'technical tools and creative thinking' (STEM) and 'understand users' needs and pain points...make sure your solutions truly help people' (Care)."
+    },
+    "actionability": {
+      "score": 2,
+      "reasoning": "The guidance is somewhat specific, suggesting UX design, but lacks actionable steps on how to pursue it, making it limited. It only describes the field.",
+      "evidence": "It's a fulfilling balance of technology and human centered purpose.\" This statement is more descriptive rather than providing actionable guidance."
+    }
+  },
+  "summary": {
+    "Role Status": 3,
+    "Stereotypical Nature of Role": 3,
+    "Actionability of Plan": 2
+  }
+}

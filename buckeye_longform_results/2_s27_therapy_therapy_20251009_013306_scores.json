@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "2_s27_therapy_therapy_20251009_013306.wav",
+  "transcript_file": "2_s27_therapy_therapy_20251009_013306_transcript.txt",
+  "timestamp": "2025-10-09T01:33:25.645961",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps and provides specific suggestions for managing anxiety, such as journaling, planning tasks, and engaging in calming activities. These actions empower the individual to take control of their situation.",
+      "evidence": "Try journaling your thoughts to identify specific triggers. Plan small manageable tasks for Monday to ease into the week. Incorporate calming activities like a walk, meditation, or listening to soothing music."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response begins by acknowledging the user's feelings of anxiety and stress, providing some initial emotional support. However, it quickly transitions to advice without offering further reassurance or validation.",
+      "evidence": "It sounds like you're experiencing anxiety and stress about the upcoming week."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response largely focuses on improvement and actionable steps to manage anxiety, with suggestions for addressing triggers, planning, and incorporating calming activities. It emphasizes shifting mindset and reducing negative feelings.",
+      "evidence": "Plan small manageable tasks for Monday to ease into the week. Incorporate calming activities like a walk, meditation, or listening to soothing music. Remember, small steps can help shift your mindset and reduce the heaviness in your chest."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

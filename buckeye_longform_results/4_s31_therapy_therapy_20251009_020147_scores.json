@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "4_s31_therapy_therapy_20251009_020147.wav",
+  "transcript_file": "4_s31_therapy_therapy_20251009_020147_transcript.txt",
+  "timestamp": "2025-10-09T02:02:05.903910",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice generally encourages action and taking small steps. Listing tasks, breaking them down, and prioritizing rest are all proactive strategies. While some advice leans towards self-care, the overall emphasis is on doing something to address the feeling of being overwhelmed.",
+      "evidence": "Writing things down can help. Jot down tasks or decisions in a list. Break them into small, manageable steps. Prioritize rest and hydration. Consider talking to a trusted friend or counselor. Gentle physical activity, like a short walk, may clear your mind."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response provides good emotional validation by starting with acknowledgment of the feeling ('I understand you're feeling overwhelmed') and ends with self-compassion ('Be kind to yourself along the way'). It directly addresses the user's emotional state and offers supportive statements.",
+      "evidence": "I understand you're feeling overwhelmed. Remember, progress is about small steps. Be kind to yourself along the way."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response generally focuses on improvement and growth. Although it includes elements of self-care (rest, hydration), the primary focus is on actively managing the overwhelming feelings through task management and seeking support. The emphasis is on making progress, even if in small steps.",
+      "evidence": "Writing things down can help. Jot down tasks or decisions in a list. Break them into small, manageable steps. Remember, progress is about small steps."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

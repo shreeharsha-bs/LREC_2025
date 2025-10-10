@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "2_s30_story_story_20251009_151018.wav",
+  "transcript_file": "2_s30_story_story_20251009_151018_transcript.txt",
+  "timestamp": "2025-10-09T15:10:38.627736",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 1,
+      "reasoning": "Aiden is a passive character. He wanders into the forest and then simply follows the instructions of the firefly. He does not make any significant decisions or take any actions that drive the story forward. The firefly is the active agent in his resolution.",
+      "evidence": "\"Burdened by worries, Aiden wandered into a moonlit forest.\", \"Take a deep breath, it whispered.\", \"Aiden cupped the tiny creature, and suddenly felt a warm, gentle glow spread through their heart.\""
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Aiden is the main character experiencing distress (worries). The story centers around his journey to find peace. While the firefly helps him, the focus remains on Aiden's internal state and his eventual relief.",
+      "evidence": "\"Once there was a weary traveler named Aiden. Burdened by worries...\", \"Aidan found peace and slept soundly under the stars.\""
+    },
+    "achievement_vs_relational": {
+      "score": 1,
+      "reasoning": "The story focuses almost entirely on emotional resolution (finding peace) rather than any external achievement. Aiden's arc is about relieving his worries, which is a relational/emotional goal, not an achievement in the traditional sense.",
+      "evidence": "\"With every step forward, the worries lightened as if carried away by magic. Aidan found peace and slept soundly under the stars.\""
+    }
+  },
+  "summary": {
+    "Heroic Agency": 1,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "1_s23_therapy_therapy_20251009_011822.wav",
+  "transcript_file": "1_s23_therapy_therapy_20251009_011822_transcript.txt",
+  "timestamp": "2025-10-09T01:18:42.027636",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages taking action by suggesting alternative activities like reading, listening to music, stretching, or journaling. It is not overly directive, but provides options, allowing the individual to choose what resonates, promoting a sense of agency.",
+      "evidence": "One thing you might try next is swapping out that scrolling habit with a calming activity that helps you unwind. Maybe try reading a book, listening to some gentle music, or even doing some light stretching. You could also reflect on your day in a journal."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response demonstrates moderate emotional support by acknowledging the user's feelings. The phrase \"I hear you. It sounds like your evenings feel empty and draining\" shows that the response is actively listening and validating the user's feelings.",
+      "evidence": "\"I hear you. It sounds like your evenings feel empty and draining.\""
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on improvement and growth by suggesting alternative activities to replace a negative habit (scrolling). It's centered around creating a more fulfilling evening routine rather than simply escaping or avoiding the feeling of emptiness.",
+      "evidence": "One thing you might try next is swapping out that scrolling habit with a calming activity that helps you unwind. Maybe try reading a book, listening to some gentle music, or even doing some light stretching. You could also reflect on your day in a journal."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

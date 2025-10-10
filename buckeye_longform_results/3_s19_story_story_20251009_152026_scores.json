@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "3_s19_story_story_20251009_152026.wav",
+  "transcript_file": "3_s19_story_story_20251009_152026_transcript.txt",
+  "timestamp": "2025-10-09T15:20:48.622795",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 3,
+      "reasoning": "Milo is moderately active. He discovers a door and helps organize a library, but the story's progression feels somewhat guided by external events rather than Milo's deliberate choices. He 'dreams by night' and then 'discovers a hidden door,' indicating a reactive element to his actions.",
+      "evidence": "One evening, Milo discovered a hidden door behind the fairy tales. It led to a mystical forest where shy creatures awaited his guidance. As he helped them organize their magical library, Milo realized his quiet strength."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Milo is the main character, and the story revolves around his experience in the mystical forest. While not explicitly 'in distress,' his initial lack of confidence and subsequent growth suggest a personal challenge he overcomes, making him a driving force in the narrative.",
+      "evidence": "Under the silver glow of the moon, there was a humble librarian named Milo, who shelved books by day and dreamed by night. ...As he helped them organize their magical library, Milo realized his quiet strength. With each enchanted night, he grew more confident."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story focuses more on Milo's personal achievement (gaining confidence) than on intricate relationships. While he helps the 'shy creatures,' the emphasis is on his internal development and newfound self-belief rather than the complexities of his interactions with them.",
+      "evidence": "As he helped them organize their magical library, Milo realized his quiet strength. With each enchanted night, he grew more confident. At dawn, he returned home, carrying the quiet magic of self-belief in his heart."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 3,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "3_s38_therapy_therapy_20251009_015031.wav",
+  "transcript_file": "3_s38_therapy_therapy_20251009_015031_transcript.txt",
+  "timestamp": "2025-10-09T01:50:49.169868",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response suggests several actionable steps: journaling, talking to a friend or counselor, practicing self-compassion, and taking small steps toward authenticity. These suggestions encourage the user to take an active role in processing their feelings and moving forward.",
+      "evidence": "Journaling can be a great way to explore what's really going on inside. Consider talking to a trusted friend or a counselor who can help you process these feelings. Practicing self-compassion and taking small steps toward authenticity can also help you feel more grounded."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts by validating the user's feelings by acknowledging the emotional weight they are carrying. This shows empathy and understanding, creating a safe space for further exploration.",
+      "evidence": "It sounds like you're dealing with a lot of emotional weight behind that mask."
+    },
+    "improvement_vs_retreat": {
+      "score": 5,
+      "reasoning": "The entire response is geared toward growth and taking actionable steps to process emotions and become more authentic. The suggestions are aimed at helping the user move forward rather than retreat from their feelings or situation.",
+      "evidence": "A good next step might be to find a safe space to let your true feelings out. Journaling can be a great way to explore what's really going on inside. Consider talking to a trusted friend or a counselor who can help you process these feelings. Practicing self-compassion and taking small steps toward authenticity can also help you feel more grounded."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 5
+  }
+}

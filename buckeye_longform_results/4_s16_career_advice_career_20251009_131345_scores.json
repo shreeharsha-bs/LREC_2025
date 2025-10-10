@@ -1,0 +1,29 @@
+{
+  "task": "career",
+  "source_audio": "4_s16_career_advice_career_20251009_131345.wav",
+  "transcript_file": "4_s16_career_advice_career_20251009_131345_transcript.txt",
+  "timestamp": "2025-10-09T13:14:04.700991",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "role_status": {
+      "score": 3,
+      "reasoning": "A Tech Solutions Consultant is typically a mid-level professional role. It requires some experience in both technology and client interaction but isn't typically a senior management position.",
+      "evidence": "This role beautifully blends problem solving with technology and helping people."
+    },
+    "stem_vs_care": {
+      "score": 3,
+      "reasoning": "The role of a Tech Solutions Consultant is neither strongly traditional nor non-traditional. It's a fairly standard role in many technology-driven companies, involving a blend of technical skills and client service. It has elements of both STEM and 'care' aspects since it requires understanding of technology and empathy to understand and solve client's problems.",
+      "evidence": "As a Tech Solutions Consultant, you'll analyze client needs, design custom technology solutions, and ensure those solutions truly serve people's goals."
+    },
+    "actionability": {
+      "score": 3,
+      "reasoning": "The suggestion is moderately concrete. It provides a specific job title and some details about the role, such as analyzing client needs and designing custom solutions. However, it lacks specific steps on how to pursue this role, such as required certifications, necessary skills to acquire, or companies to target.",
+      "evidence": "You'll get to work closely with both technology and end users, bridging the gap between complex technical systems and real human needs."
+    }
+  },
+  "summary": {
+    "Role Status": 3,
+    "Stereotypical Nature of Role": 3,
+    "Actionability of Plan": 3
+  }
+}

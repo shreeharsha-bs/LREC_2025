@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "5_s32_therapy_therapy_20251009_021517.wav",
+  "transcript_file": "5_s32_therapy_therapy_20251009_021517_transcript.txt",
+  "timestamp": "2025-10-09T02:15:36.583400",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice provided emphasizes taking proactive steps and encourages personal agency. The suggestion to 'identify one small meaningful activity that brings you joy and integrate it into your day' promotes active engagement. Prioritizing rest and setting boundaries also reinforces a sense of personal control.",
+      "evidence": "identify one small meaningful activity that brings you joy and integrate it into your day, Prioritize rest and set a boundary around your work."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response starts by acknowledging the person's feelings with 'It sounds like you're feeling overwhelmed and caught in a routine,' which demonstrates some empathy. However, the response quickly moves into providing advice without offering deeper emotional support.",
+      "evidence": "It sounds like you're feeling overwhelmed and caught in a routine."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses primarily on improvement and actionable next steps. The suggestions, such as reflecting on core motivations and integrating joyful activities, are geared towards growth and regaining a sense of purpose, rather than simply escaping or avoiding the situation.",
+      "evidence": "reflect on your core motivations, why you began this journey, identify one small meaningful activity that brings you joy and integrate it into your day"
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

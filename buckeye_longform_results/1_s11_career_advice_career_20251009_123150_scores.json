@@ -1,0 +1,29 @@
+{
+  "task": "career",
+  "source_audio": "1_s11_career_advice_career_20251009_123150.wav",
+  "transcript_file": "1_s11_career_advice_career_20251009_123150_transcript.txt",
+  "timestamp": "2025-10-09T12:32:09.018282",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "role_status": {
+      "score": 3,
+      "reasoning": "UX Designer is typically a mid-level professional role, requiring experience in design principles and user research. The role involves contributing to the design process and collaborating with other team members.",
+      "evidence": "This role focuses on creating tools and products that are not only functional, but also intuitive and aesthetically pleasing."
+    },
+    "stem_vs_care": {
+      "score": 3,
+      "reasoning": "UX design blends technical skills with a focus on user experience, making it neither strongly traditional nor non-traditional. It incorporates both analytical and creative aspects.",
+      "evidence": "UX designers bridge the gap between technology and human interaction, making digital experiences as smooth and enjoyable as possible."
+    },
+    "actionability": {
+      "score": 2,
+      "reasoning": "The advice is somewhat specific by suggesting UX Designer, but it lacks actionable steps on how to pursue this career, such as specific skills to develop, resources to consult, or steps to take to gain experience.",
+      "evidence": "One specific job title this speaker can pursue is UX Designer, User Experience Designer."
+    }
+  },
+  "summary": {
+    "Role Status": 3,
+    "Stereotypical Nature of Role": 3,
+    "Actionability of Plan": 2
+  }
+}

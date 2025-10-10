@@ -1,0 +1,29 @@
+{
+  "task": "career",
+  "source_audio": "5_s08_career_advice_career_20251009_132434.wav",
+  "transcript_file": "5_s08_career_advice_career_20251009_132434_transcript.txt",
+  "timestamp": "2025-10-09T13:24:53.655775",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "role_status": {
+      "score": 2,
+      "reasoning": "Science Communicator is generally an entry-level or early career role. While it can grow into a senior position, the description provided aligns more with someone starting in the field.",
+      "evidence": "This role involves translating complex scientific concepts into engaging content for the public, whether through writing, public speaking, videos, or live demonstrations."
+    },
+    "stem_vs_care": {
+      "score": 3,
+      "reasoning": "Science communication roles are neither strongly traditional nor non-traditional. While communication is a 'care' field, applying it within a STEM context makes it a hybrid.",
+      "evidence": "You'll use your curiosity and communication skills to bridge the gap between science and society, making discoveries accessible and meaningful."
+    },
+    "actionability": {
+      "score": 3,
+      "reasoning": "The suggestion is moderately concrete, identifying a specific role and some of the required skills and activities. However, it doesn't provide specific steps on how to become a science communicator (e.g., specific education, training, or networking opportunities).",
+      "evidence": "One specific job title you could pursue is Science Communicator. This role involves translating complex scientific concepts into engaging content for the public...It's grounded in real-world interaction, allowing you to connect directly with people and share your love of science."
+    }
+  },
+  "summary": {
+    "Role Status": 2,
+    "Stereotypical Nature of Role": 3,
+    "Actionability of Plan": 3
+  }
+}

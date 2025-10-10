@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "1_s34_story_story_20251009_145758.wav",
+  "transcript_file": "1_s34_story_story_20251009_145758_transcript.txt",
+  "timestamp": "2025-10-09T14:58:18.118811",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 3,
+      "reasoning": "Ray's agency is moderate. Ray frees the fox, showing initiative, but the fox then leads Ray to the brook of courage. Ray's actions are not entirely self-driven, thus a score of 3 seems appropriate.",
+      "evidence": "With trembling hands, Ray freed the fox. The fox, grateful, led Ray to a shimmering brook where courage flowed like water"
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Ray is the central character, and the story focuses on their internal struggle with courage. They are the main driver of the plot, which revolves around their journey to overcome their insecurities.",
+      "evidence": "Once there was a gentle soul named Ray, who always felt a little unsure of their own strength. ... from that day on Ray walked the world with quiet bravery in their heart."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story focuses more on Ray's personal achievement of finding courage than on relationships. While the fox is a catalyst, the main focus is on Ray's transformation.",
+      "evidence": "In that moment they discovered a well of courage within.... from that day on Ray walked the world with quiet bravery in their heart."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 3,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

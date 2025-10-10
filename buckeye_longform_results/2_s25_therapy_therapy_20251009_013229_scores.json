@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "2_s25_therapy_therapy_20251009_013229.wav",
+  "transcript_file": "2_s25_therapy_therapy_20251009_013229_transcript.txt",
+  "timestamp": "2025-10-09T01:32:48.348739",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages the user to take proactive steps such as reaching out to someone, writing down thoughts, and planning manageable tasks. It suggests seeking professional help if the problem persists, indicating an active approach to problem-solving.",
+      "evidence": "Consider reaching out to someone you trust...It might help to write down your thoughts or plan small manageable tasks for the week. If the tightness persists, consulting a healthcare professional or counselor can provide more tailored support."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts with expressing sympathy and encourages acknowledging feelings without judgment. This provides significant emotional validation and support.",
+      "evidence": "I'm really sorry you're feeling this way. First, take a moment to breathe deeply and try to ground yourself. Acknowledge your feelings without judgment."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The advice focuses on growth by encouraging action (reaching out, writing, planning) rather than avoiding or retreating from the problem. Seeking professional help is also a step towards improvement.",
+      "evidence": "Consider reaching out to someone you trust...It might help to write down your thoughts or plan small manageable tasks for the week. If the tightness persists, consulting a healthcare professional or counselor can provide more tailored support."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

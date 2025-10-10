@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "2_s31_story_story_20251009_151038.wav",
+  "transcript_file": "2_s31_story_story_20251009_151038_transcript.txt",
+  "timestamp": "2025-10-09T15:11:03.217478",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 2,
+      "reasoning": "Arlo's agency is somewhat limited. He initially 'trudges through life' passively. His biggest active choice is touching the pebble, but even that feels somewhat accidental. After this event, he actively places magic in the clocks, showing more agency, but this is only after receiving external help.",
+      "evidence": "\"Under the weight of his worries, Arlo the clockmaker trudged through life...\" and \"he stumbled upon a shimmering pebble that whispered...\" illustrate his initial passivity. \"With a gentle touch, the pebble glowed...\" shows limited decision-making."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Arlo is clearly the main character and the story revolves around his worries and subsequent relief. The narrative focuses on his internal state and the impact of the magical pebble on his life and work. He is the central driving force of the plot, albeit in a relatively simple narrative.",
+      "evidence": "\"Arlo the clockmaker trudged through life, his mind ticking with troubles.\" This opening line immediately establishes Arlo as the central figure and highlights his distress."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story leans towards achievement. Arlo's initial state of worry is 'achieved' by relieving his worries and incorporating magic into his clocks to help others. The story's resolution focuses on how he transforms his craft, rather than focusing on relationship-driven elements.",
+      "evidence": "\"Arlo's heart grew lighter, and from then on, he placed a tiny bit of magic in each clock he made, helping others find peace in time.\" This focuses on his actions and their impact (helping others), an aspect of achievement. There is no mention of specific relationships, so it skews towards the achievement aspect."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 2,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

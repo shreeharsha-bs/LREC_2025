@@ -1,0 +1,29 @@
+{
+  "task": "career",
+  "source_audio": "3_s04_career_advice_career_20251009_125612.wav",
+  "transcript_file": "3_s04_career_advice_career_20251009_125612_transcript.txt",
+  "timestamp": "2025-10-09T12:56:34.027433",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "role_status": {
+      "score": 3,
+      "reasoning": "A health informatics specialist is typically a mid-level professional role, requiring a blend of technical skills and healthcare knowledge. It is not an entry-level position, but it also isn't a senior or high-status role.",
+      "evidence": "Based on your interest in well-being and problem solving, one specific job title you could pursue is a health informatics specialist."
+    },
+    "stem_vs_care": {
+      "score": 3,
+      "reasoning": "This role has elements of both traditional and non-traditional. It is rooted in the traditional healthcare industry but uses technology and data in a modern way. It doesn't strongly lean towards either end.",
+      "evidence": "This role combines healthcare, data analysis, and technology to improve patient outcomes and streamline healthcare systems."
+    },
+    "actionability": {
+      "score": 3,
+      "reasoning": "The suggestion of \"health informatics specialist\" is moderately concrete. It provides a specific job title. However, the advice could be more actionable by suggesting specific steps to take to pursue this role, such as educational paths or necessary certifications.",
+      "evidence": "This career allows you to directly impact community health by ensuring accurate, accessible data for decision making, fitting your passion for both healthcare and innovative solutions."
+    }
+  },
+  "summary": {
+    "Role Status": 3,
+    "Stereotypical Nature of Role": 3,
+    "Actionability of Plan": 3
+  }
+}

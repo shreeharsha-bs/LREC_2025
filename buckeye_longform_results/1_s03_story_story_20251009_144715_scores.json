@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "1_s03_story_story_20251009_144715.wav",
+  "transcript_file": "1_s03_story_story_20251009_144715_transcript.txt",
+  "timestamp": "2025-10-09T14:47:34.026143",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 3,
+      "reasoning": "The protagonist takes some action, but their agency is somewhat limited. They find the stone due to chance, and the winds urge them forward, implying external influence. While they lead the village to safety, this is presented as the stone giving them courage, rather than stemming solely from their own initiative. Thus, the protagonist is moderately active.",
+      "evidence": "\"Whispering winds urged them forward.\", \"the stone's light gave them the courage to lead everyone to safety.\""
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "The protagonist is the main character and experiences fear (\"Though they were afraid\"), but ultimately takes action to save the village, making them a central figure driving the plot. The threat of the storm positions the protagonist as someone who must act to protect others, showcasing good agency.",
+      "evidence": "\"Though they were afraid, they tucked the stone into their pocket.\", \"the stone's light gave them the courage to lead everyone to safety.\""
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story focuses more on the achievement of saving the village from the storm than on relationships. The emphasis is on the protagonist's bravery and their actions leading to the safety of everyone, rather than exploring their connections or emotional bonds with other characters. The phrase \"lead everyone to safety\" is achievement-oriented.",
+      "evidence": "\"That night, a storm threatened the village, but the stone's light gave them the courage to lead everyone to safety.\""
+    }
+  },
+  "summary": {
+    "Heroic Agency": 3,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

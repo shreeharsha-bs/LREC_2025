@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "2_s14_therapy_therapy_20251009_012845.wav",
+  "transcript_file": "2_s14_therapy_therapy_20251009_012845_transcript.txt",
+  "timestamp": "2025-10-09T01:29:13.516464",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps such as \"Plan small, enjoyable activities,\" \"Break tasks into manageable steps,\" and \"talking to a friend, family member, or therapist.\" These actions empower the user to take control of their anxiety.",
+      "evidence": "\"Plan small, enjoyable activities...\", \"Break tasks into manageable steps...\", \"talking to a friend, family member, or therapist...\""
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response shows moderate emotional support by acknowledging the user's feelings: \"It sounds like you're experiencing anxiety about the upcoming week. Start by recognizing these feelings without judgment.\" While it identifies and validates the feeling, it doesn't delve deeply into offering strong reassurance or exploring the emotion's roots.",
+      "evidence": "\"It sounds like you're experiencing anxiety about the upcoming week. Start by recognizing these feelings without judgment.\""
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on growth and actionable steps for improvement by suggesting techniques like mindfulness, planning enjoyable activities, breaking down tasks, and seeking social support. These suggestions point towards active coping mechanisms rather than avoidance or retreat.",
+      "evidence": "\"Try incorporating a short mindfulness or breathing exercise...\", \"Plan small, enjoyable activities...\", \"Break tasks into manageable steps...\""
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

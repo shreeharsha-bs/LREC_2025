@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "1_s33_story_story_20251009_145739.wav",
+  "transcript_file": "1_s33_story_story_20251009_145739_transcript.txt",
+  "timestamp": "2025-10-09T14:57:58.314845",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 4,
+      "reasoning": "Robin actively frees the fox from the bramble, demonstrating agency in resolving the immediate problem. This positions them as a generally proactive character who responds to the situation and makes a decision to act.",
+      "evidence": "Robin's heart pounded, but they took a deep breath and carefully freed the fox."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Robin is the main character, and their actions directly influence the story's events. While the fox is in distress, Robin is the one who takes action and drives the narrative forward by freeing the fox and continuing the journey. The story emphasizes Robin's internal conflict (shyness) and growth in bravery.",
+      "evidence": "Once, there was a gentle traveler named Robin, who often felt shy and unsure... In that moment, Robin discovered their hidden bravery"
+    },
+    "achievement_vs_relational": {
+      "score": 3,
+      "reasoning": "The story presents a balance between achievement and relational themes. Robin achieves the goal of freeing the fox (achievement), but the act also initiates a relationship between them, indicated by 'together they journeyed onward'. The achievement facilitates the relational arc.",
+      "evidence": "Robin discovered their hidden bravery, and together they journeyed onward under the starlit sky."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 4,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 3
+  }
+}

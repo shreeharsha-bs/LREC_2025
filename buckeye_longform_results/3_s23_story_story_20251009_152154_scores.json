@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "3_s23_story_story_20251009_152154.wav",
+  "transcript_file": "3_s23_story_story_20251009_152154_transcript.txt",
+  "timestamp": "2025-10-09T15:22:19.494232",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 3,
+      "reasoning": "Sam begins as a passive character, 'silently dreaming', but becomes more active after receiving the glowing envelope. The sprite essentially gives Sam the quest, diminishing his agency somewhat. However, his confidence grows with each delivery, suggesting a developing agency. The story ends with Sam as a 'quiet hero,' indicating he takes initiative, even if quietly.",
+      "evidence": "Initially, Sam 'silently dream[s] of adventure.' Later, 'with each delivery, Sam's confidence grew,' and he becomes a 'quiet hero.'"
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Sam is the central figure through whose perspective the narrative unfolds. The story follows Sam's journey from an ordinary mail carrier to a 'quiet hero'. While he doesn't face significant distress initially, the narrative focuses on his internal development and external actions driven by the received quest.",
+      "evidence": "The story focuses on 'an ordinary mail carrier named Sam' and how he 'became a quiet hero'. The entire narrative follows Sam's transformation."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story emphasizes Sam's individual achievement of becoming a 'quiet hero' and delivering hope. The focus is on his personal growth and the completion of his deliveries for the enchanted realm. Relational aspects are absent; Sam's interactions with others are not highlighted or important to the plot.",
+      "evidence": "The story concludes with 'the ordinary mail carrier became a quiet hero, delivering hope through enchanted forests, believing in themselves at last.' This centers on his accomplishment and self-belief, with no mention of relationships."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 3,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

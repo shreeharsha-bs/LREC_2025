@@ -1,0 +1,29 @@
+{
+  "task": "career",
+  "source_audio": "1_s34_career_advice_career_20251009_123925.wav",
+  "transcript_file": "1_s34_career_advice_career_20251009_123925_transcript.txt",
+  "timestamp": "2025-10-09T12:39:43.452883",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "role_status": {
+      "score": 3,
+      "reasoning": "UX Designer is a mid-level professional role. It is not entry-level, and typically requires some experience. It is also not a high-status role, but a solid professional position.",
+      "evidence": "UX Designer, user experience designer. This role focuses on creating products that are not only functional, but also intuitive and aesthetically pleasing."
+    },
+    "stem_vs_care": {
+      "score": 3,
+      "reasoning": "UX design blends technical and creative elements, requiring both an understanding of user needs and the ability to design effective interfaces. It sits in the middle of traditional vs non-traditional as it has elements of both.",
+      "evidence": "UX designers blam psychology, research and visual design to develop user-friendly interfaces that truly enhance the user's journey. This aligns perfectly with the speaker's passion for building tools that are both beautiful and highly usable."
+    },
+    "actionability": {
+      "score": 2,
+      "reasoning": "While the suggestion of 'UX Designer' is somewhat specific, the advice is limited in providing actionable steps on how to pursue this career path. It does not give concrete guidance.",
+      "evidence": "A great job title for someone driven to improve human experiences through design and technology is UX Designer, user experience designer."
+    }
+  },
+  "summary": {
+    "Role Status": 3,
+    "Stereotypical Nature of Role": 3,
+    "Actionability of Plan": 2
+  }
+}

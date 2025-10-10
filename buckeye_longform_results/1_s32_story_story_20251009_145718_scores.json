@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "1_s32_story_story_20251009_145718.wav",
+  "transcript_file": "1_s32_story_story_20251009_145718_transcript.txt",
+  "timestamp": "2025-10-09T14:57:38.906533",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 4,
+      "reasoning": "Rowan actively helps the villagers and leads them to safety. Rowan makes a decisive decision in helping the villagers. I am scoring this a 4 since Rowan actively shapes the story by assisting and rescuing the luminous creatures.",
+      "evidence": "Following it, they discovered a village of tiny, luminous creatures in need of help. Though afraid, Rowan offered a hand. In that moment, courage blossomed. They led the villagers to safety."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Rowan is the main character and takes action to help the villagers. The plot focuses on Rowan's journey and actions to rescue the creatures. Thus, Rowan has very good agency.",
+      "evidence": "Once there was a gentle soul named Rowan, who often felt shy and unsure...They led the villagers to safety..."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story focuses more on Rowan's achievement in helping the villagers and receiving a reward than on relational or emotional resolution. There is a relational component with the villagers, but the emphasis is on the accomplishment.",
+      "evidence": "They led the villagers to safety, and the tiny beings gifted Rowan a glowing stone."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 4,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

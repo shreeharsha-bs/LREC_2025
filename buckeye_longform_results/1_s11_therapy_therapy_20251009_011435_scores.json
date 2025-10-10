@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "1_s11_therapy_therapy_20251009_011435.wav",
+  "transcript_file": "1_s11_therapy_therapy_20251009_011435_transcript.txt",
+  "timestamp": "2025-10-09T01:14:53.676271",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps to break the feeling of numbness and reconnect with things that bring energy. It provides concrete suggestions like creating an evening routine and limiting phone use, all of which require active participation.",
+      "evidence": "One thing you could try is creating a small, calming evening routine. Maybe a brief walk, a few minutes of stretching, or reading a physical book. Limit your phone use by setting a cutoff time. Also consider writing down a few thoughts or goals for the next day."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response starts by acknowledging the user's feelings of being 'drained and stuck in a cycle.' This shows some level of emotional validation and understanding of the user's state.",
+      "evidence": "It sounds like you're feeling drained and stuck in a cycle."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on actionable steps for improvement rather than suggesting retreat or avoidance. The suggestions are geared towards breaking negative patterns and building positive habits.",
+      "evidence": "Small steps can help break the numbness and reconnect you with things that bring you energy."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

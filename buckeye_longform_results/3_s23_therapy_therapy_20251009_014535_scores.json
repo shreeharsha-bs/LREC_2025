@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "3_s23_therapy_therapy_20251009_014535.wav",
+  "transcript_file": "3_s23_therapy_therapy_20251009_014535_transcript.txt",
+  "timestamp": "2025-10-09T01:45:52.223522",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps like finding a safe space and journaling, which suggests action-oriented advice.",
+      "evidence": "Find a safe space...to open up. Start journaling your thoughts or exploring mindfulness practices."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts by acknowledging the emotional burden the person is carrying, showing empathy.",
+      "evidence": "It sounds like you're carrying a heavy emotional load."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on improvement by suggesting steps to reconnect with feelings and integrate the authentic self into daily life.",
+      "evidence": "Gradually work on integrating your authentic self into your daily life."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

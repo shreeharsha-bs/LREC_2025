@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "5_s38_therapy_therapy_20251009_021710.wav",
+  "transcript_file": "5_s38_therapy_therapy_20251009_021710_transcript.txt",
+  "timestamp": "2025-10-09T02:17:29.202724",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response generally encourages action. It suggests breaking down workload, reintroducing joyful activities, and talking to trusted individuals. These are all proactive steps.",
+      "evidence": "Consider breaking your workload into smaller, manageable tasks. Try reintroducing activities that bring you joy, even in small doses. Talk to someone you trust, a mentor, friend, or counselor."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response begins by acknowledging and validating the user's feelings, stating 'It sounds like you're feeling burnt out and disconnected from your original purpose.' This demonstrates good emotional validation.",
+      "evidence": "It sounds like you're feeling burnt out and disconnected from your original purpose."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on improving the situation and taking actionable next steps towards renewed purpose. While it suggests a pause, the overall emphasis is on reconnecting with values and finding clarity, indicating a growth-oriented approach.",
+      "evidence": "Reconnecting with your deeper values can help you find clarity and gradually renew your sense of purpose."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

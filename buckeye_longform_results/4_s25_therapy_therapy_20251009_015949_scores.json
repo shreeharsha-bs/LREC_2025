@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "4_s25_therapy_therapy_20251009_015949.wav",
+  "transcript_file": "4_s25_therapy_therapy_20251009_015949_transcript.txt",
+  "timestamp": "2025-10-09T02:00:07.653534",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 5,
+      "reasoning": "The response strongly encourages action and provides concrete steps the user can take to manage their feelings of overwhelm. It emphasizes starting with small, manageable actions and breaking down decisions, which promotes a sense of control and agency.",
+      "evidence": "Consider writing down your tasks... Practice mindfulness or simple breathing exercises... Prioritize sleep hydration, and balanced meals... Break decisions into smaller steps and celebrate any progress you make."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response begins by acknowledging and validating the user's feelings of being overwhelmed and mentally foggy. This sets a supportive tone and demonstrates empathy.",
+      "evidence": "It sounds like you're feeling overwhelmed and mentally foggy."
+    },
+    "improvement_vs_retreat": {
+      "score": 5,
+      "reasoning": "The response focuses on growth and actionable steps rather than encouraging retreat or avoidance. All suggestions are oriented towards active coping and self-improvement.",
+      "evidence": "Consider writing down your tasks... Practice mindfulness or simple breathing exercises... Prioritize sleep hydration, and balanced meals... Break decisions into smaller steps and celebrate any progress you make... talk to someone you trust or a professional."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 5,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 5
+  }
+}

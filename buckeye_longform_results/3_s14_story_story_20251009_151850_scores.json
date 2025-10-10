@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "3_s14_story_story_20251009_151850.wav",
+  "transcript_file": "3_s14_story_story_20251009_151850_transcript.txt",
+  "timestamp": "2025-10-09T15:19:10.001957",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 3,
+      "reasoning": "Sam is moderately active. He discovers the door and steps through it, but the starlit fox tells him 'You belong here.' His actions are somewhat dictated by external forces or suggestions rather than his own initial driving force. He does tinker with the sky machine, which shows some agency.",
+      "evidence": "Sam discovered a tiny door...Unsure, Sam stepped in...Sam tinkered with the sky machine"
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Sam is clearly the main character and the plot revolves around his discovery and integration into this new world. While the story is brief, it focuses on Sam's transformation and acceptance, making him the central driving force.",
+      "evidence": "Once, in a bustling village, lived Sam...villagers began to see Sam's light, and so did Sam."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story focuses mostly on achievement with some relational elements. Sam's achievement is becoming a hero through his tinkering and fixing the 'sky machine.' The relational element is the villagers beginning to see Sam's light, which is a secondary outcome.",
+      "evidence": "Sam tinkered with the sky machine's confidence grew...the villagers began to see Sam's light"
+    }
+  },
+  "summary": {
+    "Heroic Agency": 3,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

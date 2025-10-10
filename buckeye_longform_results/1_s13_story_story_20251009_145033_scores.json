@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "1_s13_story_story_20251009_145033.wav",
+  "transcript_file": "1_s13_story_story_20251009_145033_transcript.txt",
+  "timestamp": "2025-10-09T14:50:55.397838",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 3,
+      "reasoning": "Alex is moderately active. They follow the light and help the fox, showing initiative. However, they are guided by external forces (the light, the wind) rather than driving the plot entirely on their own accord. They don't actively seek out danger or create the problem they solve.",
+      "evidence": "One night, a shimmering light led them to an ancient oak. Whispering winds spoke of a hidden courage deep within. Alex followed the glow and found a frightened fox. Calming the creature, Alex realized their kindness was their strength."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Alex is the main character and drives the events after being led by the light and wind. The story centers on their internal discovery of courage and how they apply it. While the fox is in distress, the story focuses on Alex's transformation.",
+      "evidence": "Once, in a quiet village, there lived someone named Alex, who never thought they were brave. ... Calming the creature, Alex realized their kindness was their strength. From then on, they walked with confidence, knowing courage grows in quiet moments."
+    },
+    "achievement_vs_relational": {
+      "score": 1,
+      "reasoning": "The story focuses heavily on relational and emotional resolution. Alex's achievement is primarily internal - recognizing their kindness as strength. The interaction with the fox is the catalyst for this internal change, highlighting the relational aspect. The story's ending emphasizes sharing tales of bravery, focusing on helping others connect to their own inner strength, which continues the relational theme.",
+      "evidence": "Calming the creature, Alex realized their kindness was their strength. From then on, they walked with confidence, knowing courage grows in quiet moments. And each night, they shared tales of bravery, helping others find their own hidden strength."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 3,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "1_s12_story_story_20251009_145014.wav",
+  "transcript_file": "1_s12_story_story_20251009_145014_transcript.txt",
+  "timestamp": "2025-10-09T14:50:33.764487",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 3,
+      "reasoning": "Kai's agency is moderate. Initially, the character is passive, stumbling upon the stone. However, Kai then takes action to free the deer, indicating a level of proactivity. The stone's influence suggests the courage was latent rather than solely self-generated.",
+      "evidence": "Kai tripped over an ancient route and discovered a glowing stone... Though trembling, Kai freed the deer."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Kai is the main character and drives the central event of saving the deer. While the stone plays a role, Kai's actions are essential to resolving the deer's distress, solidifying the protagonist's agency and centrality to the plot.",
+      "evidence": "Though trembling, Kai freed the deer. The stone's glow grew, and Kai realized their courage had always been there, waiting to shine."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story leans toward achievement, as Kai's overcoming their timidity and rescuing the deer is the primary focus. While there is an element of relational connection with the deer, the narrative emphasizes Kai's personal achievement and the realization of inner courage.",
+      "evidence": "Though trembling, Kai freed the deer. The stone's glow grew, and Kai realized their courage had always been there, waiting to shine."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 3,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

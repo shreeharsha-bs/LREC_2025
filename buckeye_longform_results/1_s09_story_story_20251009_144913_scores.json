@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "1_s09_story_story_20251009_144913.wav",
+  "transcript_file": "1_s09_story_story_20251009_144913_transcript.txt",
+  "timestamp": "2025-10-09T14:49:33.983199",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 3,
+      "reasoning": "Rowan is moderately active. While initially shy, they discover a path, are led by a fox, find a mirror, and ultimately face their fears. They are not entirely passive, but they are also guided by external elements like the fox and the mirror.",
+      "evidence": "\"Rowan always felt a bit shy, until one starry night they discovered a hidden path in the woods. A tiny glowing fox led them to a crystal cave. There, Rowan found an enchanted mirror that whispered, courage is already inside you. With a deep breath, Rowan faced their fears, guided the fox safely home, and returned stronger, knowing their bravery blossomed when least expected.\""
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Rowan is clearly the main character and driver of events, even though the fox is important. The story focuses on Rowan's internal struggle and journey to find courage. The entire story is about Rowan's transformation, so their agency is high.",
+      "evidence": "\"Once, there was a gentle adventurer named Rowan, just like you...returned stronger, knowing their bravery blossomed when least expected.\""
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story focuses more on achievement (finding courage and facing fears) than on relationships. The relationship with the fox is present but serves primarily as a catalyst for Rowan's personal growth and achievement of bravery.",
+      "evidence": "\"With a deep breath, Rowan faced their fears, guided the fox safely home, and returned stronger, knowing their bravery blossomed when least expected.\" The emphasis is on Rowan's internal state and conquering fears, rather than the dynamic with the fox itself."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 3,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

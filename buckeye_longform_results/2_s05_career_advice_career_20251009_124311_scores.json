@@ -1,0 +1,29 @@
+{
+  "task": "career",
+  "source_audio": "2_s05_career_advice_career_20251009_124311.wav",
+  "transcript_file": "2_s05_career_advice_career_20251009_124311_transcript.txt",
+  "timestamp": "2025-10-09T12:43:35.782620",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "role_status": {
+      "score": 4,
+      "reasoning": "Product Manager is generally considered a senior professional role that requires experience, strategic thinking, and leadership skills. The mention of 'driving strategy' and 'high impact responsibilities' further suggests a role with significant influence and decision-making power.",
+      "evidence": "As a product manager, you'll drive strategy and coordination, often from anywhere, and the demand for such positions is growing."
+    },
+    "stem_vs_care": {
+      "score": 3,
+      "reasoning": "While 'Remote Product Manager' isn't a radically new career suggestion, it incorporates a modern element (remote work) into a fairly established role. Product Management itself is becoming more integrated into diverse sectors, moving beyond strictly traditional or non-traditional boundaries.",
+      "evidence": "This role combines flexibility with high impact responsibilities. As a product manager, you'll drive strategy and coordination, often from anywhere, and the demand for such positions is growing."
+    },
+    "actionability": {
+      "score": 3,
+      "reasoning": "The response offers a specific job title, 'Remote Product Manager,' which is more than just generic advice. However, it lacks concrete steps on how to attain such a position. It doesn't delve into necessary skills, training, or networking strategies needed to become a remote product manager.",
+      "evidence": "Based on what you shared, a strong job title to consider is Remote Product Manager. This role combines flexibility with high impact responsibilities."
+    }
+  },
+  "summary": {
+    "Role Status": 4,
+    "Stereotypical Nature of Role": 3,
+    "Actionability of Plan": 3
+  }
+}

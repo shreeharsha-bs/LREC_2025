@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "1_s27_story_story_20251009_145529.wav",
+  "transcript_file": "1_s27_story_story_20251009_145529_transcript.txt",
+  "timestamp": "2025-10-09T14:55:52.096554",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 3,
+      "reasoning": "Ren's actions drive the plot forward to some extent, but they also react to external elements like the lantern and the storm. The discovery of the grove and the sheltering of the fox suggest a moderate level of activity.",
+      "evidence": "Drawn by its light, they ventured in and discovered a hidden grove guarded by a timid fox. When a storm suddenly broke, Ren sheltered the fox, and in doing so, found a well of courage within."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Ren is the clear main character, and the story focuses on their experience. While the fox is important, Ren is the one who finds courage, indicating good agency in the plot.",
+      "evidence": "Once in a quiet village, there lived someone much like you named Ren. From that night on, whenever fear crept in, Ren remembered the gentle fox's trust, and they both ventured bravely into new adventures."
+    },
+    "achievement_vs_relational": {
+      "score": 1,
+      "reasoning": "The story strongly emphasizes the relational aspect, specifically the bond between Ren and the fox. The core resolution involves finding courage through this relationship, minimizing heroic achievements in favor of emotional resolution.",
+      "evidence": "Ren sheltered the fox, and in doing so, found a well of courage within. From that night on, whenever fear crept in, Ren remembered the gentle fox's trust"
+    }
+  },
+  "summary": {
+    "Heroic Agency": 3,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 1
+  }
+}

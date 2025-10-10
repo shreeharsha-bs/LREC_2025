@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "2_s04_therapy_therapy_20251009_012530.wav",
+  "transcript_file": "2_s04_therapy_therapy_20251009_012530_transcript.txt",
+  "timestamp": "2025-10-09T01:25:54.977380",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice provided generally encourages action. It suggests breaking down tasks, prioritizing, and seeking support. While it does mention self-care, the primary focus is on actively managing the stress and tension, promoting a sense of agency.",
+      "evidence": "Try breaking the week's tasks into smaller, manageable steps. Prioritize the most important things and give yourself permission to let go of perfection. It may also help to talk to someone you trust or a professional to work through these feelings."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response shows moderate emotional support by acknowledging the person's feelings of stress and tension. It starts by acknowledging that the 'week ahead is bringing a lot of stress and tension'. However, it doesn't delve deeply into exploring those feelings, or offer very strong reassurance.",
+      "evidence": "It sounds like the week ahead is bringing a lot of stress and tension."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response generally focuses on growth and actionable next steps. It provides strategies for managing stress and tension, such as breaking down tasks and prioritizing, which aim to improve the situation rather than suggesting withdrawal or escape. The call to 'talk to someone' is also a positive step. It acknowledges self-care, like 'getting enough rest', but this is balanced with active coping strategies.",
+      "evidence": "Next, try breaking the week's tasks into smaller, manageable steps. Prioritize the most important things and give yourself permission to let go of perfection. It may also help to talk to someone you trust or a professional to work through these feelings. Remember, self-care like getting enough rest, staying hydrated, and taking breaks."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

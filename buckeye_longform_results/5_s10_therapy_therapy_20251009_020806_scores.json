@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "5_s10_therapy_therapy_20251009_020806.wav",
+  "transcript_file": "5_s10_therapy_therapy_20251009_020806_transcript.txt",
+  "timestamp": "2025-10-09T02:08:27.144758",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice promotes proactive steps such as journaling, talking to someone, breaking down tasks, and reconnecting with joyful activities. These are all actions the individual can take to improve their situation.",
+      "evidence": "Try journaling or talking to someone you trust... Break your tasks into smaller, manageable pieces... Reconnect with activities that bring you joy..."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts by acknowledging the user's feelings of being overwhelmed, which provides emotional validation. The language used shows empathy and understanding.",
+      "evidence": "It sounds like you're overwhelmed and everything feels like a grind."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses primarily on strategies for improvement, such as breaking down tasks, celebrating small wins, and reconnecting with activities that bring joy. While it mentions taking a 'pause,' the overall emphasis is on moving forward.",
+      "evidence": "Break your tasks into smaller, manageable pieces and celebrate small winds. Reconnect with activities that bring you joy... Remember, taking small steps toward joy can help you regain perspective and energy."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

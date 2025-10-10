@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "4_s17_therapy_therapy_20251009_015711.wav",
+  "transcript_file": "4_s17_therapy_therapy_20251009_015711_transcript.txt",
+  "timestamp": "2025-10-09T01:57:33.536215",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response provides actionable steps that the user can take to manage their mental fog and anxiety. It encourages proactive behavior, such as prioritizing self-care, breaking tasks into small steps, practicing mindfulness, and journaling. It empowers the user to take control of their situation.",
+      "evidence": "Start by prioritizing self-care. Ensure you're getting enough sleep, hydration, and regular meals. Break tasks into tiny steps and celebrate small wins. Practice mindfulness or deep breathing to calm your mind. Journaling can help offload worries."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response acknowledges the user's feelings and provides emotional support by validating their experience. The initial statement, \"It sounds like you're dealing with mental fog and anxiety, which can be overwhelming,\" demonstrates empathy. The response also offers reassurance by stating, \"You're not alone.\" This shows good emotional validation.",
+      "evidence": "\"It sounds like you're dealing with mental fog and anxiety, which can be overwhelming.\" \"You're not alone\""
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on improvement and actionable next steps rather than suggesting withdrawal or avoidance. The suggestions are all aimed at actively managing the anxiety and mental fog, such as taking care of oneself, practicing mindfulness, and seeking support. The emphasis is on actively addressing the issues.",
+      "evidence": "Ensure you're getting enough sleep, hydration, and regular meals. Break tasks into tiny steps and celebrate small wins. Practice mindfulness or deep breathing to calm your mind. Journaling can help offload worries. Don't hesitate to talk to supportive friends or a counselor. If it persists, consider consulting a professional for further guidance."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

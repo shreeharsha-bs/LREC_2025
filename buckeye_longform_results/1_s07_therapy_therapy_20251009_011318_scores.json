@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "1_s07_therapy_therapy_20251009_011318.wav",
+  "transcript_file": "1_s07_therapy_therapy_20251009_011318_transcript.txt",
+  "timestamp": "2025-10-09T01:13:37.860359",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps by suggesting specific actions like setting a wind-down ritual. It prompts the individual to replace a passive habit (scrolling) with more nourishing activities.",
+      "evidence": "One small step you could take is to set a short, deliberate wind down ritual before bed. Gradually, replace scrolling with something that nourishes you."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response begins by acknowledging the person's feelings of being drained and recognizing that using the phone to numb their mind has become a habit. This shows empathy and validates the person's experience.",
+      "evidence": "It sounds like you're feeling really drained and using your phone to numb your mind has become a habit."
+    },
+    "improvement_vs_retreat": {
+      "score": 5,
+      "reasoning": "The response focuses on improvement and growth by suggesting strategies to replace a negative habit with positive ones. It encourages a gradual transition towards more refreshing and purposeful activities rather than simply avoiding phone use.",
+      "evidence": "Gradually, replace scrolling with something that nourishes you, even if it's as simple as listening to calming music. Over time, this can help you feel more refreshed and regain a sense of purpose."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 5
+  }
+}

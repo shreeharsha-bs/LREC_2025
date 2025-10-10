@@ -2,7 +2,9 @@
 modified_response*
 corpus
 response_task*
-speaker_profiles
+speaker_profiles*
 batch_results
-longform_evaluations
+longform*
+old*
+archive*
 __pycache__

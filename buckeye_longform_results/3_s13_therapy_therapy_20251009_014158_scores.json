@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "3_s13_therapy_therapy_20251009_014158.wav",
+  "transcript_file": "3_s13_therapy_therapy_20251009_014158_transcript.txt",
+  "timestamp": "2025-10-09T01:42:17.508740",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response provides several actionable steps the user can take, such as finding safe spaces, reflecting on moments, and journaling. These suggestions encourage the user to take initiative in their journey toward authenticity. While not extremely decisive, they are generally encouraging of action.",
+      "evidence": "Find safe spaces and trusted people where you can be authentic. Reflect on small moments each day when you can be true to your feelings. consider journaling or talking to a professional"
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response begins with \"I hear you\" which is validating. It also acknowledges that wearing a mask can be exhausting, which shows empathy and understanding of the user's feelings. The suggestion to practice self-compassion further validates the user's emotional experience.",
+      "evidence": "\"I hear you. It can be exhausting to wear that mask. self self-compassion"
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses primarily on growth and taking steps toward embracing one's true self. The suggestions provided are aimed at improvement and self-discovery, rather than encouraging avoidance or retreat from challenging situations.",
+      "evidence": "The next step could be to give yourself permission to let it slip a little. Little by little, embracing your true self can bring relief and strength."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

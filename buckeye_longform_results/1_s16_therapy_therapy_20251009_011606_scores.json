@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "1_s16_therapy_therapy_20251009_011606.wav",
+  "transcript_file": "1_s16_therapy_therapy_20251009_011606_transcript.txt",
+  "timestamp": "2025-10-09T01:16:24.903061",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps like creating a calming evening routine, reading, journaling, meditating, and finding a hobby. These are all actions the user can take to improve their situation.",
+      "evidence": "Try reading a physical book, journaling, or doing a short meditation. Even stepping outside for a few minutes can help reset your mind. Over time, finding a hobby or an activity you enjoy can give you something to look forward to in the evenings."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response starts by acknowledging the user's feelings of mental exhaustion, providing a moderate level of emotional support.",
+      "evidence": "It sounds like you're feeling mentally exhausted and using your phone as a kind of escape."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response generally focuses on growth by suggesting activities that help the user reset their mind and find enjoyment. While it acknowledges the user's current coping mechanism (phone use), the suggestions lean towards improvement.",
+      "evidence": "Try reading a physical book, journaling, or doing a short meditation. Even stepping outside for a few minutes can help reset your mind. Over time, finding a hobby or an activity you enjoy can give you something to look forward to in the evenings."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

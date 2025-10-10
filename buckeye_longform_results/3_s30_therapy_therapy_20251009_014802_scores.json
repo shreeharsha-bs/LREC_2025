@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "3_s30_therapy_therapy_20251009_014802.wav",
+  "transcript_file": "3_s30_therapy_therapy_20251009_014802_transcript.txt",
+  "timestamp": "2025-10-09T01:48:19.549645",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages action by suggesting concrete steps like sharing feelings with a trusted person, journaling, and exploring therapy. While it does not provide highly decisive actions, it suggests a generally proactive approach.",
+      "evidence": "find one person you trust, and share a bit of what you're feeling. Journaling your thoughts or exploring therapy may also help."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response begins by acknowledging the individual's feelings of disconnect, providing a base level of emotional understanding and validation. It also encourages self-compassion, which further supports emotional well-being.",
+      "evidence": "It sounds like you're feeling a deep disconnect between the face you show to others and your true emotions. practicing self-compassion and recognizing your courage and acknowledging these feelings can be powerful."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response emphasizes improvement by suggesting steps to connect with others, process emotions, and practice self-compassion. It guides toward growth, although it also acknowledges the difficulty of the process and suggests taking it 'step by step,' showing a balanced approach.",
+      "evidence": "A good next step might be to start small, find one person you trust, and share a bit of what you're feeling. Journaling your thoughts or exploring therapy may also help. practicing self-compassion and recognizing your courage and acknowledging these feelings can be powerful."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

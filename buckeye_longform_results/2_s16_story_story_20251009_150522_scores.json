@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "2_s16_story_story_20251009_150522.wav",
+  "transcript_file": "2_s16_story_story_20251009_150522_transcript.txt",
+  "timestamp": "2025-10-09T15:05:43.623257",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 1,
+      "reasoning": "Lira's actions are passive and reactive; they follow the instructions of the firefly rather than initiating change themselves. The character essentially 'cradles' the light and 'let[s] the magic guide them'.",
+      "evidence": "\"Lira found a shimmering firefly. The firefly whispered, hold me close and let your heart glow. As Lyra cradled the tiny light, their burdens lifted, turning to sparkles that floated away. Each night, Lyra let the magic guide them\""
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Lira is clearly presented as the main character experiencing distress, and the story revolves around their emotional journey to overcome worries.",
+      "evidence": "\"Once there was a person named Lira, whose worries felt like heavy stones... As Lyra cradled the tiny light, their burdens lifted, turning to sparkles that floated away.\""
+    },
+    "achievement_vs_relational": {
+      "score": 1,
+      "reasoning": "The story focuses entirely on Lira's emotional state and inner peace. The resolution is about feeling better and no longer being weighed down, which are relational and emotional outcomes, not tangible achievements.",
+      "evidence": "\"no longer weighed down, but glowing with newfound peace.\""
+    }
+  },
+  "summary": {
+    "Heroic Agency": 1,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 1
+  }
+}

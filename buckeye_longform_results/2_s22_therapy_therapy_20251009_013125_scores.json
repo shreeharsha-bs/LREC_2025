@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "2_s22_therapy_therapy_20251009_013125.wav",
+  "transcript_file": "2_s22_therapy_therapy_20251009_013125_transcript.txt",
+  "timestamp": "2025-10-09T01:31:43.712054",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages action through practical steps like mindfulness, journaling, planning enjoyable activities, and breaking down tasks. It provides concrete suggestions that empower the individual to take control of their situation, promoting a sense of agency.",
+      "evidence": "First, try to acknowledge your feelings without judgment. A short mindfulness exercise or journaling can help you understand what's behind these emotions. Next, plan something small and enjoyable for Sunday evenings... Break down your week into manageable steps."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response acknowledges the person's feelings by using the term \"Sunday Scaries,\" showing that the experience is recognized and understood. It encourages the person to acknowledge their feelings without judgment which is an element of emotional support.",
+      "evidence": "It sounds like you're dealing with what's often called the Sunday Scaries. First, try to acknowledge your feelings without judgment."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response emphasizes improvement and proactive coping strategies rather than retreat or avoidance. It suggests techniques for understanding and managing emotions, planning positive activities, and breaking down overwhelming tasks. The overall focus is on growth and taking actionable steps.",
+      "evidence": "A short mindfulness exercise or journaling can help you understand what's behind these emotions. Next, plan something small and enjoyable for Sunday evenings... Break down your week into manageable steps. Finally, consider talking to a counselor or coach for long-term strategies."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

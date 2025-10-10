@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "3_s15_therapy_therapy_20251009_014236.wav",
+  "transcript_file": "3_s15_therapy_therapy_20251009_014236_transcript.txt",
+  "timestamp": "2025-10-09T01:43:00.703086",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages the user to take proactive steps such as journaling, talking to someone, seeking counseling, and finding moments of genuineness. While it suggests seeking support, it emphasizes action and personal effort, leaning towards promoting agency.",
+      "evidence": "Start by journaling your thoughts, or talking to someone you trust. Consider small moments where you can be genuine with yourself. Seeking support from a counselor or therapist can help break down those walls."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response demonstrates good emotional validation by acknowledging the user's feelings and recognizing the weight they are carrying. It provides comfort and support by validating the importance of acknowledging those feelings.",
+      "evidence": "I hear how much you're carrying, and it's important to acknowledge those feelings."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response generally focuses on growth and actionable next steps, encouraging vulnerability and authenticity rather than avoidance or withdrawal. It emphasizes small steps toward feeling whole, indicating a path towards improvement.",
+      "evidence": "Remember, vulnerability can be a strength, and each small step toward authenticity brings you closer to feeling whole."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

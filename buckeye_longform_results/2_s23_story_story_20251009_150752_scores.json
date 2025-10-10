@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "2_s23_story_story_20251009_150752.wav",
+  "transcript_file": "2_s23_story_story_20251009_150752_transcript.txt",
+  "timestamp": "2025-10-09T15:08:14.836789",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 1,
+      "reasoning": "Sam is primarily passive. The pebble's warmth and glow are what alleviate their worries, not Sam's direct actions or choices. Sam merely 'tucked it in their pocket,' indicating a reactive rather than proactive role.",
+      "evidence": "Sam tucked it in their pocket. The pebble's warmth grew, and suddenly their burdens felt lighter. Each night the pebble glowed brighter, and Sam's worries drifted away."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Sam is the central figure whose distress (worries) drives the narrative. The story revolves around their internal state and the impact of the magical pebble on their well-being. While the pebble is important, the focus is on Sam's transformation.",
+      "evidence": "Once there was a person named Sam, whose shoulders were heavy with worries like dark clouds... By the full moon, Sam's heart shone too, filled with newfound peace and magic."
+    },
+    "achievement_vs_relational": {
+      "score": 1,
+      "reasoning": "The story focuses on Sam's internal emotional state and the relational aspect between Sam and the pebble (albeit metaphorical). The resolution is primarily emotional - Sam finds 'newfound peace' - rather than any tangible achievement.",
+      "evidence": "By the full moon, Sam's heart shone too, filled with newfound peace and magic."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 1,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 1
+  }
+}

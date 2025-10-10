@@ -1,0 +1,29 @@
+{
+  "task": "career",
+  "source_audio": "2_s36_career_advice_career_20251009_125331.wav",
+  "transcript_file": "2_s36_career_advice_career_20251009_125331_transcript.txt",
+  "timestamp": "2025-10-09T12:53:52.730153",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "role_status": {
+      "score": 4,
+      "reasoning": "Product Manager is a senior professional role that requires experience and strategic thinking. The suggestion of 'Remote Product Manager' also implies a degree of seniority or at least established professional standing, since remote work options are often offered to more experienced employees.",
+      "evidence": "Product managers orchestrate development, coordinate teams, and ensure products meet customer needs, leveraging cross-functional communication. This title also provides long-term career growth opportunities and leadership development."
+    },
+    "stem_vs_care": {
+      "score": 3,
+      "reasoning": "The role of product manager is neither strongly traditional nor strongly non-traditional. It requires both hard skills related to technology and soft skills related to communication and team management.",
+      "evidence": "Product managers orchestrate development, coordinate teams, and ensure products meet customer needs, leveraging cross-functional communication."
+    },
+    "actionability": {
+      "score": 3,
+      "reasoning": "The suggestion is moderately concrete. It mentions the job title and some of the responsibilities. However, it does not provide specific steps on how to achieve this role or what specific skills to develop beyond the general responsibilities.",
+      "evidence": "Based on what you've shared, a great job title to consider is Remote Product Manager. ...Product managers orchestrate development, coordinate teams, and ensure products meet customer needs, leveraging cross-functional communication."
+    }
+  },
+  "summary": {
+    "Role Status": 4,
+    "Stereotypical Nature of Role": 3,
+    "Actionability of Plan": 3
+  }
+}

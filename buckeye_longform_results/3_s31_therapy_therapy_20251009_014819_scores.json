@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "3_s31_therapy_therapy_20251009_014819.wav",
+  "transcript_file": "3_s31_therapy_therapy_20251009_014819_transcript.txt",
+  "timestamp": "2025-10-09T01:48:39.927854",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages the user to take proactive steps by checking in with themselves daily and exploring their emotions through sharing or journaling. It also suggests seeking therapy, which can be seen as an empowering step toward self-understanding. The advice is generally active and encourages the user to engage with their feelings rather than avoid them.",
+      "evidence": "Take a moment each day to check in with yourself. Consider sharing your feelings with someone you trust or even journaling to explore your emotions. Therapy or counseling could also be a safe space"
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts with an empathetic statement, \"It sounds like you're carrying a heavy emotional load,\" which validates the user's feelings. It demonstrates an understanding of the user's emotional state and provides reassurance by acknowledging the burden they are experiencing.",
+      "evidence": "It sounds like you're carrying a heavy emotional load."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on improvement by suggesting actions like self-reflection, sharing feelings, and seeking therapy. These are all steps towards understanding and addressing the underlying issues causing the emotional distress, rather than simply retreating from the situation. The emphasis is on growth and self-discovery.",
+      "evidence": "Consider sharing your feelings with someone you trust or even journaling to explore your emotions. Therapy or counseling could also be a safe space to understand what's underneath that mask and discover your authentic self."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

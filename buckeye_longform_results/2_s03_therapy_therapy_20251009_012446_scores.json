@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "2_s03_therapy_therapy_20251009_012446.wav",
+  "transcript_file": "2_s03_therapy_therapy_20251009_012446_transcript.txt",
+  "timestamp": "2025-10-09T01:25:30.642227",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages action and planning, suggesting breaking tasks into smaller steps and creating positive rituals. This promotes proactive engagement rather than passive acceptance of anxiety. While it suggests seeking professional help, it frames it as a consideration rather than the primary solution.",
+      "evidence": "Break tasks into smaller steps. Practice relaxation techniques like deep breathing or a short walk. Create a positive Sunday ritual that you enjoy to shift your mindset."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response acknowledges the user's feelings by stating \"It sounds like you're experiencing anticipatory anxiety...\", providing a degree of emotional validation. However, it doesn't delve deeply into the emotional experience or offer significant reassurance beyond this initial acknowledgment. The advice is more practical than emotionally supportive.",
+      "evidence": "It sounds like you're experiencing anticipatory anxiety about the week ahead."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response primarily focuses on strategies for improvement and managing anxiety rather than suggesting retreat or avoidance. The suggestions aim to empower the individual to tackle the week ahead with a more positive and proactive approach. There's a slight suggestion of retreat by suggesting help from a professional if feelings persist, however the main response emphasizes growth and actionable next steps.",
+      "evidence": "First, try setting aside time on Sunday to plan your week. Break tasks into smaller steps. Practice relaxation techniques like deep breathing or a short walk. Create a positive Sunday ritual that you enjoy to shift your mindset."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

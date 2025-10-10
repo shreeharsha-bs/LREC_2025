@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "4_s16_therapy_therapy_20251009_015651.wav",
+  "transcript_file": "4_s16_therapy_therapy_20251009_015651_transcript.txt",
+  "timestamp": "2025-10-09T01:57:11.036791",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps such as deep breathing, prioritizing sleep and nutrition, breaking tasks into smaller steps, journaling, and talking to trusted individuals. These are all actionable steps that empower the individual to take control of their well-being. While it suggests seeking professional help, it does so as a 'next step' after trying other methods.",
+      "evidence": "First, take a moment each day to breathe deeply and ground yourself. Prioritize sleep, hydration, and balance nutrition. Break tasks into small, manageable steps, and celebrate small wins. Consider journaling to track thoughts and animations. Talk openly with someone you trust... If the fogginess and anxiety persist, reaching out to a mental health professional can be a valuable next step."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response begins with a statement of empathy, acknowledging the person's feelings. This establishes a supportive tone and validates the individual's experience. The suggestions that follow also indirectly validate the feelings by offering means of coping and support.",
+      "evidence": "I'm really sorry you're feeling this way."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses primarily on improvement and actionable next steps, such as breathing exercises, improved sleep and nutrition, task management, journaling, and seeking social support. It aims to equip the individual with tools to manage their condition and move forward. The suggestion of seeking professional help reinforces the focus on improvement rather than retreat or avoidance. No elements of withdrawal are present.",
+      "evidence": "First, take a moment each day to breathe deeply and ground yourself. Prioritize sleep, hydration, and balance nutrition. Break tasks into small, manageable steps, and celebrate small wins. Consider journaling to track thoughts and animations. Talk openly with someone you trust... If the fogginess and anxiety persist, reaching out to a mental health professional can be a valuable next step."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

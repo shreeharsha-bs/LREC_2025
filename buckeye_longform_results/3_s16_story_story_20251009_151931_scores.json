@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "3_s16_story_story_20251009_151931.wav",
+  "transcript_file": "3_s16_story_story_20251009_151931_transcript.txt",
+  "timestamp": "2025-10-09T15:19:52.381071",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 4,
+      "reasoning": "Milo takes a decisive action by baking enchanted bread to save the village, showing a significant degree of agency. He initially follows the pixie, but ultimately, his actions are instrumental in resolving the central conflict.",
+      "evidence": "Milo baked enchanted bread that brought courage to all."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Milo is the main character. The story revolves around his journey and his actions. While the pixie initiates the adventure, Milo is the one who directly addresses the threat and saves the village. He progresses from a shy baker to a hero.",
+      "evidence": "Quietly, Milo became the village's hero, believing in himself at last."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story focuses primarily on Milo's achievement of becoming a hero and saving the village. While his newfound belief in himself could be interpreted as relational, the main emphasis is on his accomplishment and transformation in the external world, rather than on changes in his relationships with other characters. The enchantment of the bread is also a pure achievement. The story is about how he overcomes his shyness and takes action.",
+      "evidence": "When the village was threatened by a darkness, Milo baked enchanted bread that brought courage to all. Quietly, Milo became the village's hero, believing in himself at last."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 4,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

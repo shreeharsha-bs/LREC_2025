@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "2_s11_therapy_therapy_20251009_012748.wav",
+  "transcript_file": "2_s11_therapy_therapy_20251009_012748_transcript.txt",
+  "timestamp": "2025-10-09T01:28:07.693530",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages action-oriented steps like breaking down tasks, setting realistic goals, and engaging in enjoyable activities. These are all proactive strategies.",
+      "evidence": "Next, try breaking down your week into smaller, manageable tasks and set realistic goals. Engage in activities that bring you joy and help you recharge."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response shows some emotional validation by acknowledging the user's feelings of anticipatory anxiety. However, it doesn't delve deeply into exploring those feelings or offering strong reassurance, staying at a moderate level.",
+      "evidence": "It sounds like you're experiencing anticipatory anxiety about the week ahead."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response primarily focuses on growth and actionable next steps to manage anxiety.  It suggests techniques for improvement, such as mindfulness, relaxation, and breaking down tasks, rather than suggesting retreat or avoidance. It only hints at retreat/avoidance by mentioning getting a therapist.",
+      "evidence": "Practice mindfulness or relaxation techniques, like deep breathing or short meditations, especially on Sunday afternoons. If the tightness persists, consider talking to a therapist or counselor who can help you work through these feelings."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "3_s29_therapy_therapy_20251009_014742.wav",
+  "transcript_file": "3_s29_therapy_therapy_20251009_014742_transcript.txt",
+  "timestamp": "2025-10-09T01:48:02.065067",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response generally encourages action. It provides concrete steps like journaling, talking to someone, practicing mindfulness, and gradually sharing emotions. These are all proactive behaviors that require the user to take initiative.",
+      "evidence": "Try journaling your thoughts or talking openly with someone you trust, even a therapist. Practicing mindfulness or meditation can help you reconnect with your true self. Break down the mask by gradually sharing your authentic emotions in safe spaces."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response offers good emotional validation. It starts by acknowledging the user's feelings, which is a fundamental aspect of emotional support. It gives permission to feel vulnerable and emphasizes self-compassion.",
+      "evidence": "It sounds like you're carrying a heavy emotional load. First, acknowledge your feelings. Give yourself permission to feel vulnerable. Remember, self-compassion is key."
+    },
+    "improvement_vs_retreat": {
+      "score": 5,
+      "reasoning": "The response focuses on growth and actionable next steps. The suggestions are aimed at improving the user's emotional state and promoting self-expression. There is a strong emphasis on moving forward and building a healthier emotional life.",
+      "evidence": "Take small steps toward expressing your real self and celebrate your progress."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 5
+  }
+}

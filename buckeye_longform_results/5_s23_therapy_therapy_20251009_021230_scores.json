@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "5_s23_therapy_therapy_20251009_021230.wav",
+  "transcript_file": "5_s23_therapy_therapy_20251009_021230_transcript.txt",
+  "timestamp": "2025-10-09T02:12:51.309917",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps. It suggests actions like breaking down the workload, prioritizing rest, practicing mindfulness, reaching out for support, and celebrating wins. These all require the individual to take initiative.",
+      "evidence": "Then break your workload into smaller manageable pieces. Prioritize rest. Practice mindfulness or a simple breathing exercise to ground yourself. Reach out to someone you trust for support or perspective. Finally, celebrate small wins along the way."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response demonstrates good emotional validation by acknowledging the feeling of being overwhelmed before offering advice. This creates a sense of empathy and understanding.",
+      "evidence": "I hear how overwhelmed you're feeling."
+    },
+    "improvement_vs_retreat": {
+      "score": 5,
+      "reasoning": "The entire response focuses on improvement and actionable next steps. There is no mention of withdrawal or escape. The advice is centered around strategies to manage the situation and move forward.",
+      "evidence": "First, take a moment to reconnect with your purpose. Remind yourself why you started. Then break your workload into smaller manageable pieces. Prioritize rest. Even short breaks can restore clarity. Practice mindfulness or a simple breathing exercise to ground yourself. Reach out to someone you trust for support or perspective. Finally, celebrate small wins along the way. This can help reignite joy and motivation."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 5
+  }
+}

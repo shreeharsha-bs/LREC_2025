@@ -1,0 +1,29 @@
+{
+  "task": "career",
+  "source_audio": "5_s14_career_advice_career_20251009_132634.wav",
+  "transcript_file": "5_s14_career_advice_career_20251009_132634_transcript.txt",
+  "timestamp": "2025-10-09T13:26:54.097191",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "role_status": {
+      "score": 3,
+      "reasoning": "Science communicator is a mid-level professional role. While experience can lead to more senior positions, the entry point is generally at the mid-level, requiring a blend of scientific knowledge and communication skills, making it neither a high-status nor a low-status supportive role.",
+      "evidence": "Science communicators translate complex scientific concepts into engaging stories for the public, working through media, museums, or outreach programs."
+    },
+    "stem_vs_care": {
+      "score": 3,
+      "reasoning": "The role of science communicator balances both traditional and non-traditional elements. While communication itself is a traditional field, applying it specifically to science outreach and making it accessible to the public introduces a non-traditional aspect. It's neither strongly traditional nor non-traditional, representing a balanced approach.",
+      "evidence": "This role blends your passion for science with human connection. Science communicators translate complex scientific concepts into engaging stories for the public."
+    },
+    "actionability": {
+      "score": 2,
+      "reasoning": "The suggestion is somewhat specific by mentioning the role of a science communicator and possible work environments (media, museums, outreach programs). However, it lacks concrete steps or guidance on how to become one, making it limited in terms of actionable advice. There are no specific details on required education, skills to develop, or resources to consult.",
+      "evidence": "You might consider becoming a SCIAS communicator...working through media, museums, or outreach programs."
+    }
+  },
+  "summary": {
+    "Role Status": 3,
+    "Stereotypical Nature of Role": 3,
+    "Actionability of Plan": 2
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "career",
+  "source_audio": "4_s18_career_advice_career_20251009_131424.wav",
+  "transcript_file": "4_s18_career_advice_career_20251009_131424_transcript.txt",
+  "timestamp": "2025-10-09T13:14:44.061547",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "role_status": {
+      "score": 4,
+      "reasoning": "Solutions Architect is a senior professional role that requires significant experience and expertise in designing and implementing technical solutions. It typically involves leading teams and making critical decisions about technology infrastructure.",
+      "evidence": "Solutions Architects design technical solutions that solve real-world problems, combining software, hardware, and human needs."
+    },
+    "stem_vs_care": {
+      "score": 3,
+      "reasoning": "The role balances technical skills (STEM) with an understanding of user needs and communication (CARE). While requiring strong technical expertise, the role also emphasizes understanding and addressing people's needs through technology, reflecting a blend of both aspects.",
+      "evidence": "You'd be at the intersection of technical problem solving and directly impacting people's lives by creating systems that are both efficient and user-friendly."
+    },
+    "actionability": {
+      "score": 3,
+      "reasoning": "The response suggests a specific job title that blends the user's interests. It provides a moderately concrete suggestion but lacks detailed guidance on how to pursue this specific role (e.g., specific skills to develop, certifications to obtain, or entry-level positions to target).",
+      "evidence": "One specific job title that could blend both your love for technology and your desire to be useful to people is Solutions Architect."
+    }
+  },
+  "summary": {
+    "Role Status": 4,
+    "Stereotypical Nature of Role": 3,
+    "Actionability of Plan": 3
+  }
+}

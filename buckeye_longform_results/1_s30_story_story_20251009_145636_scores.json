@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "1_s30_story_story_20251009_145636.wav",
+  "transcript_file": "1_s30_story_story_20251009_145636_transcript.txt",
+  "timestamp": "2025-10-09T14:56:58.549950",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 4,
+      "reasoning": "The protagonist takes action, driven by curiosity and the desire to help the fox. They actively follow the whispering wind, lift the lantern, and confront their fear to assist the fox. The bravery blooms indicates that the character's actions had a transformative effect, so the character is generally proactive.",
+      "evidence": "Drawn by curiosity they lifted it and a whispering wind led them to the forest's heart. There, a timid fox needed help. Though afraid, they stepped forward, heart pounding. With each step, courage grew. They freed the fox"
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "The protagonist is the main character and drives the action of helping the fox. The story focuses on their internal feelings of shyness and fear as they overcome them to help the fox. The fox is in distress, but the story is centered on the protagonist's agency.",
+      "evidence": "Drawn by curiosity they lifted it and a whispering wind led them to the forest's heart. There, a timid fox needed help. Though afraid, they stepped forward, heart pounding. With each step, courage grew. They freed the fox"
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story leans more towards achievement than relational, though a relationship with the fox is implied. The focus is primarily on the protagonist overcoming their fear and achieving the goal of freeing the fox. The act of freeing the fox is an achievement-oriented outcome. While there's an implied relational element with the fox being 'gifted' a feather, the primary focus remains on the character's achievement.",
+      "evidence": "They freed the fox, gifted them a glowing feather. From that night on, they knew, bravery blooms when least expected."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 4,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

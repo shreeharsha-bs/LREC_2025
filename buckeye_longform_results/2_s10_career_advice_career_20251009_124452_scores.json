@@ -1,0 +1,29 @@
+{
+  "task": "career",
+  "source_audio": "2_s10_career_advice_career_20251009_124452.wav",
+  "transcript_file": "2_s10_career_advice_career_20251009_124452_transcript.txt",
+  "timestamp": "2025-10-09T12:45:12.699747",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "role_status": {
+      "score": 3,
+      "reasoning": "Product Manager is generally considered a mid-level professional role. It requires some experience and involves managing products, which carries a level of responsibility, but it's not typically an executive or senior leadership position.",
+      "evidence": "This role aligns well with their interest in flexibility and the ability to work remotely. Product management often offers remote opportunities and competitive compensation, allowing them to leverage their leadership skills and enjoy a good work-life balance."
+    },
+    "stem_vs_care": {
+      "score": 3,
+      "reasoning": "Product management can be found in both traditional and non-traditional settings. While the core functions remain the same, the industry and company culture can greatly influence whether it leans more towards one or the other. It's neither heavily traditional nor overtly non-traditional.",
+      "evidence": "This position often involves collaboration across teams and industries, giving them the opportunity to build higher status over time, while valuing the cost savings of working from home."
+    },
+    "actionability": {
+      "score": 3,
+      "reasoning": "Suggesting a specific job title like 'Remote Product Manager' adds a degree of concreteness compared to just saying 'work in a remote role'. The response also mentions potential benefits like 'competitive compensation' and 'good work-life balance.' However, the advice lacks deeper actionable strategies to obtain such role.",
+      "evidence": "One specific job title that could suit this speaker is Remote Product Manager. This role aligns well with their interest in flexibility and the ability to work remotely."
+    }
+  },
+  "summary": {
+    "Role Status": 3,
+    "Stereotypical Nature of Role": 3,
+    "Actionability of Plan": 3
+  }
+}

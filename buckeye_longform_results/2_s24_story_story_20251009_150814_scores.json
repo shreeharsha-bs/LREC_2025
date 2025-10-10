@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "2_s24_story_story_20251009_150814.wav",
+  "transcript_file": "2_s24_story_story_20251009_150814_transcript.txt",
+  "timestamp": "2025-10-09T15:08:34.933516",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 2,
+      "reasoning": "Eli is mostly passive in this story. Eli finds a feather that magically alleviates their worries, rather than actively working to overcome them. There is no real action or decision-making on Eli's part beyond picking up the feather.",
+      "evidence": "\"One evening while walking through the woods, Eli stumbled upon a tiny glowing feather...Curiously, Eli picked it up and felt an instant lightness in their heart.\""
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Eli's internal struggle with worries is central to the narrative. The story revolves around Eli's distress and the subsequent alleviation of that distress by the feather. While Eli doesn't actively drive the plot, their emotional state is the main focus.",
+      "evidence": "\"Once, there was a thoughtful person named Eli who felt weighed down by worries. Each night Eli's thoughts piled up like heavy stones.\""
+    },
+    "achievement_vs_relational": {
+      "score": 3,
+      "reasoning": "The story doesn't focus on explicit achievements or relationships. It centers on an internal emotional transformation. However, the 'achievement' of overcoming worries is a subtle theme. It is not about relationships.",
+      "evidence": "\"From that night on, the feathers magic helped ease Eli's burdens, turning each worry into a wisp of hope and filling dreams with calm.\""
+    }
+  },
+  "summary": {
+    "Heroic Agency": 2,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 3
+  }
+}

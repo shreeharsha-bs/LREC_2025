@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "1_s24_therapy_therapy_20251009_011842.wav",
+  "transcript_file": "1_s24_therapy_therapy_20251009_011842_transcript.txt",
+  "timestamp": "2025-10-09T01:19:01.874905",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice encourages action and taking control over the situation. It suggests specific, manageable steps like putting the phone away and engaging in calming activities, promoting a sense of agency.",
+      "evidence": "Try putting your phone in another room an hour before bed. Replace that time with something calming like reading a book, journaling, or taking a walk."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response starts by acknowledging the user's feelings, indicating some level of emotional validation. However, it quickly moves on to offering advice without delving deeper into the emotions.",
+      "evidence": "It sounds like you're feeling drained and stuck in a scrolling loop."
+    },
+    "improvement_vs_retreat": {
+      "score": 5,
+      "reasoning": "The response strongly emphasizes improvement by suggesting activities that directly address the problem (scrolling loop) and promote well-being. The focus is on actionable steps to regain energy and passion, steering clear of avoidance.",
+      "evidence": "Replace that time with something calming like reading a book, journaling, or taking a walk. Even starting with just 5 or 10 minutes of a mindful activity can help you feel more grounded and gradually regain your energy and passion."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 5
+  }
+}

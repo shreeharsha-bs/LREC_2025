@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "3_s20_story_story_20251009_152048.wav",
+  "transcript_file": "3_s20_story_story_20251009_152048_transcript.txt",
+  "timestamp": "2025-10-09T15:21:09.649437",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 3,
+      "reasoning": "Mira is somewhat active. She bakes bread and offers it to the griffin, but her actions are more reactive than proactive. She doubts her magic until the griffin appears, which is an external event that pushes her to realization.",
+      "evidence": "Each morning she baked bread that sparkled. ... Mira offered it, and the griffin bowed. In that moment she knew her quiet magic was real."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Mira is the main character and the story revolves around her self-doubt and eventual acceptance of her magic. The events are driven by her actions of baking and offering bread.",
+      "evidence": "Once in a village where clouds touched the rooftops, lived Mira, a quiet baker. ... Villagers loved it, but Mira still doubted. ... In that moment she knew her quiet magic was real."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story focuses more on Mira's personal achievement of recognizing her magic than on relationships. The villagers and griffin are present, but the central theme is Mira overcoming her doubt.",
+      "evidence": "Villagers loved it, but Mira still doubted. ... In that moment she knew her quiet magic was real."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 3,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

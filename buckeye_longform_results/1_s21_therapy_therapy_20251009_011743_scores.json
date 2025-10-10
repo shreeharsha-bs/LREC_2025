@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "1_s21_therapy_therapy_20251009_011743.wav",
+  "transcript_file": "1_s21_therapy_therapy_20251009_011743_transcript.txt",
+  "timestamp": "2025-10-09T01:18:01.987872",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice given encourages action rather than passivity. It suggests specific steps to take, such as creating a calming bedtime routine and journaling, to address the issue of phone overuse.",
+      "evidence": "One thing you could try next is setting a small calming routine before bed, like reading a book, doing some gentle stretches, or listening to soothing music. Also, consider jotting down a few thoughts or feelings in a journal to process the day."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response begins by acknowledging the user's feelings of exhaustion, which provides some emotional validation. However, it quickly transitions into offering solutions without delving deeper into the emotional aspect.",
+      "evidence": "It sounds like you're feeling exhausted and using your phone as a way to check out."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The advice focuses on improving the situation by addressing the underlying issues that lead to excessive phone use, such as stress and lack of relaxation. It suggests proactive steps to promote well-being and reduce reliance on the phone.",
+      "evidence": "This can help give your mind a break from the screen and allow you to unwind naturally. Also, consider jotting down a few thoughts or feelings in a journal to process the day."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

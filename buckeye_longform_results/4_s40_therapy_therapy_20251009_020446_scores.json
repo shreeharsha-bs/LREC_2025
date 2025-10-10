@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "4_s40_therapy_therapy_20251009_020446.wav",
+  "transcript_file": "4_s40_therapy_therapy_20251009_020446_transcript.txt",
+  "timestamp": "2025-10-09T02:05:04.547354",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps like jotting down tasks, practicing mindfulness, and talking to someone. It also suggests setting realistic expectations and celebrating small wins which are all actions someone can take.",
+      "evidence": "Try jotting down small tasks and decisions to simplify your day. Practicing mindfulness or short breathing exercises can ease the fog. Consider talking to someone you trust or a mental health professional...Setting realistic expectations and celebrating small wins can also help rebuild confidence."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts with 'I'm really sorry you're feeling this way' which directly acknowledges the user's feelings and provides a degree of emotional support. The rest of the response suggests ways to cope and improve the user's situation, demonstrating empathy.",
+      "evidence": "I'm really sorry you're feeling this way."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on actionable steps for improvement, such as simplifying tasks, practicing mindfulness, and seeking support. While it mentions slowing down, the overall emphasis is on moving forward and rebuilding confidence.",
+      "evidence": "Start by giving yourself permission to slow down...Try jotting down small tasks and decisions to simplify your day. Practicing mindfulness or short breathing exercises can ease the fog...Setting realistic expectations and celebrating small wins can also help rebuild confidence."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

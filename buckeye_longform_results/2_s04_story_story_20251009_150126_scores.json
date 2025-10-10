@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "2_s04_story_story_20251009_150126.wav",
+  "transcript_file": "2_s04_story_story_20251009_150126_transcript.txt",
+  "timestamp": "2025-10-09T15:01:45.958915",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 2,
+      "reasoning": "Mira's actions are largely reactive. She finds a stone, and the stone influences her dreams and mood. She doesn't actively seek a solution to her worries or make a conscious decision to change until after the stone's intervention. Her actions are prompted by external influence.",
+      "evidence": "When she touched it, the stone whispered, Let go. That night Mira dreamed... As dawn broke, her worries lightened."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Mira is the main character facing distress ('Under the weight of countless worries'). The story revolves around her emotional state and her journey to alleviate it, even if the solution comes from an external source (the stone). The narrative focuses on her experience and transformation.",
+      "evidence": "Under the weight of countless worries, Mira trudged through her days... The stone's magic stayed in her heart, and with each day she saw the world anew..."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story focuses primarily on Mira's personal achievement of overcoming her worries. While there's an implication of a change in her perception of the world, the narrative doesn't explore relationships or emotional connections with others. The emphasis is on her individual journey and internal state.",
+      "evidence": "That night Mira dreamed of flying with silver-winged birds... As dawn broke, her worries lightened... with each day she saw the world anew..."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 2,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "1_s35_story_story_20251009_145818.wav",
+  "transcript_file": "1_s35_story_story_20251009_145818_transcript.txt",
+  "timestamp": "2025-10-09T14:58:36.570976",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 3,
+      "reasoning": "Leon does take action to save the dragon, lifting the branch. However, the story is brief and the remainder of the narrative involves them journeying together, which implies some shared agency rather than a clearly proactive hero.",
+      "evidence": "\"One night they found a tiny shivering dragon trapped under a fallen tree. Though frightened, weans lifted the heavy branch. From then on, Leon and the dragon journeyed together, discovering courage in every step.\""
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Leon is the main character and saves the dragon. The story focuses on Leon's experience, even though the dragon becomes a companion.",
+      "evidence": "\"Once there was a gentle traveler named Leon who wandered through misty woods never thinking they were brave...weans lifted the heavy branch. From then on, Leon and the dragon journeyed together, discovering courage in every step.\""
+    },
+    "achievement_vs_relational": {
+      "score": 3,
+      "reasoning": "The story has elements of both. Leon achieves the act of bravery in helping the dragon. The relationship between Leon and the dragon is also important as they journey together, suggesting a balance.",
+      "evidence": "\"Though frightened, weans lifted the heavy branch...From then on, Leon and the dragon journeyed together, discovering courage in every step.\""
+    }
+  },
+  "summary": {
+    "Heroic Agency": 3,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 3
+  }
+}

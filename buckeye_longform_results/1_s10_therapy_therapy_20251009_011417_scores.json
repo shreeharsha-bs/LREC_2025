@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "1_s10_therapy_therapy_20251009_011417.wav",
+  "transcript_file": "1_s10_therapy_therapy_20251009_011417_transcript.txt",
+  "timestamp": "2025-10-09T01:14:35.656915",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps such as creating a calming routine, setting time limits for phone use, and replacing scrolling with hobbies. These are all actions the user can take to improve their situation.",
+      "evidence": "A good next step might be to create a small calming routine before bed, like reading a few pages of a book, journaling your thoughts, or doing a quick breathing exercise. Also, try setting a time limit for phone use, and replace some scrolling with a hobby you enjoy."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response starts with acknowledging the user's feelings, which provides some emotional support. However, it doesn't go into significant depth and quickly transitions to advice.",
+      "evidence": "It sounds like you're feeling drained and stuck in a numbing cycle."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response primarily focuses on improvement and actionable next steps, such as establishing routines and replacing negative behaviors with positive ones. The suggestions aim to build better habits and promote personal growth.",
+      "evidence": "A good next step might be to create a small calming routine before bed... Also, try setting a time limit for phone use, and replace some scrolling with a hobby you enjoy."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

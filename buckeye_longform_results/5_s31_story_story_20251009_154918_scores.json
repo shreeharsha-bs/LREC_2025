@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "5_s31_story_story_20251009_154918.wav",
+  "transcript_file": "5_s31_story_story_20251009_154918_transcript.txt",
+  "timestamp": "2025-10-09T15:49:44.221634",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 3,
+      "reasoning": "Leora does take action, but it's largely in response to external events. She finds the feather and follows its glow, then uses the quill. She writes 'One True Wish,' which causes the change, but the story doesn't elaborate on the thought process or decisive action behind that wish.",
+      "evidence": "Guided by moonlight, she followed its glow to an ancient oak. There, the feather transformed into a magical quill. Leora wrote One True Wish"
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Leora is clearly the main character, and the story revolves around her finding a solution to her weariness. The events are driven by her wish, making her central to the plot's progression and resolution.",
+      "evidence": "Once, in a misty village, lived a weary soul named Leora, who felt trapped in endless routine... Leora wrote One True Wish, a new beginning."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story focuses primarily on Leora's personal achievement of escaping her routine and bringing wonder to the village. While the outcome affects the village (a relational aspect), the main emphasis is on Leora's individual journey and the transformation of her life.",
+      "evidence": "Dawn broke, and the village awoke to a world of wonder and joy, as Leora's heart began its fresh journey."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 3,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

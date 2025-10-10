@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "1_s29_story_story_20251009_145616.wav",
+  "transcript_file": "1_s29_story_story_20251009_145616_transcript.txt",
+  "timestamp": "2025-10-09T14:56:35.987347",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 3,
+      "reasoning": "Alina does take some action, but she is heavily guided by external forces (the owl and the feather). While she ultimately saves the village, her actions are initiated and directed by the magical element.",
+      "evidence": "Guided by its light, she wandered into the woods... There she spoke softly but firmly to calm her restless spirit and saved the village."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Alina is clearly the main character and the story revolves around her journey and her role in saving the village. Her internal struggle with shyness is central to the plot.",
+      "evidence": "Once, in a quiet village, lived a gentle soul named Alina, who always felt shy and unsure... Alina returned home, heart aglow, knowing courage had always been within her."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story primarily focuses on Alina's personal achievement of overcoming her shyness and saving the village. While there's a sense of community, the emphasis is on her individual growth and accomplishment. The relational aspect is minimal.",
+      "evidence": "Facing shadows and whispers, she discovered a hidden glade. There she spoke softly but firmly to calm her restless spirit and saved the village. Alina returned home, heart aglow, knowing courage had always been within her."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 3,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

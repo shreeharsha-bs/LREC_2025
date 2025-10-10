@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "3_s22_story_story_20251009_152128.wav",
+  "transcript_file": "3_s22_story_story_20251009_152128_transcript.txt",
+  "timestamp": "2025-10-09T15:21:54.414616",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 3,
+      "reasoning": "Sam is moderately active. They follow the dragon and help others, indicating some agency, but the dragon initiates the adventure, and the narrative does not showcase Sam making major decisions. Sam's courage grows with each step, but they don't actively drive the plot forward with strategic choices or initiatives. Instead, they primarily react to the situations they encounter.",
+      "evidence": "When they opened it, a tiny dragon popped out and whispered, You have magic too. Doubtful, Sam followed the dragon through the book's pages into a world of enchanted forests. Along the way, Sam helped wayward elves and befriended a shy griffin."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Sam is the main character, and the story focuses on their journey and transformation. While the dragon initiates the adventure, the narrative centers on Sam's experiences, courage, and growth as they navigate the enchanted world and help others. The plot revolves around Sam's interaction with the magical world and their resulting self-belief. They are not in distress, but they are the focus.",
+      "evidence": "One evening, Sam found a dusty old book that shimmered. When they opened it, a tiny dragon popped out and whispered, You have magic too. Doubtful, Sam followed the dragon through the book's pages into a world of enchanted forests."
+    },
+    "achievement_vs_relational": {
+      "score": 3,
+      "reasoning": "The story balances achievements and relational themes. Sam helps wayward elves and befriends a griffin, highlighting relational aspects. However, the story also focuses on Sam's personal growth and increasing courage, which is an achievement-oriented theme. The resolution emphasizes Sam's self-belief, indicating an internal achievement, but this occurs in the context of the relationships formed during the journey.",
+      "evidence": "Along the way, Sam helped wayward elves and befriended a shy griffin. With each step, Sam's courage grew. Finally they returned, knowing they could face anything. And from that night on, Sam believed in themselves and magic forever."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 3,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 3
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "2_s36_story_story_20251009_151223.wav",
+  "transcript_file": "2_s36_story_story_20251009_151223_transcript.txt",
+  "timestamp": "2025-10-09T15:12:42.083838",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 4,
+      "reasoning": "Elin actively shares the pebble's magic with others, taking a proactive role in alleviating their burdens. This shows agency in shaping the narrative and impacting the lives of those around her.",
+      "evidence": "\"From that night on, Elin shared the pebble's magic with others, and their burdens grew lighter too.\""
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Elin starts as someone carrying \"the weight of the world on her shoulders,\" indicating an initial state of distress. While the pebble helps, she then takes action to help others, placing her as the main character driving events forward.",
+      "evidence": "\"Once there was a kind, thoughtful wanderer named Elin, who carried the weight of the world on her shoulders.\""
+    },
+    "achievement_vs_relational": {
+      "score": 1,
+      "reasoning": "The story focuses primarily on the relational aspect of sharing the pebble's magic and lightening the burdens of others. The resolution emphasizes the joy Elin finds in these relationships, rather than focusing on personal achievements.",
+      "evidence": "\"Elin shared the pebble's magic with others, and their burdens grew lighter too. And under the stars, her heart found joy.\""
+    }
+  },
+  "summary": {
+    "Heroic Agency": 4,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 1
+  }
+}

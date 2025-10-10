@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "2_s23_therapy_therapy_20251009_013143.wav",
+  "transcript_file": "2_s23_therapy_therapy_20251009_013143_transcript.txt",
+  "timestamp": "2025-10-09T01:32:07.166635",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice encourages proactive steps such as breaking down tasks, reaching out to someone, and prioritizing self-care. These are all actions the user can take to manage their stress.",
+      "evidence": "breaking down the week's tasks into smaller, manageable steps. Reach out to someone you trust. prioritize self-care"
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response acknowledges the user's stress and offers some comfort by suggesting calming techniques and reaching out to someone. However, it could be stronger by directly validating the user's feelings with more empathetic language.",
+      "evidence": "It sounds like the upcoming week is causing significant stress. First, take a moment to slow down and focus on your breathing. Try a few deep breaths or a short mindfulness exercise to help calm your body."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response primarily focuses on improvement and growth by suggesting actionable steps to manage stress and cope with the upcoming week. While it does suggest rest, it's framed as self-care within a broader strategy of improvement.",
+      "evidence": "consider breaking down the week's tasks into smaller, manageable steps. prioritize self-care. give yourself permission to rest."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

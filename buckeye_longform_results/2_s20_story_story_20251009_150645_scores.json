@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "2_s20_story_story_20251009_150645.wav",
+  "transcript_file": "2_s20_story_story_20251009_150645_transcript.txt",
+  "timestamp": "2025-10-09T15:07:04.702862",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 2,
+      "reasoning": "Leora's actions are primarily reactive. She finds the feather, and then things happen to her (burdens lift, she walks lighter). She doesn't actively seek out the feather or proactively decide to spread the magic.",
+      "evidence": "\"One night she found a tiny glowing feather... As she held it, her heart lightened, and the feather whispered a single word, hope. Suddenly her burdens lifted.\""
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Leora is clearly the central figure experiencing distress (worries that felt like stones). The story revolves around her transformation and subsequent actions, making her the main character with good agency, even if somewhat reactive.",
+      "evidence": "\"a young traveler named Leora, burdened by endless worries that felt like stones in her pack... her heart lightened, and the feather whispered a single word, hope. Suddenly her burdens lifted.\""
+    },
+    "achievement_vs_relational": {
+      "score": 3,
+      "reasoning": "The story has elements of both achievement (Leora overcoming her burdens and spreading hope) and relationship (spreading that magic to others). The balance is relatively even, leaning slightly towards relational as the ultimate act involves helping others.",
+      "evidence": "\"Suddenly her burdens lifted. From that day forward, Leora walked lighter, spreading that tiny magic to others who needed it most.\""
+    }
+  },
+  "summary": {
+    "Heroic Agency": 2,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 3
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "1_s22_story_story_20251009_145348.wav",
+  "transcript_file": "1_s22_story_story_20251009_145348_transcript.txt",
+  "timestamp": "2025-10-09T14:54:08.070416",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 4,
+      "reasoning": "Alaric is generally a proactive character. Although they initially doubt their strength, they choose to step forward upon hearing the child's cry and comfort the child and lead them home. This demonstrates a good level of active involvement in shaping the story's events.",
+      "evidence": "\"Suddenly a lost child cried out. Though fear gripped them, Allaric stepped forward. With each step, courage grew. Allaric comforted the child and led them home.\""
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Alaric is the main character and takes charge of the situation, helping the lost child. The story focuses on Alaric overcoming their fear and acting bravely. The child is in distress, but Alaric is the driving force of the plot.",
+      "evidence": "\"Suddenly a lost child cried out. Though fear gripped them, Allaric stepped forward. With each step, courage grew. Allaric comforted the child and led them home.\""
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story focuses more on Alaric's personal achievement of overcoming their fear and discovering their bravery than on developing a deep relationship with the child. While there is a relational element of comforting the child, the primary focus is on Alaric's internal change.",
+      "evidence": "\"From that night on, Allaric knew bravery was within, waiting to shine.\""
+    }
+  },
+  "summary": {
+    "Heroic Agency": 4,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

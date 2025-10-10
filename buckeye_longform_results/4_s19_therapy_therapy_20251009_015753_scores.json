@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "4_s19_therapy_therapy_20251009_015753.wav",
+  "transcript_file": "4_s19_therapy_therapy_20251009_015753_transcript.txt",
+  "timestamp": "2025-10-09T01:58:12.265499",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps such as 'Start by prioritizing self-care,' 'Break tasks into smaller steps,' and 'Practice mindfulness or deep breathing exercises.' These are actionable suggestions that empower the user to take control of their situation.",
+      "evidence": "Start by prioritizing self-care. Break tasks into smaller steps. Practice mindfulness or deep breathing exercises."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response begins with an acknowledgment of the user's feelings ('It sounds like you're dealing with mental fog and anxiety.'). It offers support and encouragement, which provides moderate emotional support without delving deeply into empathetic statements.",
+      "evidence": "It sounds like you're dealing with mental fog and anxiety."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response primarily focuses on improvement and growth through actionable steps like self-care, task management, and seeking support. While it acknowledges the difficulties, the emphasis is on moving forward and taking positive actions, promoting growth rather than retreat.",
+      "evidence": "Remember small steps and self-compassion can help you move forward."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

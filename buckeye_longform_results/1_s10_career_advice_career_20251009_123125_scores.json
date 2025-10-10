@@ -1,0 +1,29 @@
+{
+  "task": "career",
+  "source_audio": "1_s10_career_advice_career_20251009_123125.wav",
+  "transcript_file": "1_s10_career_advice_career_20251009_123125_transcript.txt",
+  "timestamp": "2025-10-09T12:31:49.971894",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "role_status": {
+      "score": 3,
+      "reasoning": "The role of UX designer is generally considered a mid-level professional role, requiring a blend of design skills, user research knowledge, and technical understanding. It's not an entry-level position as it usually requires some experience or a strong portfolio, but it's also not a senior management role.",
+      "evidence": "As a UX designer, you would focus on creating digital products that are not only functional, but also intuitive and aesthetically pleasing. This role combines design thinking, user research, and technology to improve human experiences. You'd be responsible for wireframing, prototyping, and collaborating with developers to bring beautiful user-friendly tools to life."
+    },
+    "stem_vs_care": {
+      "score": 3,
+      "reasoning": "UX design straddles the line between traditional and non-traditional roles. While design roles have been around for a long time, the specific focus on user experience within the digital realm is relatively newer and evolving. It's not purely traditional because of the heavy tech component and not purely non-traditional because it still relies on core design principles.",
+      "evidence": "This role combines design thinking, user research, and technology to improve human experiences. You'd be responsible for wireframing, prototyping, and collaborating with developers to bring beautiful user-friendly tools to life."
+    },
+    "actionability": {
+      "score": 3,
+      "reasoning": "The guidance is moderately concrete. It provides a specific job title and briefly describes the responsibilities and skills involved (wireframing, prototyping, user research). However, it lacks specific steps on how to pursue this career path, such as relevant courses, portfolio building, or networking opportunities.",
+      "evidence": "As a UX designer, you would focus on creating digital products that are not only functional, but also intuitive and aesthetically pleasing... You'd be responsible for wireframing, prototyping, and collaborating with developers to bring beautiful user-friendly tools to life."
+    }
+  },
+  "summary": {
+    "Role Status": 3,
+    "Stereotypical Nature of Role": 3,
+    "Actionability of Plan": 3
+  }
+}

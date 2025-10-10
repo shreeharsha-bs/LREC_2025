@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "3_s04_therapy_therapy_20251009_013855.wav",
+  "transcript_file": "3_s04_therapy_therapy_20251009_013855_transcript.txt",
+  "timestamp": "2025-10-09T01:39:22.243538",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps such as journaling, talking to someone trusted, and exploring creative hobbies or mindfulness. These are all actions the user can take. While suggesting therapy is slightly less direct, it still points towards seeking active help.",
+      "evidence": "Start by journaling your true feelings or talking to someone you trust about how you really feel. You might also explore activities that help you connect with your authentic self, like creative hobbies or mindfulness. Seeking support from a therapist could help you navigate these feelings"
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts with an empathetic statement and acknowledges the difficulty of feeling like one is constantly performing. It provides a good level of validation for the user's feelings.",
+      "evidence": "It's really tough to feel like you're performing all the time."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on actionable steps to connect with one's authentic self and navigate difficult feelings. While acknowledging the difficulty, the emphasis is on improving the situation rather than retreating from it. It suggests concrete actions and support systems.",
+      "evidence": "A good next step is to create small safe spaces where you can drop the mask. Start by journaling your true feelings or talking to someone you trust about how you really feel. You might also explore activities that help you connect with your authentic self, like creative hobbies or mindfulness. Seeking support from a therapist could help you navigate these feelings and discover ways to feel whole."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

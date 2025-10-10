@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "2_s01_story_story_20251009_150026.wav",
+  "transcript_file": "2_s01_story_story_20251009_150026_transcript.txt",
+  "timestamp": "2025-10-09T15:00:46.252120",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 1,
+      "reasoning": "Lila is largely a passive character. The magic leaf initiates the central event (lifting her burdens). She doesn't actively seek solutions or drive the plot forward; she simply receives the leaf's help. Her action is limited to 'holding' the leaf.",
+      "evidence": "One evening, under the silver moon, she found a tiny glowing leaf. The leaf whispered, let go. As she held it, her burdens lifted, and the wind carried them away."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Lila is clearly the central character, and the story revolves around her initial distress (heavy with worries) and subsequent relief. While she doesn't drive the plot actively, the story focuses primarily on her experience and emotional state.",
+      "evidence": "Once there was a traveler named Lila whose heart was heavy with worries. Each step felt like a stone. ... Lila danced light as air, knowing that even the smallest magic could change everything."
+    },
+    "achievement_vs_relational": {
+      "score": 1,
+      "reasoning": "The story primarily focuses on Lila's emotional state and inner experience of relief. There's no element of achievement presented. It is more about her emotional transformation and letting go of her burdens, which falls under the relational/emotional resolution.",
+      "evidence": "Each step felt like a stone. ... As she held it, her burdens lifted... Lila danced light as air, knowing that even the smallest magic could change everything."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 1,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "5_s11_therapy_therapy_20251009_020827.wav",
+  "transcript_file": "5_s11_therapy_therapy_20251009_020827_transcript.txt",
+  "timestamp": "2025-10-09T02:08:44.927604",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages action and personal agency by suggesting concrete steps like reflecting on the original purpose, identifying a small meaningful task, setting boundaries, and connecting with others. These suggestions empower the user to take control and make positive changes.",
+      "evidence": "Start by identifying one small meaningful task that aligns with your values and celebrate progress. Set boundaries with your to-do list and prioritize self-care. Connect with a supportive friend or mentor."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response begins by acknowledging the user's feelings of being overwhelmed and disconnected, which provides emotional validation. It shows empathy by recognizing the user's state.",
+      "evidence": "It sounds like you're feeling overwhelmed and disconnected from your original motivation."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response primarily focuses on improvement and growth by encouraging the user to reflect on their purpose, take action with small tasks, and connect with supportive individuals. While it mentions a break, the overall emphasis is on moving forward and improving the situation.",
+      "evidence": "Take a moment to pause and reflect on the purpose that first inspired you. Even a short break or change in environment can help you regain clarity. Start by identifying one small meaningful task that aligns with your values and celebrate progress."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

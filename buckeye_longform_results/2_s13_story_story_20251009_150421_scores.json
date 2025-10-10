@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "2_s13_story_story_20251009_150421.wav",
+  "transcript_file": "2_s13_story_story_20251009_150421_transcript.txt",
+  "timestamp": "2025-10-09T15:04:43.822684",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 3,
+      "reasoning": "Lila is moderately active. She takes the initiative to place her worries into the pebble, showing agency in addressing her distress. However, the magical pebble is a key element, so it is not a purely proactive character.",
+      "evidence": "One by one, Lila placed her worries into the pebble, and it began to shine brighter. Slowly she felt lighter, and her heart lifted."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Lila is the main character and the plot revolves around her worries and how she overcomes them. She takes action (placing worries into the pebble) to resolve her distress.",
+      "evidence": "Once there was a person named Lila who carried her worries like heavy stones. Each day the weight grew and her steps slowed. One evening while walking by the Moonlit River she found a tiny glowing pebble. When she picked it up, the pebble whispered, let me hold one of your worries."
+    },
+    "achievement_vs_relational": {
+      "score": 5,
+      "reasoning": "The story focuses on Lila's internal achievement of letting go of her worries. There are no relational elements in the story; it's purely about her personal struggle and resolution.",
+      "evidence": "That night on, Lila knew the magic of letting go."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 3,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 5
+  }
+}

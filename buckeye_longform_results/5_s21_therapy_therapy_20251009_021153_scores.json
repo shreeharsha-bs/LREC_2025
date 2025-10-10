@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "5_s21_therapy_therapy_20251009_021153.wav",
+  "transcript_file": "5_s21_therapy_therapy_20251009_021153_transcript.txt",
+  "timestamp": "2025-10-09T02:12:13.060571",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages action by suggesting concrete steps such as identifying joys, setting boundaries, experimenting with new routines, and reaching out for support. These are all proactive steps that promote a sense of agency.",
+      "evidence": "Identify one small thing that brings you joy or a sense of accomplishment. Set clear boundaries for your time and energy. Try excrementing with a new routine...Reach out to a friend, mentor, or counselor"
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response begins by acknowledging the difficult situation, which shows some level of empathy. However, it quickly moves to solutions without providing deep emotional reassurance.",
+      "evidence": "It's tough when every day feels like a repeating cycle."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response is heavily focused on improvement and growth by suggesting ways to regain a sense of purpose and break the monotony. The advice is centered around actively changing one's situation and finding joy and accomplishment.",
+      "evidence": "focusing on small, meaningful shifts can help you regain your sense of purpose...Try excrementing with a new routine, even a small one, to break the monotony."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

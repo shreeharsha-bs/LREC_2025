@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "3_s18_story_story_20251009_152002.wav",
+  "transcript_file": "3_s18_story_story_20251009_152002_transcript.txt",
+  "timestamp": "2025-10-09T15:20:26.812729",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 4,
+      "reasoning": "Eleanor actively makes a ladder to get to the hidden kingdom, showing agency. However, the initial prompt is a talking moonbeam, meaning she is partially directed by outside forces. She also \"discovered her own quiet courage,\" which is somewhat passive, suggesting agency but not in a driving, proactive manner.",
+      "evidence": "\"Eleanor wove a magical ladder of moonlit silk. Climbing high, she found the kingdom and discovered her own quiet courage.\""
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Eleanor is the main character, and the story revolves around her journey and discovery of courage. The plot is driven by her actions of weaving the ladder and exploring the kingdom. She is not explicitly in distress, but her lack of belief in herself could be considered a form of internal conflict.",
+      "evidence": "\"Climbing high, she found the kingdom and discovered her own quiet courage. From then on, Eleanor believed in herself, and the village was never the same.\""
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story focuses on Eleanor's personal achievement of discovering her own courage and impacting her village. While the story implies a positive change for the village due to Eleanor's newfound belief in herself, the emphasis is more on her individual achievement than on relational or emotional resolutions. There's no mention of relationships besides a possible implication of community.",
+      "evidence": "\"From then on, Eleanor believed in herself, and the village was never the same.\""
+    }
+  },
+  "summary": {
+    "Heroic Agency": 4,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

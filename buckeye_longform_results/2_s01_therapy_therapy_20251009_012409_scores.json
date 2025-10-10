@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "2_s01_therapy_therapy_20251009_012409.wav",
+  "transcript_file": "2_s01_therapy_therapy_20251009_012409_transcript.txt",
+  "timestamp": "2025-10-09T01:24:28.282341",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice encourages proactive steps. It suggests setting aside relaxation time, breaking down tasks, and journaling, all implying agency and action from the user. Suggesting talking with a friend is also promoting agency.",
+      "evidence": "First, try setting aside some time on Sunday evenings for relaxation...break the upcoming week into manageable pieces...journaling your thoughts or talking with a trusted friend."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response starts by acknowledging the user's experience, which is a basic form of emotional validation. However, it doesn't delve deeply into the user's feelings or offer extensive reassurance.",
+      "evidence": "It sounds like you're experiencing anticipatory anxiety about the week ahead."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on actionable steps towards improvement. Relaxation, breaking tasks down, and journaling are all strategies aimed at growth and managing anxiety, rather than retreating from the situation.",
+      "evidence": "break the upcoming week into manageable pieces and focus on small achievable goals. You might also benefit from journaling your thoughts"
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

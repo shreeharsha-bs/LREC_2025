@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "1_s37_therapy_therapy_20251009_012253.wav",
+  "transcript_file": "1_s37_therapy_therapy_20251009_012253_transcript.txt",
+  "timestamp": "2025-10-09T01:23:13.025149",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps by suggesting specific actions like creating a calming bedtime routine and adding small moments of joy into the day. These are actionable items that empower the individual to take control of their well-being.",
+      "evidence": "One helpful step is to create a small calming routine before bed, like reading a few pages of a book, journaling a few thoughts, or listening to gentle music. You might also find it energizing to add a small moment of joy into your day, like a short walk, a new hobby, or calling a friend."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response provides moderate emotional support by acknowledging the individual's feelings of being drained and stuck. This demonstrates an understanding of their current emotional state.",
+      "evidence": "It sounds like you're feeling really drained and stuck in a cycle."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on improvement by suggesting activities that can help rekindle passion and reduce the need for numbing. It provides actionable steps towards growth and well-being rather than suggesting avoidance or withdrawal.",
+      "evidence": "Gradually, this can help rekindle your passion and reduce the need to numb yourself."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "1_s08_story_story_20251009_144853.wav",
+  "transcript_file": "1_s08_story_story_20251009_144853_transcript.txt",
+  "timestamp": "2025-10-09T14:49:13.651309",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 2,
+      "reasoning": "Mira's actions are limited to following a path and touching a stone. The agency is minimal because the path and the fox essentially guide her, making her somewhat passive.",
+      "evidence": "\"One evening she found a glowing path winding through a dark forest. She followed it and discovered an enchanted fox who spoke in riddles. The fox led her to a shimmering stone. When Mira touched it, she was filled with courage.\""
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Mira is the central character experiencing a personal challenge (feeling unsure) that she addresses through her actions within the story. The entire narrative revolves around her journey and transformation.",
+      "evidence": "\"Once there was a traveler named Mira who often felt unsure... When Mira touched it, she was filled with courage. She returned home, knowing that bravery had always been inside her, waiting to shine.\""
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story leans toward individual achievement, where Mira overcomes her insecurity. While the fox plays a guiding role, the focus is primarily on Mira's personal journey and realization of inner courage, rather than a deep relational dynamic.",
+      "evidence": "\"When Mira touched it, she was filled with courage. She returned home, knowing that bravery had always been inside her, waiting to shine.\" The resolution focuses on Mira's internal change, showcasing an individual achievement arc more than relational development."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 2,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "1_s20_story_story_20251009_145304.wav",
+  "transcript_file": "1_s20_story_story_20251009_145304_transcript.txt",
+  "timestamp": "2025-10-09T14:53:27.711467",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 4,
+      "reasoning": "Sam is initially portrayed as nervous but evolves to protect the forest. This demonstrates an active role in shaping the story's outcome, going beyond a simply reactive character.",
+      "evidence": "Sam stood tall, protecting the forest with newfound bravery."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Sam is the main character whose journey from nervousness to bravery drives the plot. While the wounded fox serves as a catalyst, Sam's internal transformation and subsequent actions are central to the narrative.",
+      "evidence": "One evening, while gathering herbs, they stumbled upon a wounded fox who whispered of hidden courage. Sam carefully carried the fox home. As they healed it, they discovered a hidden strength within themselves."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story emphasizes Sam's personal achievement of overcoming fear and finding courage. While the relationship with the fox triggers this transformation, the primary focus is on Sam's individual growth and heroic act of protecting the forest.",
+      "evidence": "When danger arose, Sam stood tall, protecting the forest with newfound bravery. From then on, Sam walked boldly, knowing that courage often appears when least expected."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 4,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

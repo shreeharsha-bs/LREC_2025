@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "5_s09_therapy_therapy_20251009_020748.wav",
+  "transcript_file": "5_s09_therapy_therapy_20251009_020748_transcript.txt",
+  "timestamp": "2025-10-09T02:08:06.714061",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps and personal agency by suggesting breaking down tasks, incorporating joy, and reaching out for support. While it does not explicitly push for decisive action, the suggestions lean towards active problem-solving.",
+      "evidence": "Break down your workload into smaller, manageable tasks. Try to incorporate small moments of joy or relaxation each day. Reach out to someone you trust for support."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response shows good emotional validation by starting with empathy ('I'm really sorry you're feeling this way'). The advice offered, while practical, is framed in a way that acknowledges the user's emotional state.",
+      "evidence": "I'm really sorry you're feeling this way."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on improvement by suggesting ways to manage workload, find joy, and seek support. While it acknowledges the user's feelings, the emphasis is on finding a healthier balance and rediscovering purpose, indicating a growth-oriented approach.",
+      "evidence": "Break down your workload into smaller, manageable tasks. Try to incorporate small moments of joy or relaxation each day...consider talking to a professional who can help you rediscover your purpose and find a healthier balance."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

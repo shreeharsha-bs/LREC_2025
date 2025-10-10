@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "1_s31_therapy_therapy_20251009_012106.wav",
+  "transcript_file": "1_s31_therapy_therapy_20251009_012106_transcript.txt",
+  "timestamp": "2025-10-09T01:21:24.434094",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 3,
+      "reasoning": "The response provides a mix of passive and active advice. Suggesting deep breaths, listening to music, or resting is somewhat passive, while a short walk or gentle stretch encourages more agency. There isn't a strong push towards decisive action, but rather a balanced approach.",
+      "evidence": "Suggestions include 'taking a few deep breaths,' 'listening to calming music,' 'resting with your eyes closed,' and 'a short walk or gentle stretch.'"
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts with a clear demonstration of empathy by acknowledging the user's feelings ('I hear you. It sounds like you're overwhelmed and drained.'). It validates these feelings as acceptable ('it's okay to feel this way.'). This shows good emotional support and understanding.",
+      "evidence": "'I hear you. It sounds like you're overwhelmed and drained.' and 'Most importantly, be kind to yourself and recognize that it's okay to feel this way.'"
+    },
+    "improvement_vs_retreat": {
+      "score": 3,
+      "reasoning": "The advice is relatively balanced. Deep breathing and resting are coping mechanisms that could be seen as leaning toward retreat, whereas suggesting a walk or stretching leans towards improvement. The response doesn't solely focus on escape, nor does it push strongly for actionable steps for growth, thus indicating a balance.",
+      "evidence": "The response offers suggestions like 'taking a few deep breaths' and 'resting with your eyes closed' (retreat), alongside 'a short walk or gentle stretch' (improvement)."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 3,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 3
+  }
+}

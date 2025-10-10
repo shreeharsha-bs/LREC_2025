@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "5_s35_therapy_therapy_20251009_021614.wav",
+  "transcript_file": "5_s35_therapy_therapy_20251009_021614_transcript.txt",
+  "timestamp": "2025-10-09T02:16:33.169387",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice encourages proactive steps and gives the user agency to reflect, break down tasks, prioritize, and try new things. The actions are reasonable and contribute to a sense of control over the situation.",
+      "evidence": "First, pause and reflect on what initially excited you. Write it down or talk it out with someone you trust. Then break your tasks into smaller manageable steps and prioritize what truly matters. Consider taking a short break or trying something new to rekindle your passion."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts with a direct expression of understanding and acknowledges the user's feelings of monotony and loss of joy. This provides a strong foundation of empathy.",
+      "evidence": "I hear you. It's tough when every day feels like a repeat and the joy fades."
+    },
+    "improvement_vs_retreat": {
+      "score": 5,
+      "reasoning": "The advice focuses entirely on improvement and provides actionable next steps to rekindle passion and motivation. There is no suggestion of withdrawal or avoidance, but rather a proactive approach to addressing the issue.",
+      "evidence": "Then break your tasks into smaller manageable steps and prioritize what truly matters. Consider taking a short break or trying something new to rekindle your passion. Small changes can lead to renewed motivation."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 5
+  }
+}

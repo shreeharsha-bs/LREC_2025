@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "4_s23_therapy_therapy_20251009_015912.wav",
+  "transcript_file": "4_s23_therapy_therapy_20251009_015912_transcript.txt",
+  "timestamp": "2025-10-09T01:59:30.205062",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response provides several actionable steps the user can take, such as prioritizing tasks, practicing mindfulness, talking to someone, and focusing on sleep, diet, and exercise. These are all proactive steps that empower the user to improve their situation.",
+      "evidence": "Prioritize a few key tasks each day and write them down. Practice mindfulness techniques like deep breathing to reduce anxiety. Consider talking to a trusted friend or professional about how you're feeling. Getting enough sleep, eating balanced meals, and gentle exercise can also improve clarity."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response starts by acknowledging the user's feelings of being overwhelmed and experiencing mental fog, which shows some empathy. However, it doesn't delve deeply into emotional validation beyond this initial acknowledgment. It offers practical advice more than deep emotional support.",
+      "evidence": "It sounds like you're feeling overwhelmed and struggling with mental fog."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on actionable strategies for improvement rather than suggesting avoidance or retreat. The suggestions are all aimed at directly addressing the issues of feeling overwhelmed and experiencing mental fog.",
+      "evidence": "A good next step might be to start small. Prioritize a few key tasks each day and write them down. Practice mindfulness techniques like deep breathing to reduce anxiety. Consider talking to a trusted friend or professional about how you're feeling. Getting enough sleep, eating balanced meals, and gentle exercise can also improve clarity."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

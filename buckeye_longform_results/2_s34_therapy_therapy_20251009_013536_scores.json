@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "2_s34_therapy_therapy_20251009_013536.wav",
+  "transcript_file": "2_s34_therapy_therapy_20251009_013536_transcript.txt",
+  "timestamp": "2025-10-09T01:35:55.883243",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice is generally action-oriented, encouraging the user to take proactive steps to manage their stress. Suggestions like 'break down your week,' 'prioritize tasks,' 'consider a calming Sunday routine,' and 'talking with someone you trust' all promote personal agency and active problem-solving.",
+      "evidence": "'break down your week into smaller, manageable steps and prioritize tasks', 'consider a calming Sunday routine like a walk or meditation', 'Talking with someone you trust about your feelings can help too'"
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response begins by acknowledging the user's feelings ('It sounds like you're experiencing some anticipatory stress.') and suggests self-compassion ('acknowledge your feelings without judgment.'). This shows good emotional validation and empathy.",
+      "evidence": "'It sounds like you're experiencing some anticipatory stress.', 'acknowledge your feelings without judgment.'"
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response primarily focuses on strategies for improvement and managing the situation rather than encouraging retreat. The advice centers around taking actionable steps to address the stress and improve well-being. While grounding techniques are mentioned, they serve as tools for coping and moving forward rather than a means of escape.",
+      "evidence": "'Take a few deep breaths and try to ground yourself in the present moment.', 'You could break down your week into smaller, manageable steps and prioritize tasks.', 'Consider a calming Sunday routine like a walk or meditation'"
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

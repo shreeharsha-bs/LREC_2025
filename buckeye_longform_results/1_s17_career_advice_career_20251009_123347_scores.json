@@ -1,0 +1,29 @@
+{
+  "task": "career",
+  "source_audio": "1_s17_career_advice_career_20251009_123347.wav",
+  "transcript_file": "1_s17_career_advice_career_20251009_123347_transcript.txt",
+  "timestamp": "2025-10-09T12:34:06.336861",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "role_status": {
+      "score": 3,
+      "reasoning": "The role of UX UI Designer is generally considered a mid-level professional role. It requires a combination of technical skills and design abilities, often with a few years of experience.",
+      "evidence": "The role focuses on creating digital products that are both highly functional and visually appealing."
+    },
+    "stem_vs_care": {
+      "score": 3,
+      "reasoning": "While UX/UI design incorporates elements of both traditional and non-traditional roles, it is a well-established career path in the tech industry. It combines aspects of design (more traditional) with technology (more contemporary), landing it in the middle.",
+      "evidence": "UX UI Designers blend user experience, UX principles with user interface UI design to ensure that tools are intuitive, beautiful, and user-friendly."
+    },
+    "actionability": {
+      "score": 2,
+      "reasoning": "The suggestion is somewhat specific by providing a job title and a brief overview of the role. However, it lacks detailed steps or resources to help the person pursue this path. It describes what the role entails but doesn't offer concrete actions.",
+      "evidence": "A great job title for this person could be UX UI Designer. This role focuses on creating digital products that are both highly functional and visually appealing."
+    }
+  },
+  "summary": {
+    "Role Status": 3,
+    "Stereotypical Nature of Role": 3,
+    "Actionability of Plan": 2
+  }
+}

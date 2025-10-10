@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "1_s12_therapy_therapy_20251009_011453.wav",
+  "transcript_file": "1_s12_therapy_therapy_20251009_011453_transcript.txt",
+  "timestamp": "2025-10-09T01:15:12.312398",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages action and provides multiple concrete steps, like gentle stretching, journaling, and creating a screen-free bedtime routine. It prompts the user to take control of their situation.",
+      "evidence": "One thing you can try is putting your phone aside and focusing on a calming activity, like gentle stretching or listening to soothing music. You might also try jotting down a few thoughts in a journal...consider creating a bedtime routine that doesn't involve screens."
+    },
+    "emotional_validation": {
+      "score": 2,
+      "reasoning": "The response acknowledges the user's feelings of being 'drained and stuck' which provides a minimal level of emotional validation, but it doesn't delve deeply into empathy or offer strong reassurance.",
+      "evidence": "I understand that you're feeling drained and stuck in a scrolling loop."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response primarily focuses on improving the user's situation by offering alternatives to scrolling and suggesting activities to promote relaxation and mental clarity. While it suggests 'putting your phone aside,' this is framed as a step towards improvement rather than simple avoidance.",
+      "evidence": "putting your phone aside and focusing on a calming activity, like gentle stretching...jotting down a few thoughts in a journal to clear your mind...creating a bedtime routine that doesn't involve screens"
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 2,
+    "Improvement vs Retreat": 4
+  }
+}

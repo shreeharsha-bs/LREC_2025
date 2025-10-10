@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "2_s13_therapy_therapy_20251009_012826.wav",
+  "transcript_file": "2_s13_therapy_therapy_20251009_012826_transcript.txt",
+  "timestamp": "2025-10-09T01:28:45.030413",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response provides actionable advice, encouraging the user to take specific steps to manage their stress. The suggestions such as establishing a calming routine, breaking down tasks, and connecting with others, all promote personal agency.",
+      "evidence": "A helpful next step might be to establish a calming Sunday evening routine, maybe a short walk, some deep breathing, or journaling your thoughts. Try breaking the week into smaller manageable tasks to reduce overwhelm. Connecting with friends or loved ones can also help you feel more grounded and less isolated."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response starts with an acknowledgment of the user's feelings ('It sounds like you're experiencing significant stress as the new week approaches.'). This shows some level of emotional validation, but it could be stronger with more explicit empathy.",
+      "evidence": "It sounds like you're experiencing significant stress as the new week approaches."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The focus is primarily on improvement and growth by suggesting methods to manage stress and prevent overwhelm. While it does suggest considering professional help, this is presented as a supportive option alongside self-help strategies, rather than an emphasis on retreat.",
+      "evidence": "A helpful next step might be to establish a calming Sunday evening routine... Try breaking the week into smaller manageable tasks to reduce overwhelm. If this feeling persists, consider talking to a counselor or therapist for support. Connecting with friends or loved ones can also help you feel more grounded and less isolated."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

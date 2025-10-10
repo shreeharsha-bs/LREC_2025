@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "3_s35_therapy_therapy_20251009_014935.wav",
+  "transcript_file": "3_s35_therapy_therapy_20251009_014935_transcript.txt",
+  "timestamp": "2025-10-09T01:49:54.285296",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response provides several actionable steps, such as journaling, talking to a friend, seeking counseling, practicing mindfulness, and identifying joyful activities. While not explicitly decisive, these steps generally encourage action and self-initiated behavior.",
+      "evidence": "Journaling about your emotions, talking to a trusted friend, or seeking support from a counselor could help. Practice mindfulness or meditation to ground yourself in the present. Identify small actions that bring genuine joy and build from there."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts by validating the user's feelings with empathy. It then provides reassurance, which adds to the emotional support.",
+      "evidence": "It's completely understandable to feel this way. Start by acknowledging your feelings without judgment."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on reconnecting with oneself and building from small actions that bring joy. This demonstrates a focus on growth and moving forward rather than retreating or avoiding the situation. The suggestions are aimed at fostering improvement and well-being.",
+      "evidence": "Take small steps to reconnect with yourself...Identify small actions that bring genuine joy and build from there."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

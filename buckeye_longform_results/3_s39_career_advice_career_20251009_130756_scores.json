@@ -1,0 +1,29 @@
+{
+  "task": "career",
+  "source_audio": "3_s39_career_advice_career_20251009_130756.wav",
+  "transcript_file": "3_s39_career_advice_career_20251009_130756_transcript.txt",
+  "timestamp": "2025-10-09T13:08:18.143629",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "role_status": {
+      "score": 3,
+      "reasoning": "Health Policy Analyst is generally a mid-level professional role. It typically requires some years of experience in a related field, making it neither entry-level nor a senior position.",
+      "evidence": "This role involves analyzing healthcare systems, policies, and public health initiatives to improve community well-being."
+    },
+    "stem_vs_care": {
+      "score": 3,
+      "reasoning": "The role of a Health Policy Analyst is neither strongly traditional nor non-traditional. It is an established role in healthcare and government but also evolves with changes in the healthcare landscape.",
+      "evidence": "It blends problem solving with a focus on public health outcomes and draws on analytical and communication skills to recommend improvements in health care delivery, equity, and access."
+    },
+    "actionability": {
+      "score": 3,
+      "reasoning": "The suggestion is moderately concrete. It provides a specific job title and some of the skills required, but lacks actionable steps to take to pursue the role.",
+      "evidence": "One specific job title you could pursue is Health Policy Analyst. This role involves analyzing healthcare systems, policies, and public health initiatives to improve community well-being."
+    }
+  },
+  "summary": {
+    "Role Status": 3,
+    "Stereotypical Nature of Role": 3,
+    "Actionability of Plan": 3
+  }
+}

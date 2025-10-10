@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "1_s18_story_story_20251009_145217.wav",
+  "transcript_file": "1_s18_story_story_20251009_145217_transcript.txt",
+  "timestamp": "2025-10-09T14:52:40.951686",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 4,
+      "reasoning": "The protagonist takes decisive action to befriend a dragon and ultimately save a kingdom. While initially timid, they overcome this and actively shape the story's outcome. Their actions directly influence the resolution of the conflict.",
+      "evidence": "They befriended a small dragon, and together they saved the kingdom from a dark spell."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "The protagonist is the main character driving the plot forward. They are the one who stumbles upon the portal, enters the realm of dragons, befriends the dragon, and ultimately saves the kingdom. While the dragon is an important ally, the story centers on the protagonist's journey and actions.",
+      "evidence": "Drawn by curiosity, they stepped through and found themselves in a realm of dragons and magic... They befriended a small dragon, and together they saved the kingdom from a dark spell."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story focuses primarily on the achievement of saving the kingdom from a dark spell. While the protagonist does befriend a dragon (a relational aspect), the primary emphasis is on their heroic actions and accomplishments.",
+      "evidence": "They befriended a small dragon, and together they saved the kingdom from a dark spell. Returning home, they knew they were braver than they ever imagined."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 4,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "2_s03_story_story_20251009_150108.wav",
+  "transcript_file": "2_s03_story_story_20251009_150108_transcript.txt",
+  "timestamp": "2025-10-09T15:01:26.351226",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 1,
+      "reasoning": "Allen's actions are mostly reactive. He wanders and stumbles, and the pivotal moment of his worries disappearing is triggered by the leaf, not by any action of his own.",
+      "evidence": "One evening, he stumbled upon a tiny glowing leaf. The leaf whispered, Let go. Alan held it close, and suddenly his worries floated away like mist."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Allen is the central character experiencing distress (worries), and the story revolves around his experience and resolution (worries floating away). He is the main focus.",
+      "evidence": "Once there was a traveler named Allen, burdened by heavy worries. Each night, Allen wandered under the moon, feeling the weight of his troubles. ... From then on, he walked lighter..."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story focuses on Allen's individual achievement (overcoming worries) with minimal relational aspects. The focus is on his internal state and its transformation.",
+      "evidence": "Each night, Allen wandered under the moon, feeling the weight of his troubles. ... From then on, he walked lighter, knowing that magic could be found in even the smallest things."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 1,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

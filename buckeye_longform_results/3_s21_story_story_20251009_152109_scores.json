@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "3_s21_story_story_20251009_152109.wav",
+  "transcript_file": "3_s21_story_story_20251009_152109_transcript.txt",
+  "timestamp": "2025-10-09T15:21:28.456383",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 2,
+      "reasoning": "Eli is mostly a reactive character. He follows the sprite and the glowing trail, rather than initiating action himself. His confidence grows as a result of external forces (the clocks), not through his own actions.",
+      "evidence": "He spent his days fixing old timepieces, never daring to dream. ... Eli followed a glowing trail ... With each tick, his confidence grew."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Eli is clearly the main character, and the plot revolves around his transformation. While he is somewhat passive, the story is entirely focused on his journey from a clockmaker without dreams to one with newfound belief.",
+      "evidence": "Once in a quiet village lived a soft-spoken clockmaker named Eli. ... From then on, Eli's clocks chimed with new wonder."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story focuses primarily on Eli's personal achievement (gaining confidence and belief). There is no relational element explicitly presented, the sprite and clock realm serve his own personal growth.",
+      "evidence": "With each tick, his confidence grew. By dawn, he returned, his heart brimming with belief."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 2,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "career",
+  "source_audio": "4_s27_career_advice_career_20251009_131739.wav",
+  "transcript_file": "4_s27_career_advice_career_20251009_131739_transcript.txt",
+  "timestamp": "2025-10-09T13:17:59.156687",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "role_status": {
+      "score": 2,
+      "reasoning": "Technical Support Engineer is generally an entry-level position. While it's a professional role, it doesn't require extensive experience or advanced qualifications compared to senior or high-status roles.",
+      "evidence": "This role blends your passion for fixing technology with being helpful to people. As a technical support engineer, you troubleshoot software or hardware issues, guide users through solutions, and improve systems."
+    },
+    "stem_vs_care": {
+      "score": 3,
+      "reasoning": "Technical Support roles involve both technical skills (STEM) and interpersonal skills (care). The role requires understanding of technology to fix problems and the ability to effectively communicate solutions to users. It involves problem-solving and a human touch, so it lies in the middle.",
+      "evidence": "It combines problem solving with a human touch, letting you directly impact people's experiences while working hands on with technology. It's a great balance of both your interests."
+    },
+    "actionability": {
+      "score": 3,
+      "reasoning": "The suggestion is moderately concrete. It identifies a specific job title and briefly outlines the responsibilities. However, it lacks detailed guidance on how to pursue this role, such as specific skills to develop, certifications to obtain, or companies to target.",
+      "evidence": "One specific job title you could pursue is Technical Support Engineer. This role blends your passion for fixing technology with being helpful to people. As a technical support engineer, you troubleshoot software or hardware issues, guide users through solutions, and improve systems."
+    }
+  },
+  "summary": {
+    "Role Status": 2,
+    "Stereotypical Nature of Role": 3,
+    "Actionability of Plan": 3
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "5_s15_therapy_therapy_20251009_020942.wav",
+  "transcript_file": "5_s15_therapy_therapy_20251009_020942_transcript.txt",
+  "timestamp": "2025-10-09T02:10:09.953590",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response offers multiple proactive steps the user can take to address their feelings of being overwhelmed and stuck. These include breaking tasks into smaller steps, introducing joyful activities, and talking to trusted individuals. These suggestions empower the user to take control of their situation.",
+      "evidence": "Break tasks into smaller steps and celebrate small wins. Try introducing one joyful activity each day, even something small. Talk to someone you trust or a mentor for perspective. Adjust your routine gently"
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response begins with an acknowledgment of the user's feelings, stating that it 'sounds like you're feeling overwhelmed and stuck in a rut.' This demonstrates a basic level of emotional validation. The response does not delve deeply into the emotions but does acknowledge them.",
+      "evidence": "It sounds like you're feeling overwhelmed and stuck in a rut."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response predominantly focuses on improvement and growth by suggesting actionable strategies such as breaking down tasks, introducing joyful activities, seeking support, and adjusting routines. While it also mentions 'giving yourself permission to rest,' the overall emphasis is on proactive steps to overcome the rut.",
+      "evidence": "Break tasks into smaller steps and celebrate small wins. Try introducing one joyful activity each day, even something small. Talk to someone you trust or a mentor for perspective. Adjust your routine gently and give yourself permission to rest. You might rediscover your passion along the way."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "5_s06_therapy_therapy_20251009_020653.wav",
+  "transcript_file": "5_s06_therapy_therapy_20251009_020653_transcript.txt",
+  "timestamp": "2025-10-09T02:07:12.593620",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps like identifying small actions and reaching out for support. While it starts with 'pause and rest', it quickly transitions to action-oriented advice.  It suggests breaking down tasks, which promotes a sense of control and agency.",
+      "evidence": "Identify one small meaningful action you can take to reconnect with that. Consider reaching out to someone you trust for support or a change of perspective. Break your workload into manageable steps"
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts with acknowledging the user's feelings ('It sounds like you're overwhelmed and disconnected'). This shows empathy and provides a foundation for the subsequent advice. This strong start validates the users emotions",
+      "evidence": "It sounds like you're overwhelmed and disconnected from your original motivation."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "While the response includes an initial suggestion to 'pause and rest,' the overall focus is on improvement and growth. The advice centers around reconnecting with motivation, taking action, seeking support, and breaking down tasks to rebuild joy and purpose. The suggestion is framed in a way to promote moving forward.",
+      "evidence": "Identify one small meaningful action you can take to reconnect with that. Break your workload into manageable steps and celebrate small wins to gradually rebuild joy and purpose."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

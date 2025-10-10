@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "3_s13_story_story_20251009_151826.wav",
+  "transcript_file": "3_s13_story_story_20251009_151826_transcript.txt",
+  "timestamp": "2025-10-09T15:18:49.897659",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 4,
+      "reasoning": "Sam is generally proactive, especially after finding the feather. They follow it, discover a new realm, and ultimately become the hero of their own tale. The transformation shows growing agency.",
+      "evidence": "Sam followed its light through a forgotten door... Slowly Sam learned to trust their own quiet courage, becoming the keeper of stories and the hero of their own tale."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Sam is the main character and driver of the plot after discovering the feather. The story centers around their journey and transformation.",
+      "evidence": "One evening, Sam found a shimmering feather...Sam followed its light through a forgotten door...Slowly Sam learned to trust their own quiet courage, becoming the keeper of stories and the hero of their own tale."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story focuses mostly on Sam's personal achievement of courage and becoming a hero. There are slight relational elements because they become 'keeper of stories', implying a connection to others, but the emphasis is on personal growth and accomplishment.",
+      "evidence": "Slowly Sam learned to trust their own quiet courage, becoming the keeper of stories and the hero of their own tale."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 4,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

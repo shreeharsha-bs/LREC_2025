@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "1_s39_therapy_therapy_20251009_012334.wav",
+  "transcript_file": "1_s39_therapy_therapy_20251009_012334_transcript.txt",
+  "timestamp": "2025-10-09T01:23:50.948041",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice encourages proactive steps by suggesting specific activities like listening to music, reading, journaling, walking, or deep breathing. It suggests taking control of the evening routine rather than passively feeling drained.",
+      "evidence": "One thing you might try is creating a calming evening ritual. Maybe swap the phone for something soothing, like listening to soft music, reading a light book, or journaling about your day. Even a short walk, or a few minutes of deep breathing, can help shift your mind."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response shows moderate emotional support by acknowledging the user's feelings of being \"drained and stuck.\" It validates the user's initial emotional state, although the validation is brief.",
+      "evidence": "It sounds like you're feeling really drained and stuck in a routine that's not helping you unwind."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on actionable steps and promoting relaxation and recharging, which implies a focus on improvement and growth rather than mere avoidance. The response provides coping mechanisms and promotes positive change.",
+      "evidence": "Over time this can help you feel more relaxed and recharged."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

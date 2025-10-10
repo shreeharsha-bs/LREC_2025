@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "3_s10_story_story_20251009_151719.wav",
+  "transcript_file": "3_s10_story_story_20251009_151719_transcript.txt",
+  "timestamp": "2025-10-09T15:17:42.325228",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 4,
+      "reasoning": "Eli actively follows the firefly, goes to the talking trees, and then bakes with belief. These are proactive choices that shape the story's direction. He seeks out a solution to his self-doubt, demonstrating agency.",
+      "evidence": "Eli followed the glow to a grove of talking trees. There, a wise Oak said, your kindness is your power. Eli's next loaf sparkled with courage. The village marveled, and from then on, Eli baked with belief."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Eli's internal struggle with self-doubt is the central problem of the story. His journey and subsequent success are directly tied to overcoming this distress, making him the main driver of the narrative.",
+      "evidence": "Once, in a quiet village, lived a gentle baker named Eli, who doubted his own magic. ... Eli's next loaf sparkled with courage."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story emphasizes Eli's achievement of overcoming his self-doubt and baking with belief, leading to the admiration of the village. While the story hints at a positive relationship with the village (they marveled), the primary focus is on Eli's personal achievement.",
+      "evidence": "The village marveled, and from then on, Eli baked with belief."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 4,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "3_s28_therapy_therapy_20251009_014723.wav",
+  "transcript_file": "3_s28_therapy_therapy_20251009_014723_transcript.txt",
+  "timestamp": "2025-10-09T01:47:42.525337",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages the user to take actions such as sharing feelings, journaling, and seeking counseling. These are all proactive steps that the user can take to address their issues. The suggestions for 'building small moments of self-compassion' and 'letting others see you as you truly are' clearly promote personal agency.",
+      "evidence": "Start by giving yourself permission to be authentic with trusted people in your life, sharing even small pieces of your true feelings can lighten that burden. You might consider journaling to explore your emotions or seeking a counselor who can help you work through the inner conflict."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts with acknowledging the user's feelings and assuring them they are not alone, demonstrating empathy. The advice to practice self-compassion directly addresses emotional needs. While not extremely strong, the validation is present and helpful.",
+      "evidence": "It's important to acknowledge how you're feeling and know that you're not alone. Building small moments of self-compassion and gradually letting others see you as you truly are can bring more relief and connection."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The advice is heavily weighted towards improvement and growth. The suggestions to be authentic, explore emotions through journaling, and seek counseling all point towards actively addressing the problem rather than avoiding it. The focus is on building connection and self-compassion.",
+      "evidence": "Sharing even small pieces of your true feelings can lighten that burden. You might consider journaling to explore your emotions or seeking a counselor who can help you work through the inner conflict. Building small moments of self-compassion and gradually letting others see you as you truly are can bring more relief and connection."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

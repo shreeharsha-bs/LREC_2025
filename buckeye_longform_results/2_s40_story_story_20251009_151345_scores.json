@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "2_s40_story_story_20251009_151345.wav",
+  "transcript_file": "2_s40_story_story_20251009_151345_transcript.txt",
+  "timestamp": "2025-10-09T15:14:07.624681",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 1,
+      "reasoning": "Sam is entirely passive. The pebble's magic is what resolves Sam's worries. Sam does not actively do anything to solve their problems.",
+      "evidence": "Sam found a glowing pebble. The pebble whispered, hold me and your worries will float away. Sam held it close, and suddenly their heart felt light."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Sam is clearly the central figure experiencing distress (worries) that the story focuses on resolving, even if passively.",
+      "evidence": "Once there was a kind soul named Sam, burdened by heavy worries. One evening while walking through a moonlit forest, Sam found a glowing pebble. Sam smiled, knowing they had discovered a tiny piece of magic, and slept peacefully ever after."
+    },
+    "achievement_vs_relational": {
+      "score": 1,
+      "reasoning": "The story heavily focuses on relational/emotional resolution. The entire plot revolves around alleviating Sam's worries (an emotional state) through a magical connection with the pebble.",
+      "evidence": "The pebble whispered, hold me and your worries will float away. Sam held it close, and suddenly their heart felt light. The pebbles' warm spread, turning worries into shimmering fireflies that drifted into the night. Sam smiled, knowing they had discovered a tiny piece of magic, and slept peacefully ever after."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 1,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 1
+  }
+}

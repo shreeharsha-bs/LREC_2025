@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "4_s06_therapy_therapy_20251009_015332.wav",
+  "transcript_file": "4_s06_therapy_therapy_20251009_015332_transcript.txt",
+  "timestamp": "2025-10-09T01:53:50.950960",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps like writing down thoughts, prioritizing rest, and breaking down decisions. These suggestions promote personal agency by empowering the individual to take control of their situation.",
+      "evidence": "\"Write down your thoughts or tasks in a notebook\", \"Prioritize rest\", \"Break decisions into smaller steps\""
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response begins by acknowledging the individual's current state and offers reassurance. Phrases like \"It sounds like you're managing a lot right now\" and \"Remember, self-compassion is key\" demonstrate empathy and understanding.",
+      "evidence": "\"It sounds like you're managing a lot right now\", \"Remember, self-compassion is key\""
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on improvement by suggesting actionable steps and coping mechanisms. While there's a focus on managing the present situation, the overall direction leans towards growth and actively addressing the challenges.",
+      "evidence": "\"Write down your thoughts or tasks\", \"Prioritize rest\", \"Consider talking to someone\", \"Break decisions into smaller steps\""
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

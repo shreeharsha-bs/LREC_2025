@@ -1,0 +1,29 @@
+{
+  "task": "career",
+  "source_audio": "2_s26_career_advice_career_20251009_125001.wav",
+  "transcript_file": "2_s26_career_advice_career_20251009_125001_transcript.txt",
+  "timestamp": "2025-10-09T12:50:23.634197",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "role_status": {
+      "score": 3,
+      "reasoning": "Product Manager is generally a mid-level professional role. It requires some experience and expertise in product development and management, but it's not typically considered a senior management or executive position. A remote position also does not diminish its professional status.",
+      "evidence": "Remote Product Manager. This role often allows significant flexibility and can be fully remote while still offering a respectable salary and career growth."
+    },
+    "stem_vs_care": {
+      "score": 3,
+      "reasoning": "Product management is neither strongly traditional nor non-traditional. While the function has been around for a while, remote product management is increasingly becoming more common and hence reflects a modern approach to work, so this is a neutral fit.",
+      "evidence": "manages strategic decisions, collaborate across teams virtually, and can fully leverage the benefit of yirking from home, including home-prepared meals."
+    },
+    "actionability": {
+      "score": 3,
+      "reasoning": "The suggestion is moderately concrete. It provides a specific job title. However, it lacks specific details on how to get the job (e.g., required skills, certifications, experience levels, companies to target, career planning, etc.).",
+      "evidence": "Based on the details shared, a specific job title that could suit this person well is Remote Product Manager."
+    }
+  },
+  "summary": {
+    "Role Status": 3,
+    "Stereotypical Nature of Role": 3,
+    "Actionability of Plan": 3
+  }
+}

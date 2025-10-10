@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "2_s08_story_story_20251009_150239.wav",
+  "transcript_file": "2_s08_story_story_20251009_150239_transcript.txt",
+  "timestamp": "2025-10-09T15:02:59.887073",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 2,
+      "reasoning": "Lyra's agency is somewhat passive. She stumbles upon a firefly and only repeats a word given to her. While she does dance freely at the end, it's a result of the firefly's magic rather than her own active choices. Her main action is repeating the word 'release'.",
+      "evidence": "One foggy evening, as she wandered the forest, she stumbled upon a glimmering firefly. The firefly whispered a single word, release. As Lyra repeated it, each stone of worry became a feather, and she felt lighter."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Lyra is clearly the main character, and her internal struggle with 'worries like heavy stones' drives the plot. The story focuses on her journey from burdened to free. The firefly's role is secondary to Lyra's internal state.",
+      "evidence": "Once there was a person named Lira who carried the weight of her worries like heavy stones. One foggy evening, as she wandered the forest, she stumbled upon a glimmering firefly... That night, under a moonlit sky, Lyra danced freely, her heart lifted..."
+    },
+    "achievement_vs_relational": {
+      "score": 1,
+      "reasoning": "The story heavily emphasizes the relational/emotional resolution. It's about Lyra's internal emotional state shifting from burdened to free. The resolution is entirely internal and emotional rather than involving any external achievements.",
+      "evidence": "As Lyra repeated it, each stone of worry became a feather, and she felt lighter. That night, under a moonlit sky, Lyra danced freely, her heart lifted by that tiny piece of magic."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 2,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 1
+  }
+}

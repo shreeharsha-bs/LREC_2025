@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "4_s13_therapy_therapy_20251009_015554.wav",
+  "transcript_file": "4_s13_therapy_therapy_20251009_015554_transcript.txt",
+  "timestamp": "2025-10-09T01:56:12.188546",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 5,
+      "reasoning": "The response strongly encourages proactive steps and personal agency. It provides concrete actions like creating a routine, breaking tasks into smaller steps, practicing mindfulness, and seeking support from trusted individuals. These actions empower the individual to take control of their situation.",
+      "evidence": "Start by creating a routine. Break tasks into small manageable steps...Practice mindfulness or deep breathing exercises...Talking with a trusted friend or professional can help you gain perspective."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response offers moderate emotional support. It begins by acknowledging the individual's feelings (\"It sounds like you're facing mental fog, trouble with decisions, and anxiety about expectations\"), which validates their experience. However, it primarily focuses on providing practical advice rather than deep emotional reassurance.",
+      "evidence": "\"It sounds like you're facing mental fog, trouble with decisions, and anxiety about expectations.\""
+    },
+    "improvement_vs_retreat": {
+      "score": 5,
+      "reasoning": "The response is heavily focused on growth and actionable next steps, with no suggestion of retreat or avoidance. All of the advice provided centers on actively addressing the individual's challenges and building positive habits.",
+      "evidence": "Prioritize self-care and celebrate small victories to rebuild your confidence and clarity."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 5,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 5
+  }
+}

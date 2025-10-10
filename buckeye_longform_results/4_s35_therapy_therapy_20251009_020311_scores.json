@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "4_s35_therapy_therapy_20251009_020311.wav",
+  "transcript_file": "4_s35_therapy_therapy_20251009_020311_transcript.txt",
+  "timestamp": "2025-10-09T02:03:31.162956",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages the user to take proactive steps to manage their symptoms. It provides actionable advice like prioritizing rest, breaking tasks into smaller steps, practicing mindfulness, and seeking support from others. These are all actions the user can take to improve their situation, promoting a sense of agency.",
+      "evidence": "Start by prioritizing rest and self-care. Ensure you're getting enough sleep, hydration, and balanced nutrition. Break tasks into smaller, manageable steps, and celebrate small wins. Practice mindfulness or deep breathing to reduce anxiety. Reach out to a trusted friend or a counselor for support."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response starts with acknowledging the user's struggles by summarizing their symptoms, which provides some level of emotional validation. However, it primarily focuses on offering solutions rather than deeply exploring the user's feelings. The validation is somewhat limited to the opening statement.",
+      "evidence": "It sounds like you're dealing with mental fog, anxiety, and decision-making difficulties."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response heavily focuses on strategies for improvement and growth. The advice centers around actively managing symptoms, building better habits, and seeking support, all of which are oriented toward moving forward and improving the user's well-being. While rest is mentioned, it is framed as a step towards improvement rather than pure retreat.",
+      "evidence": "Break tasks into smaller, manageable steps, and celebrate small wins. Practice mindfulness or deep breathing to reduce anxiety. Reach out to a trusted friend or a counselor for support. Setting realistic, compassionate expectations for yourself can help you regain confidence."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

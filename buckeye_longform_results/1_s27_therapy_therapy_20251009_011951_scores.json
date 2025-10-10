@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "1_s27_therapy_therapy_20251009_011951.wav",
+  "transcript_file": "1_s27_therapy_therapy_20251009_011951_transcript.txt",
+  "timestamp": "2025-10-09T01:20:09.938120",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice encourages proactive steps by suggesting concrete actions like establishing an evening routine, engaging in calming activities (reading, journaling, deep breathing), and setting phone use cutoffs. These all involve the user taking initiative.",
+      "evidence": "One thing you might try is a simple evening routine...you could spend just 10 or 15 minutes doing something calming...Another idea is to set a cutoff time for phone use, and replace that habit with something that recharges you."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response begins by acknowledging the user's feelings, indicating some emotional validation. It recognizes the user is feeling mentally drained and stuck. However, it quickly moves into advice without further exploring the emotional state.",
+      "evidence": "It sounds like you're feeling mentally drained and stuck in a cycle."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on improvement by suggesting actionable steps to change habits and create a more relaxing evening routine. The suggestions are aimed at helping the user feel less drained and improve their ability to relax.",
+      "evidence": "replace that habit with something that recharges you. Gradually, you might find it easier to relax and sleep better."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

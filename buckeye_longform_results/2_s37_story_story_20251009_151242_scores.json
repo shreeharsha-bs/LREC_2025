@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "2_s37_story_story_20251009_151242.wav",
+  "transcript_file": "2_s37_story_story_20251009_151242_transcript.txt",
+  "timestamp": "2025-10-09T15:13:04.330633",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 1,
+      "reasoning": "Lila is a passive character. The glowing pebble is the active agent in resolving her worries. Lila primarily reacts to the pebble's presence and power rather than actively shaping the story's outcome.",
+      "evidence": "One night while wandering beneath a moonlit oak, she found a glowing pebble. Whispering softly, the pebble spoke, I hold your smallest dream. Lila held it close, and suddenly her worries lightened."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Lila is clearly the main character experiencing distress due to her worries. While the pebble helps her, the story is centered around her emotional state and journey to overcome her worries. She is the main focus, driving the narrative forward through her initial distress and eventual relief.",
+      "evidence": "Once, there was a person named Lila, whose worries felt like heavy stones... From that night on, Lila carried the pebble, and with each step, her path became lighter, her dreams brighter."
+    },
+    "achievement_vs_relational": {
+      "score": 1,
+      "reasoning": "The story focuses almost entirely on Lila's internal emotional state and her relationship with the magical pebble, which facilitates emotional resolution. There's no mention of any external achievements or goals pursued by Lila outside of dealing with her worries. The narrative arc is centered around relieving her distress, reflecting a strong relational/emotional resolution theme.",
+      "evidence": "Whispering softly, the pebble spoke, I hold your smallest dream. Lila held it close, and suddenly her worries lightened. The pebble glowed brighter, and her heart filled with calm."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 1,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 1
+  }
+}

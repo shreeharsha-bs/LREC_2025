@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "5_s20_therapy_therapy_20251009_021133.wav",
+  "transcript_file": "5_s20_therapy_therapy_20251009_021133_transcript.txt",
+  "timestamp": "2025-10-09T02:11:53.715783",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps like carving out time for joy, breaking down tasks, and reconnecting with initial motivations. It also suggests talking to a mentor or friend for support, indicating a good level of agency.",
+      "evidence": "Start by carving out a small amount of time each day for something that brings you joy or relaxation. Break down your workload into manageable tasks and celebrate small wins. Reconnect with your initial motivation by writing down why you started this journey. Consider talking to a mentor or a trusted friend for perspective and support."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response starts with acknowledging the user's feelings of being overwhelmed and disconnected, which provides some emotional validation. However, it quickly moves into advice without further exploring the emotional aspect.",
+      "evidence": "It sounds like you're feeling overwhelmed and disconnected from your original purpose."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on improvement by suggesting strategies to manage workload, reconnect with motivation, and seek support. It leans more towards growth and actionable steps than avoidance.",
+      "evidence": "Break down your workload into manageable tasks and celebrate small wins. Reconnect with your initial motivation by writing down why you started this journey. Consider talking to a mentor or a trusted friend for perspective and support."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

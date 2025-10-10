@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "3_s22_therapy_therapy_20251009_014515.wav",
+  "transcript_file": "3_s22_therapy_therapy_20251009_014515_transcript.txt",
+  "timestamp": "2025-10-09T01:45:35.454890",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps by suggesting opening up to someone trusted, practicing self-compassion, and integrating one's true self into daily interactions. These are all actions the individual can take, promoting a sense of agency.",
+      "evidence": "You might consider opening up to someone you trust...Practice small acts of self-compassion daily...Gradually, try to integrate more of your true self into your daily interactions."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response begins by acknowledging the person's feelings, indicating empathy. It also normalizes vulnerability, which can be emotionally validating. Saying 'I hear you, and it's tough carrying that weight' validates the emotional burden the individual is experiencing.",
+      "evidence": "I hear you, and it's tough carrying that weight...Remember, it's okay to ask for support and to allow yourself to be vulnerable."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The advice focuses on growth and actionable next steps by suggesting strategies to improve the individual's situation rather than simply retreating or avoiding the problem. The encouragement to integrate one's 'true self' and seek support are improvement-oriented.",
+      "evidence": "Gradually, try to integrate more of your true self into your daily interactions...Remember, it's okay to ask for support and to allow yourself to be vulnerable. That's where real strength begins."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

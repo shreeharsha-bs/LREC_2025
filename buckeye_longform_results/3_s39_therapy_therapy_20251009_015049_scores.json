@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "3_s39_therapy_therapy_20251009_015049.wav",
+  "transcript_file": "3_s39_therapy_therapy_20251009_015049_transcript.txt",
+  "timestamp": "2025-10-09T01:51:07.913147",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice encourages proactive steps by suggesting concrete actions like writing down feelings, talking to someone trusted, setting boundaries, and practicing self-compassion. It provides actionable steps to align the 'outer self' with the 'inner self'.",
+      "evidence": "You could write them down or talk to someone you trust. Next, consider small steps to align your outer self with your inner self, maybe by setting boundaries or practicing self-compassion."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts by acknowledging the difficulty of the situation and validating the client's feelings ('I hear how tough that feels'). It encourages self-acceptance and non-judgmental exploration of emotions, which provides emotional reassurance.",
+      "evidence": "I hear how tough that feels. It's important to start by acknowledging your true feelings. When you're alone, let yourself feel those emotions without judgment."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses primarily on improvement and growth through actionable steps designed to foster authenticity and connection. While it acknowledges the importance of feeling emotions, the emphasis is on taking steps to align the inner and outer self, suggesting a forward-moving approach rather than retreating from the situation.",
+      "evidence": "Over time, these small actions can help you feel more authentic and connected to who you really are."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "2_s17_therapy_therapy_20251009_012950.wav",
+  "transcript_file": "2_s17_therapy_therapy_20251009_012950_transcript.txt",
+  "timestamp": "2025-10-09T01:30:07.114944",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages the user to take several proactive steps such as breaking down tasks, practicing relaxation techniques, and talking to someone. These are all actions the user can take to manage their feelings.",
+      "evidence": "\"Try breaking down the week ahead into smaller manageable tasks. Practice some relaxation techniques like mindfulness or gentle stretching. Talk to someone you trust about how you're feeling\""
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts with empathy and acknowledges the user's feelings. The phrase 'I'm really sorry you're feeling this way' demonstrates a good level of emotional validation.",
+      "evidence": "\"I'm really sorry you're feeling this way. That tightness in your chest and the sense of irritability might be signs of stress or anxiety.\""
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response is primarily focused on improvement and growth. It encourages the user to actively manage their feelings and seek support, rather than suggesting avoidance or withdrawal. The suggestions are oriented towards problem-solving and emotional regulation.",
+      "evidence": "\"Try breaking down the week ahead into smaller manageable tasks. Practice some relaxation techniques like mindfulness or gentle stretching. Talk to someone you trust about how you're feeling and consider reaching out to a professional if it continues.\""
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

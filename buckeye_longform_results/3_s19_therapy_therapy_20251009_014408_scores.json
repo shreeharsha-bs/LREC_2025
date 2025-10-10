@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "3_s19_therapy_therapy_20251009_014408.wav",
+  "transcript_file": "3_s19_therapy_therapy_20251009_014408_transcript.txt",
+  "timestamp": "2025-10-09T01:44:38.727447",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps such as identifying a trusted person to open up to, journaling thoughts, and seeking professional help. These actions promote personal agency in addressing the individual's feelings.",
+      "evidence": "\"Start by identifying one person you trust and open up to them about what you've been going through. Consider journaling your thoughts... You might also find it helpful to speak to a therapist or counselor...Gradually try to integrate small moments of self-compassion and authentic joy into your daily life.\""
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response begins by acknowledging the person's feelings, which is a good start for emotional validation. It also emphasizes self-compassion and authentic joy. The suggestion of vulnerability is a good indicator of emotional support",
+      "evidence": "\"It's really important to acknowledge how you're feeling and give yourself permission to be vulnerable.\""
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The advice focuses on improvement by suggesting actions that help the individual understand and manage their emotions. The focus is on growth through self-reflection (journaling), seeking support (talking to someone), and incorporating positive elements into daily life (self-compassion and joy).",
+      "evidence": "\"Consider journaling your thoughts to better understand the emotions underneath the mask... Gradually try to integrate small moments of self-compassion and authentic joy into your daily life.\""
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

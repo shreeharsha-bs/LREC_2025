@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "3_s12_therapy_therapy_20251009_014141.wav",
+  "transcript_file": "3_s12_therapy_therapy_20251009_014141_transcript.txt",
+  "timestamp": "2025-10-09T01:41:58.708446",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps by suggesting journaling, talking to someone trusted, and finding small moments of authenticity. These are actions the user can take to address their feelings of disconnect.",
+      "evidence": "A helpful next step could be to spend time journaling your true emotions without judgment. Consider talking to someone you trust or a professional about your feelings. small moments of authenticity each day, sharing even a little of your real self."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts by acknowledging the user's feelings of disconnect, providing a basis of understanding and empathy. The suggestion to journal 'without judgment' further validates the user's emotional experience.",
+      "evidence": "It sounds like you're feeling a deep disconnect between the person you present to the world and how you feel inside."
+    },
+    "improvement_vs_retreat": {
+      "score": 5,
+      "reasoning": "The response focuses heavily on actionable steps for growth and improvement, such as journaling, communication, and self-compassion, without suggesting avoidance or withdrawal as coping mechanisms.",
+      "evidence": "Building self-compassion and gradually aligning your outer and inner worlds can bring relief over time."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 5
+  }
+}

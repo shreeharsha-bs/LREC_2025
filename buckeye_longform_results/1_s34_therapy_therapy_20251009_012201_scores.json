@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "1_s34_therapy_therapy_20251009_012201.wav",
+  "transcript_file": "1_s34_therapy_therapy_20251009_012201_transcript.txt",
+  "timestamp": "2025-10-09T01:22:19.548936",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice encourages taking proactive steps like setting a calming ritual and putting the phone away earlier. It suggests actions that can be directly implemented.",
+      "evidence": "One thing you could try next is setting a small calming ritual before bed... You could also try putting your phone away a little earlier..."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response begins with an empathetic statement, showing acknowledgment of the user's feelings of being drained and stuck.",
+      "evidence": "I hear you. It sounds like you're feeling really drained and stuck in that scrolling loop."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on actionable steps that can lead to improvement in sleep habits and overall well-being. It does not suggest withdrawal or escape but rather strategies to manage the situation actively.",
+      "evidence": "Maybe reading a few pages of a book, doing a few deep breaths, or listening to some calming music. It might help break the cycle. You could also try putting your phone away a little earlier and focusing on something that brings even a hint of joy or relaxation."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

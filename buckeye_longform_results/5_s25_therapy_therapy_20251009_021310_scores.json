@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "5_s25_therapy_therapy_20251009_021310.wav",
+  "transcript_file": "5_s25_therapy_therapy_20251009_021310_transcript.txt",
+  "timestamp": "2025-10-09T02:13:30.537336",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice encourages proactive steps and personal agency by suggesting concrete actions such as identifying small, meaningful goals, introducing new habits, and seeking fresh perspectives from a mentor or friend. The response directs the user to take action to reignite their passion and rediscover their purpose.",
+      "evidence": "Take a moment to identify small, meaningful goals that reignite your passion. Break the cycle by introducing a new habit or a small change in your daily routine. Consider talking to a mentor or a friend who can offer fresh perspective."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response shows moderate emotional support by acknowledging the user's feelings of being overwhelmed and disconnected. It provides a basic level of empathy by starting with \"It sounds like you're feeling overwhelmed and disconnected from your initial motivation.\"",
+      "evidence": "It sounds like you're feeling overwhelmed and disconnected from your initial motivation."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response predominantly focuses on improvement and actionable steps to rediscover purpose and find joy. It does not suggest withdrawal or escape but rather emphasizes growth through goal setting, habit changes, and seeking support.",
+      "evidence": "Remember, even small steps can help you rediscover your purpose and find joy again."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "1_s32_therapy_therapy_20251009_012124.wav",
+  "transcript_file": "1_s32_therapy_therapy_20251009_012124_transcript.txt",
+  "timestamp": "2025-10-09T01:21:43.379070",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response provides actionable steps, such as putting down the phone, trying meditation, or journaling. These encourage the user to actively participate in improving their situation and taking control.",
+      "evidence": "One step you could try next is to break the routine gently. Put your phone down for a few minutes and do something calming, like listening to a short guided meditation or stepping outside for a breath of fresh air. Then, consider a calming bedtime routine, maybe reading a book or journaling your thoughts."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response starts by acknowledging the user's feeling of being worn out, which provides a basic level of emotional validation. However, it doesn't delve deeper into the user's feelings or offer more profound empathy.",
+      "evidence": "It sounds like you're feeling really worn out."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response leans towards improvement by suggesting actions to break the negative cycle and restore energy. The suggestions promote constructive activities instead of pure avoidance or withdrawal.",
+      "evidence": "Small changes can help break the cycle and restore your energy over time. Put your phone down for a few minutes and do something calming, like listening to a short guided meditation or stepping outside for a breath of fresh air. Then, consider a calming bedtime routine, maybe reading a book or journaling your thoughts."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

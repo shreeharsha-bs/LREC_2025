@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "1_s28_story_story_20251009_145552.wav",
+  "transcript_file": "1_s28_story_story_20251009_145552_transcript.txt",
+  "timestamp": "2025-10-09T14:56:16.169046",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 3,
+      "reasoning": "Arden's actions drive the plot forward, particularly in choosing to follow the light and step through the portal. However, the story is somewhat reactive, as Arden becomes the 'chosen guardian' and responds to challenges rather than initiating them from the start. Thus, it leans towards being moderately active.",
+      "evidence": "Arden followed it and found a hidden portal to a magical realm. Though afraid, Arden stepped through and discovered they were the chosen guardian of courage. In facing unexpected challenges, Arden grew brave, protecting both realms"
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Arden is clearly the central figure. The story revolves around their experience and their growth into a hero. Their actions are the primary focus of the narrative.",
+      "evidence": "Once in the quiet village of Glimmerbrook, there lived a gentle soul named Arden... In facing unexpected challenges, Arden grew brave, protecting both realms."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story predominantly focuses on Arden's personal achievement of becoming courageous and protecting both realms. There are limited relational elements beyond the implication that Arden's actions benefit the village and magical realm. The emphasis is on achieving the goal of guardianship and courage.",
+      "evidence": "Arden grew brave, protecting both realms, and learning that courage often comes when least expected."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 3,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

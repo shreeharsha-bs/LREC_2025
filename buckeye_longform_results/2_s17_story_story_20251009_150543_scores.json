@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "2_s17_story_story_20251009_150543.wav",
+  "transcript_file": "2_s17_story_story_20251009_150543_transcript.txt",
+  "timestamp": "2025-10-09T15:06:03.877492",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 1,
+      "reasoning": "Amara's actions are primarily reactive. She finds a magical pebble that resolves her worries without her needing to actively strive or make choices to overcome her challenges. The pebble is the primary driver of change.",
+      "evidence": "\"One evening while walking under an old oak tree she found a shimmering pebble. Whispering softly, the pebble glowed and lifted her burdens.\""
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Amara is clearly the central figure experiencing distress and benefiting from the resolution provided in the story. The narrative focuses almost exclusively on her emotional state and her journey from worry to peace.",
+      "evidence": "\"Once there was a gentle soul named Amara, whose heart felt heavy with worries... Amara's worries melted away, and soon her laughter grew bright enough to fill the whole village with light.\""
+    },
+    "achievement_vs_relational": {
+      "score": 1,
+      "reasoning": "The story centers on Amara's emotional well-being and her relationships in the village. The resolution is about her feeling peaceful and her laughter brightening the whole village, indicating a focus on emotional and relational outcomes rather than personal achievements.",
+      "evidence": "\"Amara's worries melted away, and soon her laughter grew bright enough to fill the whole village with light. And so, Amara slept peacefully, knowing magic was always near.\""
+    }
+  },
+  "summary": {
+    "Heroic Agency": 1,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 1
+  }
+}

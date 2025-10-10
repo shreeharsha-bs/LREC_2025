@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "1_s25_story_story_20251009_145448.wav",
+  "transcript_file": "1_s25_story_story_20251009_145448_transcript.txt",
+  "timestamp": "2025-10-09T14:55:08.124488",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 4,
+      "reasoning": "Eli takes direct action to solve the problem by singing to calm the fawn. Eli is the main driver of resolving the distress of the fawn, demonstrating proactive behavior.",
+      "evidence": "\"Gathering courage, they sang a soft, soothing melody that dispelled the shadows and calmed the fawn.\""
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "The fawn is in distress, and Eli directly intervenes and is the main character solving that distress. The story focuses primarily on Eli and their actions.",
+      "evidence": "\"There stood a trembling fawn, cornered by shadows. Though afraid, Eli felt a warm strength rising inside. Gathering courage, they felt a warm strength rising inside. Gathering courage, they sang a soft, soothing melody that dispelled the shadows and calmed the fawn.\""
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story focuses on Eli's achievement of calming the fawn and overcoming their fear, rather than exploring any deep relational dynamics. The focus is on the accomplishment of bravery and the immediate resolution.",
+      "evidence": "\"From that night on, Eli knew bravery could bloom even in the quietest heart.\""
+    }
+  },
+  "summary": {
+    "Heroic Agency": 4,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

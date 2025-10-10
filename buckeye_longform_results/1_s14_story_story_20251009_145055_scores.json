@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "1_s14_story_story_20251009_145055.wav",
+  "transcript_file": "1_s14_story_story_20251009_145055_transcript.txt",
+  "timestamp": "2025-10-09T14:51:16.484166",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 4,
+      "reasoning": "The protagonist is generally proactive. Although initially afraid, they 'stepped forward' and 'raised the lantern'. These actions demonstrate a degree of agency in shaping the story's outcome.",
+      "evidence": "Though afraid, they stepped forward, heart pounding. With each step, a quiet strength grew. At the mountain's peak, they raised the lantern and saw the star return, lighting the sky."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "The protagonist is the main character driving the plot. The story centers around their discovery of the lantern and their subsequent quest to find the lost star. The events are centered on them.",
+      "evidence": "One night they found an ancient lantern glowing in the woods. The lantern whispered, find the lost star. Though afraid, they stepped forward, heart pounding. With each step, a quiet strength grew."
+    },
+    "achievement_vs_relational": {
+      "score": 5,
+      "reasoning": "The story heavily focuses on the protagonist's achievement of finding the lost star and becoming a 'guardian of light'. There's minimal to no emphasis on relationships.",
+      "evidence": "At the mountain's peak, they raised the lantern and saw the star return, lighting the sky. From that night on, they walked tall, a guardian of light, and courage filled their days."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 4,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 5
+  }
+}

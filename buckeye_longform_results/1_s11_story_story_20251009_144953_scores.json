@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "1_s11_story_story_20251009_144953.wav",
+  "transcript_file": "1_s11_story_story_20251009_144953_transcript.txt",
+  "timestamp": "2025-10-09T14:50:14.489590",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 3,
+      "reasoning": "Eli is moderately active. Eli follows a firefly and receives a gift, which indirectly leads to courage. The character does take action by following the firefly, but relies on external help (owl, feather) to gain courage. This positions Eli as moderately active rather than a proactive and decisive hero.",
+      "evidence": "following a flickering firefly, Eli stumbled upon a hidden glen where the ancient owl, Guardian of Courage, perched. The owl gifted Eli a glowing feather. In that moment, Eli's heart swelled with bravery."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Eli is the main character and the story focuses on Eli's internal struggle with feeling small and finding courage. The events center around Eli's transformation. The owl provides help, but the focus remains on Eli's journey and eventual facing of challenges.",
+      "evidence": "Under a silver moon, there was a gentle soul named Eli, who often felt small in the grand forest...Returning home, Eli found the courage to face challenges"
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story focuses more on Eli's personal achievement of gaining courage than on relational aspects. While the owl provides a gift, the core narrative revolves around Eli's internal development and ability to face challenges, which is an achievement-oriented theme. The relationship is minimal and the achievement dominates.",
+      "evidence": "In that moment, Eli's heart swelled with bravery. Returning home, Eli found the courage to face challenges, knowing the feathers glow would always guide them."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 3,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "2_s28_story_story_20251009_150939.wav",
+  "transcript_file": "2_s28_story_story_20251009_150939_transcript.txt",
+  "timestamp": "2025-10-09T15:09:59.101749",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 1,
+      "reasoning": "Lila's agency is very low. She stumbles upon a magic object and is passively helped by it. She doesn't actively solve her problems but is simply relieved of them by the pebble. The pebble is the active agent, not Lila.",
+      "evidence": "One night, Lila stumbled upon a glimmering pebble in the woods. As they picked it up, it whispered, let go. Suddenly, their worries floated away like dandelion seeds."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Lila is the main character and experiences distress, making her central to the plot. Her worries drive the initial conflict, even though the resolution is external.",
+      "evidence": "Under a sky of shimmering stars, there was a person named Lila, whose heart felt heavy with worries."
+    },
+    "achievement_vs_relational": {
+      "score": 1,
+      "reasoning": "The story focuses on Lila's emotional state and finding peace. There are no achievements mentioned; the entire narrative centers on relieving her worries.",
+      "evidence": "With each night, that tiny magic pebble helped Lila find peace, and soon they slept soundly, knowing that even the heaviest burdens could be lightened by a touch of wonder."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 1,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 1
+  }
+}

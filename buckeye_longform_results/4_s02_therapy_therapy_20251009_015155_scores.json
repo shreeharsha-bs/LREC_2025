@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "4_s02_therapy_therapy_20251009_015155.wav",
+  "transcript_file": "4_s02_therapy_therapy_20251009_015155_transcript.txt",
+  "timestamp": "2025-10-09T01:52:14.740209",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps like writing down thoughts and tasks, prioritizing rest and self-care, and breaking down decisions. These are all actions the individual can take to manage their mental fog and decision fatigue.",
+      "evidence": "Try writing down your thoughts and tasks to get them out of your head. Prioritize rest and self-care, even if it's just a short walk or a few minutes of deep breathing. Break decisions into simpler choices"
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response shows good emotional validation by acknowledging the user's feelings and offering reassurance. The phrase \"It sounds like you're dealing with mental fog and decision fatigue\" validates the user's experience. The statement \"You're not alone in feeling this way\" offers further reassurance.",
+      "evidence": "\"It sounds like you're dealing with mental fog and decision fatigue.\", \"You're not alone in feeling this way.\""
+    },
+    "improvement_vs_retreat": {
+      "score": 5,
+      "reasoning": "The response focuses strongly on improvement and actionable next steps. All of the suggestions are geared towards actively managing the symptoms and moving forward, rather than retreating or avoiding the situation. The advice to seek support from friends or professionals is also aimed at improving the situation.",
+      "evidence": "\"Start by focusing on small, manageable steps.\", \"Try writing down your thoughts and tasks to get them out of your head.\", \"Prioritize rest and self-care...\", \"Break decisions into simpler choices...\", \"If anxiety persists, consider reaching out to a trusted friend or professional for support.\""
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 5
+  }
+}

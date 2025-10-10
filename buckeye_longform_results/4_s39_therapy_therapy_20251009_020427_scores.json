@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "4_s39_therapy_therapy_20251009_020427.wav",
+  "transcript_file": "4_s39_therapy_therapy_20251009_020427_transcript.txt",
+  "timestamp": "2025-10-09T02:04:46.817692",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The advice provided encourages proactive steps and personal agency. It suggests concrete actions like establishing a daily routine, prioritizing sleep and meals, engaging in physical activity, practicing mindfulness, and breaking tasks into smaller pieces. These are all actions the user can take to improve their situation.",
+      "evidence": "Start by taking small steps to reduce that mental fog. Begin with a consistent daily routine. Prioritize sleep, regular meals, and some gentle physical activity like walking. practice mindfulness or deep breathing exercises to manage anxiety, break tasks into smaller manageable pieces and celebrate small wins."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response provides moderate emotional support by acknowledging the user's feelings of being overwhelmed. It shows some empathy by connecting these feelings to their memory and decision-making abilities. However, it doesn't delve deeply into the emotional experience itself.",
+      "evidence": "It sounds like you're feeling overwhelmed and that's affecting your memory and decision making."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response primarily focuses on improvement and growth by suggesting practical steps to address the issues the user is facing. The suggestions aim to enhance well-being and problem-solving abilities rather than suggesting retreat or avoidance. Although it mentions seeking professional help if things don't improve, the main emphasis is on proactive strategies for improvement.",
+      "evidence": "Start by taking small steps to reduce that mental fog. Begin with a consistent daily routine. Prioritize sleep, regular meals, and some gentle physical activity like walking. practice mindfulness or deep breathing exercises to manage anxiety, break tasks into smaller manageable pieces and celebrate small wins. If things don't improve, consider talking to a professional for guidance."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

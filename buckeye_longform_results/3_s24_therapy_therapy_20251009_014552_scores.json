@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "3_s24_therapy_therapy_20251009_014552.wav",
+  "transcript_file": "3_s24_therapy_therapy_20251009_014552_transcript.txt",
+  "timestamp": "2025-10-09T01:46:12.078617",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages action and personal agency by suggesting concrete steps like opening up to someone trusted, journaling emotions, and integrating authenticity into daily interactions. These are proactive steps that empower the individual to take control of their situation.",
+      "evidence": "A helpful next step to be to practice opening up to someone you trust, sharing how you really feel. Journaling your emotions can also help you understand them better. Gradually, start integrating moments of authenticity in your daily interactions."
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response begins by acknowledging and validating the user's feelings of disconnect, which provides a foundation of emotional support. It demonstrates empathy and understanding before offering advice.",
+      "evidence": "It sounds like you're feeling a deep disconnect between the version of yourself you show the world and how you feel inside."
+    },
+    "improvement_vs_retreat": {
+      "score": 5,
+      "reasoning": "The response is strongly focused on improvement and growth by suggesting ways to understand and express true feelings. It doesn't suggest any form of retreat or avoidance; instead, it provides actionable steps towards personal development.",
+      "evidence": "Small steps toward showing your true self can build confidence over time."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 5
+  }
+}

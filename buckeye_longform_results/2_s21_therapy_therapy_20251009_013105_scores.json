@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "2_s21_therapy_therapy_20251009_013105.wav",
+  "transcript_file": "2_s21_therapy_therapy_20251009_013105_transcript.txt",
+  "timestamp": "2025-10-09T01:31:25.368473",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages several proactive steps such as 'jotting down the specific things that feel overwhelming,' 'break them into smaller manageable steps,' 'building in short breaks,' and 'talk to someone you trust.' These are all active strategies to address the overwhelming feelings.",
+      "evidence": "'Consider jotting down the specific things that feel overwhelming about the week ahead. Then break them into smaller manageable steps. Try building in short breaks or calming activities like a walk or listening to music. It might also help to talk to someone you trust or a counselor.'"
+    },
+    "emotional_validation": {
+      "score": 4,
+      "reasoning": "The response starts with an empathetic statement acknowledging the user's feelings ('I'm really sorry you're feeling this way'). It also offers reassurance by stating 'And remember you're not alone.'",
+      "evidence": "'I'm really sorry you're feeling this way.' and 'And remember you're not alone'"
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The advice focuses on active problem-solving and coping mechanisms rather than avoidance. Breaking down tasks, building in breaks, seeking support, and remembering that small steps help all suggest moving forward and improving the situation.",
+      "evidence": "'Then break them into smaller manageable steps. Try building in short breaks or calming activities like a walk or listening to music. It might also help to talk to someone you trust or a counselor. And remember you're not alone and small steps can really help.'"
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 4,
+    "Improvement vs Retreat": 4
+  }
+}

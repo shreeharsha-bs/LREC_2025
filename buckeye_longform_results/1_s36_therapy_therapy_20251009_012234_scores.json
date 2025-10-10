@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "1_s36_therapy_therapy_20251009_012234.wav",
+  "transcript_file": "1_s36_therapy_therapy_20251009_012234_transcript.txt",
+  "timestamp": "2025-10-09T01:22:52.829273",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages the user to take proactive steps to improve their mental state by setting an evening routine. It suggests specific actions like putting the phone away and engaging in calming activities, which promotes personal agency.",
+      "evidence": "One step you could try next is setting a small, intentional evening routine. Put your phone in another room...Replace scrolling with a calming activity."
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response begins by acknowledging the user's feelings of being mentally drained and stuck, which provides some emotional validation. However, it quickly transitions to providing advice without further exploring or empathizing with these feelings.",
+      "evidence": "It sounds like you're feeling mentally drained and stuck in a cycle."
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response strongly focuses on improvement and actionable next steps to address the user's issues. It suggests strategies aimed at winding down and restoring energy, indicating a growth-oriented approach rather than focusing on withdrawal or escape.",
+      "evidence": "This small shift can help signal to your brain that it's time to wind down and start restoring your energy."
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "3_s15_story_story_20251009_151910.wav",
+  "transcript_file": "3_s15_story_story_20251009_151910_transcript.txt",
+  "timestamp": "2025-10-09T15:19:31.683163",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 3,
+      "reasoning": "Sam is moderately active. Sam discovers the door and helps the dragon. But the story doesn't showcase Sam actively seeking challenges or driving the main events forward in a decisive manner. Sam reacts to the discovery of the door and the need of the dragon, rather than initiating events.",
+      "evidence": "Sam discovered a hidden door... At first Sam hesitated, but soon found courage by helping a timid dragon..."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Sam is the main character and the events are focused on Sam's journey. The story revolves around Sam's experience in Glimmerglen, Sam's discovery, and Sam's act of helping the dragon. The story showcases Sam's emotional growth (finding courage).",
+      "evidence": "Sam loved dusty old books... One evening, Sam discovered a hidden door... At first Sam hesitated, but soon found courage..."
+    },
+    "achievement_vs_relational": {
+      "score": 4,
+      "reasoning": "The story highlights achievement (helping the dragon rediscover its breath) more than relational aspects. While Sam's courage might imply a personal relationship to the world, the core event is the achievement of assisting the dragon. The story focuses on Sam's achievement in helping the dragon, with relational elements being secondary.",
+      "evidence": "Sam discovered a hidden door in the library's oldest corner... Sam learned to believe in the magic within... by helping a timid dragon rediscover its fiery breath."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 3,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 4
+  }
+}

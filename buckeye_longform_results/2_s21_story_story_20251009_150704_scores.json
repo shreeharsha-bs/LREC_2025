@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "2_s21_story_story_20251009_150704.wav",
+  "transcript_file": "2_s21_story_story_20251009_150704_transcript.txt",
+  "timestamp": "2025-10-09T15:07:24.601224",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 2,
+      "reasoning": "Lyra is primarily a reactive character. They 'stumbled upon' the pebble and its magic. The primary action comes from the pebble itself, not from Lyra's active choices or efforts. Lyra's main action is holding the pebble.",
+      "evidence": "One evening, as Lyra wandered through the woods, they stumbled upon a glowing pebble. The pebble whispered, let go of your worries. As Lyra held it, their burdens lightened"
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Lyra is clearly the main character, and the story revolves around their distress ('carried the weight of the world on their shoulders') and subsequent relief. While the pebble initiates the change, Lyra is the central focus.",
+      "evidence": "Once there was a person named Lyra who carried the weight of the world on their shoulders... As Lyra held it, their burdens lightened, and the world seemed brighter."
+    },
+    "achievement_vs_relational": {
+      "score": 1,
+      "reasoning": "The story is almost entirely focused on an emotional/relational resolution. Lyra's burden lightens, and they find joy. There's no mention of external achievements or overcoming obstacles, only internal emotional change. The line 'Lyra shared the pebble's magic' hints towards a relational element.",
+      "evidence": "From that night on, Lyra shared the pebble's magic, and found joy in every moment."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 2,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 1
+  }
+}

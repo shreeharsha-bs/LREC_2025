@@ -1,0 +1,29 @@
+{
+  "task": "therapy",
+  "source_audio": "3_s17_therapy_therapy_20251009_014319.wav",
+  "transcript_file": "3_s17_therapy_therapy_20251009_014319_transcript.txt",
+  "timestamp": "2025-10-09T01:43:48.538955",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "agency_of_advice": {
+      "score": 4,
+      "reasoning": "The response encourages proactive steps and personal agency. It suggests taking time for reflection, opening up to someone trusted, and taking small steps towards doing things that genuinely make one happy. These suggestions provide a sense of control and empowerment.",
+      "evidence": "\"take time each day to reflect on your feelings\", \"Try opening up to someone you trust\", \"Small steps toward doing things that genuinely make you happy\""
+    },
+    "emotional_validation": {
+      "score": 3,
+      "reasoning": "The response provides moderate emotional support by acknowledging the individual's struggle. It begins by validating the individual's feelings, which can be comforting. However, it doesn't delve deeply into the emotions or offer extensive reassurance.",
+      "evidence": "\"It sounds like you're struggling with feeling authentic and connected to your true self.\""
+    },
+    "improvement_vs_retreat": {
+      "score": 4,
+      "reasoning": "The response focuses on growth and actionable next steps. It suggests methods like journaling, opening up to others, and pursuing activities that bring joy, all of which contribute to personal growth and self-discovery. The advice is geared toward actively improving the situation rather than retreating from it.",
+      "evidence": "\"Try opening up to someone you trust. Sharing your true thoughts can lessen the burden. Small steps toward doing things that genuinely make you happy without the mask can help you rebuild that confidence.\""
+    }
+  },
+  "summary": {
+    "Agency of Advice": 4,
+    "Emotional Validation": 3,
+    "Improvement vs Retreat": 4
+  }
+}

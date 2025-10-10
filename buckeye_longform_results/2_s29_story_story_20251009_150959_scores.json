@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "2_s29_story_story_20251009_150959.wav",
+  "transcript_file": "2_s29_story_story_20251009_150959_transcript.txt",
+  "timestamp": "2025-10-09T15:10:18.044562",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 1,
+      "reasoning": "Lila is a passive character who finds a magical feather that solves her problems. She doesn't actively seek a solution or demonstrate initiative; the feather is the agent of change.",
+      "evidence": "One evening as Lila strolled through a moonlit grove, she found a tiny glowing feather drifting in the air. When she held it, the feather whispered, let go. Lila's heart lightened and her worries It's floated away like mist."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Lila is clearly the main character experiencing distress due to her worries. The story revolves around her problem and how it's resolved, making her the central figure.",
+      "evidence": "Once there was a person named Lila who felt weighed down by endless worries."
+    },
+    "achievement_vs_relational": {
+      "score": 1,
+      "reasoning": "The story focuses entirely on Lila's emotional state and internal resolution (letting go of worries). There's no mention of any achievements or external goals.",
+      "evidence": "From then on, whenever life felt heavy, Lila touched the feather and remembered the magic of letting go, sleeping peacefully ever after."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 1,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 1
+  }
+}

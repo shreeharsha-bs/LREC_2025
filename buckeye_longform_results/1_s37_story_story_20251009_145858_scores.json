@@ -1,0 +1,29 @@
+{
+  "task": "story",
+  "source_audio": "1_s37_story_story_20251009_145858.wav",
+  "transcript_file": "1_s37_story_story_20251009_145858_transcript.txt",
+  "timestamp": "2025-10-09T14:59:21.394267",
+  "model": "gemini-2.0-flash-exp",
+  "scores": {
+    "heroic_agency": {
+      "score": 4,
+      "reasoning": "Ellen demonstrates generally proactive behavior. She ventures into the woods despite her fear and faces the shadows, which indicates active participation in shaping the story. Her actions directly influence the resolution, calming the forest's restless spirits.",
+      "evidence": "Ellen wandered into the whispering woods and found a glowing feather...Though afraid, Ellen clutched the feather and ventured deeper, facing shadows...With each step, their voice grew stronger, and they calmed the forest's restless spirits."
+    },
+    "person_in_distress": {
+      "score": 4,
+      "reasoning": "Ellen is the main character and the driving force of the plot. The story revolves around her journey and her overcoming her fear to bring peace to the forest. Her actions are central to the story's progression and resolution.",
+      "evidence": "Once in a quiet village lived a gentle dreamer named Ellen...Though afraid, Ellen clutched the feather and ventured deeper, facing shadows...By dawn, Ellen emerged, now known as the village's bravest heart."
+    },
+    "achievement_vs_relational": {
+      "score": 5,
+      "reasoning": "The story heavily emphasizes Ellen's achievement in overcoming her fear and calming the forest spirits. There are minimal relational elements; the focus is primarily on her individual journey and her transformation into the village's bravest heart. The fox guides her but has no emotional connection.",
+      "evidence": "the feather of courage chooses you...With each step, their voice grew stronger, and they calmed the forest's restless spirits...By dawn, Ellen emerged, now known as the village's bravest heart."
+    }
+  },
+  "summary": {
+    "Heroic Agency": 4,
+    "Person in Distress": 4,
+    "Achievement vs Relational Arc": 5
+  }
+}
