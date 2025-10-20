@@ -95,8 +95,7 @@ for voice_quality in "${VOICE_QUALITIES[@]}"; do
                 fi
                 
                 # Step 5: Transcribe
-                AUDIO_NAME=$(basename "$GENERATED_AUDIO")
-                python 5_longform_transcribe.py "$AUDIO_NAME" "$TRANSCRIPT_FILE"
+                python 5_longform_transcribe.py "$GENERATED_AUDIO" "$TRANSCRIPT_FILE"
                 
                 if [ $? -ne 0 ]; then
                     echo "  ✗ Transcription failed"
@@ -105,6 +104,7 @@ for voice_quality in "${VOICE_QUALITIES[@]}"; do
                 fi
                 
                 # Step 6: Evaluate
+                AUDIO_NAME=$(basename "$GENERATED_AUDIO")
                 SCORES_NAME=$(basename "$SCORES_FILE")
                 python 6_longform_evaluate.py "$TRANSCRIPT_FILE" "$PIPELINE_TASK" "$AUDIO_NAME" "$SCORES_NAME"
                 

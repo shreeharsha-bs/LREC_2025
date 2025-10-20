@@ -57,7 +57,9 @@ class LongformTranscriber:
             transcript = result['text']
             
             # Save transcript
-            output_path = self.transcript_output_dir / output_filename
+            # Extract just the filename without directory path
+            output_basename = os.path.basename(output_filename)
+            output_path = self.transcript_output_dir / output_basename
             with open(output_path, 'w', encoding='utf-8') as f:
                 f.write(transcript)
             

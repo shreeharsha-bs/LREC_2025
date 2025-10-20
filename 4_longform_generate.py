@@ -56,7 +56,9 @@ class LongformGenerator:
     
     def save_audio_response(self, audio_data: bytes, output_filename: str) -> str:
         """Save audio response as WAV file."""
-        filepath = self.audio_output_dir / output_filename
+        # Extract just the filename without directory path
+        output_basename = os.path.basename(output_filename)
+        filepath = self.audio_output_dir / output_basename
         
         # Create proper WAV file with headers
         with wave.open(str(filepath), 'wb') as wav_file:
@@ -194,7 +196,9 @@ Provide a natural, helpful response in about 100 words. Do not include any evalu
             "text_prompt": task_config["text_prompt"],
             "timestamp": datetime.now().isoformat()
         }
-        metadata_filename = output_filename.replace('.wav', '_metadata.json')
+        # Extract just the filename without directory path
+        output_basename = os.path.basename(output_filename)
+        metadata_filename = output_basename.replace('.wav', '_metadata.json')
         self.save_metadata(metadata, metadata_filename)
         
         try:
