@@ -20,7 +20,7 @@ try:
     from google import genai
 except ImportError:
     print("✗ ERROR: Google Generative AI library not installed")
-    print("Install with: pip install google-generativeai")
+    print("Install with: pip install google-genai")
     exit(1)
 
 
@@ -310,7 +310,7 @@ Be thorough and specific in your reasoning and provide concrete evidence from th
         for attempt in range(max_retries):
             try:
                 response = self.gemini_client.models.generate_content(
-                    model="gemini-2.0-flash-exp",
+                    model="gemini-2.5-flash-lite",
                     contents=prompt,
                     config=generation_config
                 )
