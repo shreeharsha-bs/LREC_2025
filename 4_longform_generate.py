@@ -62,7 +62,7 @@ class LongformGenerator:
         with wave.open(str(filepath), 'wb') as wav_file:
             wav_file.setnchannels(1)  # mono
             wav_file.setsampwidth(2)  # 16-bit
-            wav_file.setframerate(16000)  # 16kHz (Whisper-friendly)
+            wav_file.setframerate(24000)  
             wav_file.writeframes(audio_data)
         
         print(f"✓ Saved audio response: {filepath}")
